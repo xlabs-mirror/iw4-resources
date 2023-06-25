@@ -17,5 +17,6 @@ invasion
 iw4_credits
 oilrig
 roadkill
+so_bridge
 so_ghillies
 trainer
