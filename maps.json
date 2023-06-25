@@ -6,9 +6,9 @@
                 "english": "Af Caves is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_af_caves",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_AF_CAVES",
@@ -19,11 +19,7 @@
                 "name": "preview_af_caves",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_caves.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "af_caves_wp.csv",
@@ -37,9 +33,9 @@
                 "english": "Af Chase is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_af_chase",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_AF_CHASE",
@@ -50,11 +46,7 @@
                 "name": "preview_af_chase",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_chase.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "af_chase_wp.csv",
@@ -68,9 +60,9 @@
                 "english": "Airport is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_airport",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_AIRPORT",
@@ -81,11 +73,7 @@
                 "name": "preview_airport",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/airport.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "275",
                 "file": "airport_wp.csv",
@@ -99,9 +87,9 @@
                 "english": "Arcadia is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_arcadia",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ARCADIA",
@@ -112,11 +100,7 @@
                 "name": "preview_arcadia",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/arcadia.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "257",
                 "file": "arcadia_wp.csv",
@@ -130,24 +114,20 @@
                 "english": "Scrapyard is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_boneyard",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BONEYARD",
                 "english": "Scrapyard"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_boneyard",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "boneyard_wp.csv",
@@ -161,9 +141,9 @@
                 "english": "Cliffhanger is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_cliffhanger",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CLIFFHANGER",
@@ -174,11 +154,7 @@
                 "name": "preview_cliffhanger",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "cliffhanger_wp.csv",
@@ -192,9 +168,9 @@
                 "english": "Large African village. Great for all game modes."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_co_hunted",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CO_HUNTED",
@@ -205,11 +181,7 @@
                 "name": "preview_co_hunted",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/co_hunted.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "177",
                 "file": "co_hunted_wp.csv",
@@ -223,9 +195,9 @@
                 "english": "Contingency is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_contingency",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CONTINGENCY",
@@ -236,11 +208,7 @@
                 "name": "preview_contingency",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "contingency_wp.csv",
@@ -254,9 +222,9 @@
                 "english": "Dcburning is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_dcburning",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_DCBURNING",
@@ -267,11 +235,7 @@
                 "name": "preview_dcburning",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcburning.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "dcburning_wp.csv",
@@ -285,9 +249,9 @@
                 "english": "Dcemp is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_dcemp",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_DCEMP",
@@ -298,11 +262,7 @@
                 "name": "preview_dcemp",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcemp.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "dcemp_wp.csv",
@@ -316,9 +276,9 @@
                 "english": "Ending is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_ending",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ENDING",
@@ -329,11 +289,7 @@
                 "name": "preview_ending",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/ending.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "ending_wp.csv",
@@ -353,9 +309,9 @@
                 "spanish": "Una choza en los bosques. Se lucha por su control."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_estate",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ESTATE",
@@ -366,11 +322,7 @@
                 "name": "preview_estate",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/estate.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "estate_wp.csv",
@@ -390,9 +342,9 @@
                 "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_favela",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FAVELA",
@@ -403,11 +355,7 @@
                 "name": "preview_favela",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "14",
                 "file": "favela_wp.csv",
@@ -421,9 +369,9 @@
                 "english": "Favela Escape is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_favela_escape",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FAVELA_ESCAPE",
@@ -434,11 +382,7 @@
                 "name": "preview_favela_escape",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela_escape.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "286",
                 "file": "favela_escape_wp.csv",
@@ -458,9 +402,9 @@
                 "spanish": "Pelea nocturna en una c\u00e1rcel. Luchas a gran escala en una prisi\u00f3n rusa."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_gulag",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_GULAG",
@@ -474,11 +418,7 @@
                 "name": "preview_gulag",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/gulag.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "gulag_wp.csv",
@@ -498,9 +438,9 @@
                 "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_invasion",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_INVASION",
@@ -511,11 +451,7 @@
                 "name": "preview_invasion",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "invasion_wp.csv",
@@ -529,9 +465,9 @@
                 "english": "Iw4 Credits is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_iw4_credits",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_IW4_CREDITS",
@@ -542,11 +478,7 @@
                 "name": "preview_iw4_credits",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/iw4_credits.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "iw4_credits_wp.csv",
@@ -559,9 +491,9 @@
                 "en": "Carnival is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_abandon",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "en": "Carnival"
@@ -571,11 +503,7 @@
                 "name": "preview_mp_abandon",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_abandon.png"
             },
-            "source": {
-                "md5": "",
-                "name": "",
-                "url": "http://dlc-store.rf.gd/IW4x.html#"
-            },
+            "source": "",
             "waypoints": {
                 "count": "387",
                 "file": "mp_abandon_wp.csv",
@@ -589,24 +517,20 @@
                 "english": "Abandonff is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_abandonff",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ABANDONFF",
                 "english": "Abandonff"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_abandonff",
-                "url": null
-            },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
                 "url": "None"
             },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_abandonff_wp.csv",
@@ -626,9 +550,9 @@
                 "spanish": "Un desierto de tama\u00f1o medio. Emocionantes batallas de demolici\u00f3n."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_afghan",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_AFGHAN",
@@ -639,11 +563,7 @@
                 "name": "preview_mp_afghan",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_afghan.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "292",
                 "file": "mp_afghan_wp.csv",
@@ -657,24 +577,20 @@
                 "english": "After Tchernobyl is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_after_tchernobyl",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_AFTER_TCHERNOBYL",
                 "english": "After Tchernobyl"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_after_tchernobyl",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_after_tchernobyl_wp.csv",
@@ -688,24 +604,20 @@
                 "english": "Ancient is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_ancient",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ANCIENT",
                 "english": "Ancient"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_ancient",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_ancient_wp.csv",
@@ -719,24 +631,20 @@
                 "english": "Arbor is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_arbor",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ARBOR",
                 "english": "Arbor"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_arbor",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_arbor_wp.csv",
@@ -756,9 +664,9 @@
                 "spanish": "Obra mediana. Gran nivel para todos los modos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_backlot",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BACKLOT",
@@ -775,11 +683,7 @@
                 "name": "preview_mp_backlot",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_backlot.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "178",
                 "file": "mp_backlot_wp.csv",
@@ -793,24 +697,20 @@
                 "english": "Backlot Snow is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_backlot_snow",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BACKLOT_SNOW",
                 "english": "Backlot Snow"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_backlot_snow",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_backlot_snow_wp.csv",
@@ -824,24 +724,20 @@
                 "english": "Bakaara is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bakaara",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BAKAARA",
                 "english": "Bakaara"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_bakaara",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "171",
                 "file": "mp_bakaara_wp.csv",
@@ -855,24 +751,20 @@
                 "english": "Bjwifi Aim is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bjwifi_aim",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BJWIFI_AIM",
                 "english": "Bjwifi Aim"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_bjwifi_aim",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_bjwifi_aim_wp.csv",
@@ -892,9 +784,9 @@
                 "spanish": "Bloque de apartamentos ruso grande. Partidas de Dominio intensas."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bloc",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BLOC",
@@ -910,11 +802,7 @@
                 "name": "preview_mp_bloc",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bloc.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "464",
                 "file": "mp_bloc_wp.csv",
@@ -928,9 +816,9 @@
                 "english": "Forgotten City is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bloc_sh",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BLOC_SH",
@@ -941,11 +829,7 @@
                 "name": "preview_mp_bloc_sh",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bloc_sh.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "464",
                 "file": "mp_bloc_sh_wp.csv",
@@ -959,24 +843,20 @@
                 "english": "Bo2Carrier is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bo2carrier",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BO2CARRIER",
                 "english": "Bo2Carrier"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_bo2carrier",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "299",
                 "file": "mp_bo2carrier_wp.csv",
@@ -990,24 +870,20 @@
                 "english": "Bo2Paintball is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bo2paintball",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BO2PAINTBALL",
                 "english": "Bo2Paintball"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_bo2paintball",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "227",
                 "file": "mp_bo2paintball_wp.csv",
@@ -1021,24 +897,20 @@
                 "english": "Bo2Yemen is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bo2yemen",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BO2YEMEN",
                 "english": "Bo2Yemen"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_bo2yemen",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "364",
                 "file": "mp_bo2yemen_wp.csv",
@@ -1058,9 +930,9 @@
                 "spanish": "Peque\u00f1a ci\u00e9naga en el desierto. Nivel abierto, excelente para grupos m\u00e1s peque\u00f1os."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_bog_sh",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BOG_SH",
@@ -1071,11 +943,7 @@
                 "name": "preview_mp_bog_sh",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bog_sh.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "210",
                 "file": "mp_bog_sh_wp.csv",
@@ -1089,9 +957,9 @@
                 "english": "Scrapyard is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_boneyard",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BONEYARD",
@@ -1102,11 +970,7 @@
                 "name": "preview_mp_boneyard",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_boneyard.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "238",
                 "file": "mp_boneyard_wp.csv",
@@ -1120,24 +984,20 @@
                 "english": "Box Hjacked is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_box_hjacked",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BOX_HJACKED",
                 "english": "Box Hjacked"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_box_hjacked",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "649",
                 "file": "mp_box_hjacked_wp.csv",
@@ -1157,9 +1017,9 @@
                 "spanish": "Chernobyl a campo abierto. Genial para francotiradores y tiroteos a larga distancia."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_brecourt",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BRECOURT",
@@ -1170,11 +1030,7 @@
                 "name": "preview_mp_brecourt",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_brecourt.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "324",
                 "file": "mp_brecourt_wp.csv",
@@ -1194,9 +1050,9 @@
                 "spanish": "Emisora de TV."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_broadcast",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BROADCAST",
@@ -1211,11 +1067,7 @@
                 "name": "preview_mp_broadcast",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_broadcast.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "287",
                 "file": "mp_broadcast_wp.csv",
@@ -1229,24 +1081,20 @@
                 "english": "Brokenroad is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_brokenroad",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BROKENROAD",
                 "english": "Brokenroad"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_brokenroad",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_brokenroad_wp.csv",
@@ -1260,24 +1108,20 @@
                 "english": "Burg is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_burg",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_BURG",
                 "english": "Burg"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_burg",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_burg_wp.csv",
@@ -1291,24 +1135,20 @@
                 "english": "C4S Minecraft is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_c4s_minecraft",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_C4S_MINECRAFT",
                 "english": "C4S Minecraft"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_c4s_minecraft",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_c4s_minecraft_wp.csv",
@@ -1322,9 +1162,9 @@
                 "english": "Chinatown is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_carentan",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CARENTAN",
@@ -1335,11 +1175,7 @@
                 "name": "preview_mp_carentan",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_carentan.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "285",
                 "file": "mp_carentan_wp.csv",
@@ -1353,24 +1189,20 @@
                 "english": "Carentan 2 is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_carentan_2",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CARENTAN_2",
                 "english": "Carentan 2"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_carentan_2",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_carentan_2_wp.csv",
@@ -1384,9 +1216,9 @@
                 "english": "Wet Work is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_cargoship",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CARGOSHIP",
@@ -1403,11 +1235,7 @@
                 "name": "preview_mp_cargoship",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cargoship.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "329",
                 "file": "mp_cargoship_wp.csv",
@@ -1421,9 +1249,9 @@
                 "english": "Freighter is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_cargoship_sh",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CARGOSHIP_SH",
@@ -1434,11 +1262,7 @@
                 "name": "preview_mp_cargoship_sh",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cargoship_sh.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_cargoship_sh_wp.csv",
@@ -1452,24 +1276,20 @@
                 "english": "Cc Night is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_cc_night",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CC_NIGHT",
                 "english": "Cc Night"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_cc_night",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_cc_night_wp.csv",
@@ -1483,9 +1303,9 @@
                 "english": "Karachi is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_checkpoint",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CHECKPOINT",
@@ -1497,11 +1317,7 @@
                 "name": "preview_mp_checkpoint",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_checkpoint.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "561",
                 "file": "mp_checkpoint_wp.csv",
@@ -1515,9 +1331,9 @@
                 "english": "District is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_citystreets",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CITYSTREETS",
@@ -1534,11 +1350,7 @@
                 "name": "preview_mp_citystreets",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_citystreets.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "206",
                 "file": "mp_citystreets_wp.csv",
@@ -1552,9 +1364,9 @@
                 "english": "Compact is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_compact",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_COMPACT",
@@ -1565,11 +1377,7 @@
                 "name": "preview_mp_compact",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_compact.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "333",
                 "file": "mp_compact_wp.csv",
@@ -1583,9 +1391,9 @@
                 "english": "Complex is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_complex",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_COMPLEX",
@@ -1596,11 +1404,7 @@
                 "name": "preview_mp_complex",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_complex.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "360",
                 "file": "mp_complex_wp.csv",
@@ -1614,9 +1418,9 @@
                 "english": "Ambush is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_convoy",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CONVOY",
@@ -1633,11 +1437,7 @@
                 "name": "preview_mp_convoy",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_convoy.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_convoy_wp.csv",
@@ -1657,9 +1457,9 @@
                 "spanish": "Plataforma de lanzamiento abierta. L\u00edneas de tiro despejadas y movimientos peligrosos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_countdown",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_COUNTDOWN",
@@ -1675,11 +1475,7 @@
                 "name": "preview_mp_countdown",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_countdown.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "197",
                 "file": "mp_countdown_wp.csv",
@@ -1699,9 +1495,9 @@
                 "spanish": "Sea Knight derribado en una ciudad des\u00e9rtica. Fant\u00e1stico para las partidas por equipos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_crash",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CRASH",
@@ -1717,11 +1513,7 @@
                 "name": "preview_mp_crash",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "316",
                 "file": "mp_crash_wp.csv",
@@ -1735,9 +1527,9 @@
                 "english": "Winter Crash is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_crash_snow",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CRASH_SNOW",
@@ -1748,11 +1540,7 @@
                 "name": "preview_mp_crash_snow",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash_snow.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "316",
                 "file": "mp_crash_snow_wp.csv",
@@ -1766,9 +1554,9 @@
                 "english": "Crash: Tropical is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_crash_tropical",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CRASH_TROPICAL",
@@ -1779,11 +1567,7 @@
                 "name": "preview_mp_crash_tropical",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash_tropical.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_crash_tropical_wp.csv",
@@ -1797,24 +1581,20 @@
                 "english": "Creek is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_creek",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CREEK",
                 "english": "Creek"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_creek",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "307",
                 "file": "mp_creek_wp.csv",
@@ -1828,9 +1608,9 @@
                 "english": "Cross Fire is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_cross_fire",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_CROSS_FIRE",
@@ -1841,11 +1621,7 @@
                 "name": "preview_mp_cross_fire",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cross_fire.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "444",
                 "file": "mp_cross_fire_wp.csv",
@@ -1865,9 +1641,9 @@
                 "spanish": "Escenario de un descarrilamiento en una amplia zona nevada. Batallas \u00e9picas a gran escala.\\n"
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_derail",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_DERAIL",
@@ -1878,11 +1654,7 @@
                 "name": "preview_mp_derail",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_derail.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "511",
                 "file": "mp_derail_wp.csv",
@@ -1896,9 +1668,9 @@
                 "english": "Small outpost in the desert. Fast and frantic action."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_dome",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_DOME",
@@ -1909,11 +1681,7 @@
                 "name": "preview_mp_dome",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_dome.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "172",
                 "file": "mp_dome_wp.csv",
@@ -1927,24 +1695,20 @@
                 "english": "Dust2 is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_dust2",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_DUST2",
                 "english": "Dust2"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_dust2",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "97",
                 "file": "mp_dust2_wp.csv",
@@ -1964,9 +1728,9 @@
                 "spanish": "Una choza en los bosques. Se lucha por su control."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_estate",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ESTATE",
@@ -1977,11 +1741,7 @@
                 "name": "preview_mp_estate",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "447",
                 "file": "mp_estate_wp.csv",
@@ -1995,9 +1755,9 @@
                 "english": "Estate: Tropical is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_estate_tropical",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ESTATE_TROPICAL",
@@ -2008,11 +1768,7 @@
                 "name": "preview_mp_estate_tropical",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate_tropical.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "447\r",
                 "file": "mp_estate_tropical_wp.csv",
@@ -2026,9 +1782,9 @@
                 "english": "Downpour is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_farm",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FARM",
@@ -2045,11 +1801,7 @@
                 "name": "preview_mp_farm",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_farm.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_farm_wp.csv",
@@ -2063,9 +1815,9 @@
                 "english": "Favela: Tropical is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_fav_tropical",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FAV_TROPICAL",
@@ -2076,11 +1828,7 @@
                 "name": "preview_mp_fav_tropical",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_fav_tropical.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "302\r",
                 "file": "mp_fav_tropical_wp.csv",
@@ -2100,9 +1848,9 @@
                 "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_favela",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FAVELA",
@@ -2113,11 +1861,7 @@
                 "name": "preview_mp_favela",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_favela.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "302",
                 "file": "mp_favela_wp.csv",
@@ -2131,9 +1875,9 @@
                 "english": "Firing Range is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_firingrange",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FIRINGRANGE",
@@ -2150,11 +1894,7 @@
                 "name": "preview_mp_firingrange",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_firingrange.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "249",
                 "file": "mp_firingrange_wp.csv",
@@ -2168,9 +1908,9 @@
                 "english": "Fuel2 is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_fuel2",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_FUEL2",
@@ -2181,11 +1921,7 @@
                 "name": "preview_mp_fuel2",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_fuel2.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "622",
                 "file": "mp_fuel2_wp.csv",
@@ -2205,9 +1941,9 @@
                 "spanish": "El tejado de un rascacielos. Fren\u00e9ticos juegos de Dominio."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_highrise",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_HIGHRISE",
@@ -2218,11 +1954,7 @@
                 "name": "preview_mp_highrise",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_highrise.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "422",
                 "file": "mp_highrise_wp.csv",
@@ -2242,9 +1974,9 @@
                 "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_invasion",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_INVASION",
@@ -2255,11 +1987,7 @@
                 "name": "preview_mp_invasion",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_invasion.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "603",
                 "file": "mp_invasion_wp.csv",
@@ -2273,9 +2001,9 @@
                 "english": "Killhouse is a very small map from the Variety Map Pack of Call of Duty 4: Modern Warfare.  It is the home to very fierce battles as the map is no larger than Shipment."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_killhouse",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_KILLHOUSE",
@@ -2286,11 +2014,7 @@
                 "name": "preview_mp_killhouse",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_killhouse.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "181",
                 "file": "mp_killhouse_wp.csv",
@@ -2304,24 +2028,20 @@
                 "english": "Lost is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_lost",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_LOST",
                 "english": "Lost"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_lost",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_lost_wp.csv",
@@ -2335,24 +2055,20 @@
                 "english": "Luna2 is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_luna2",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_LUNA2",
                 "english": "Luna2"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_luna2",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_luna2_wp.csv",
@@ -2372,9 +2088,9 @@
                 "spanish": "Una batalla urbana. Enfrentamientos a corta distancia por los apartamentos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_nightshift",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_NIGHTSHIFT",
@@ -2385,11 +2101,7 @@
                 "name": "preview_mp_nightshift",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nightshift.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "283",
                 "file": "mp_nightshift_wp.csv",
@@ -2403,9 +2115,9 @@
                 "english": "Nuketown is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_nuked",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_NUKED",
@@ -2416,11 +2128,7 @@
                 "name": "preview_mp_nuked",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nuked.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "238",
                 "file": "mp_nuked_wp.csv",
@@ -2434,24 +2142,20 @@
                 "english": "Nuked Shaders is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_nuked_shaders",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_NUKED_SHADERS",
                 "english": "Nuked Shaders"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_nuked_shaders",
-                "url": null
-            },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
                 "url": "None"
             },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_nuked_shaders_wp.csv",
@@ -2471,9 +2175,9 @@
                 "spanish": "Zona rural rusa extensa. Los trajes de camuflaje para francotiradores resultan \u00fatiles..."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_overgrown",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_OVERGROWN",
@@ -2490,11 +2194,7 @@
                 "name": "preview_mp_overgrown",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_overgrown.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "558",
                 "file": "mp_overgrown_wp.csv",
@@ -2514,9 +2214,9 @@
                 "spanish": "Estaci\u00f3n de tren rusa. Excelente para las partidas por equipos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_pipeline",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_PIPELINE",
@@ -2531,11 +2231,7 @@
                 "name": "preview_mp_pipeline",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_pipeline.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "None",
                 "file": "mp_pipeline_wp.csv",
@@ -2555,9 +2251,9 @@
                 "spanish": "Una cantera de tama\u00f1o medio. Emocionantes partidas de Tomar la bandera."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_quarry",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_QUARRY",
@@ -2568,11 +2264,7 @@
                 "name": "preview_mp_quarry",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_quarry.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "521",
                 "file": "mp_quarry_wp.csv",
@@ -2592,9 +2284,9 @@
                 "spanish": "Un pueblo brasile\u00f1o. Se lucha desde todos los \u00e1ngulos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_rundown",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_RUNDOWN",
@@ -2605,11 +2297,7 @@
                 "name": "preview_mp_rundown",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rundown.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "440",
                 "file": "mp_rundown_wp.csv",
@@ -2629,9 +2317,9 @@
                 "spanish": "Una ligera tormenta de arena en el desierto. Acci\u00f3n rapid\u00edsima en un mapa muy peque\u00f1o."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_rust",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_RUST",
@@ -2642,11 +2330,7 @@
                 "name": "preview_mp_rust",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "192",
                 "file": "mp_rust_wp.csv",
@@ -2660,9 +2344,9 @@
                 "english": "Rust: Long is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_rust_long",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_RUST_LONG",
@@ -2673,11 +2357,7 @@
                 "name": "preview_mp_rust_long",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust_long.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "180",
                 "file": "mp_rust_long_wp.csv",
@@ -2691,9 +2371,9 @@
                 "english": "A coastal town.  Narrow streets bring hectic, close encounters."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_seatown",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SEATOWN",
@@ -2704,11 +2384,7 @@
                 "name": "preview_mp_seatown",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_seatown.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "284",
                 "file": "mp_seatown_wp.csv",
@@ -2728,9 +2404,9 @@
                 "spanish": "Astillero ruso peque\u00f1o. Acci\u00f3n vertiginosa sin escondites."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_shipment",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SHIPMENT",
@@ -2747,11 +2423,7 @@
                 "name": "preview_mp_shipment",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_shipment.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "78",
                 "file": "mp_shipment_wp.csv",
@@ -2765,9 +2437,9 @@
                 "english": "Shipment: Long is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_shipment_long",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SHIPMENT_LONG",
@@ -2778,11 +2450,7 @@
                 "name": "preview_mp_shipment_long",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_shipment_long.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "122",
                 "file": "mp_shipment_long_wp.csv",
@@ -2802,9 +2470,9 @@
                 "spanish": "Peque\u00f1o escenario des\u00e9rtico. Partidas vertiginosas para pocos jugadores."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_showdown",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SHOWDOWN",
@@ -2820,11 +2488,7 @@
                 "name": "preview_mp_showdown",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_showdown.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "115",
                 "file": "mp_showdown_wp.csv",
@@ -2838,9 +2502,9 @@
                 "english": "Storm is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_storm",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_STORM",
@@ -2851,11 +2515,7 @@
                 "name": "preview_mp_storm",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_storm.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "392",
                 "file": "mp_storm_wp.csv",
@@ -2869,9 +2529,9 @@
                 "english": "Chemical Plant is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_storm_spring",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_STORM_SPRING",
@@ -2882,11 +2542,7 @@
                 "name": "preview_mp_storm_spring",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_storm_spring.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "392",
                 "file": "mp_storm_spring_wp.csv",
@@ -2900,24 +2556,20 @@
                 "english": "Stream is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_stream",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_STREAM",
                 "english": "Stream"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_stream",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_stream_wp.csv",
@@ -2937,9 +2589,9 @@
                 "spanish": "Ciudad des\u00e9rtica grande. Excelente para las partidas por equipos."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_strike",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_STRIKE",
@@ -2956,11 +2608,7 @@
                 "name": "preview_mp_strike",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_strike.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "525",
                 "file": "mp_strike_wp.csv",
@@ -2974,9 +2622,9 @@
                 "english": "Sub Base is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_subbase",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SUBBASE",
@@ -2987,11 +2635,7 @@
                 "name": "preview_mp_subbase",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_subbase.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "347",
                 "file": "mp_subbase_wp.csv",
@@ -3005,24 +2649,20 @@
                 "english": "Summit is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_summit",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SUMMIT",
                 "english": "Summit"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_summit",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "222",
                 "file": "mp_summit_wp.csv",
@@ -3036,24 +2676,20 @@
                 "english": "Tatooine is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_tatooine",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TATOOINE",
                 "english": "Tatooine"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_tatooine",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_tatooine_wp.csv",
@@ -3073,9 +2709,9 @@
                 "spanish": "Un aeropuerto de tama\u00f1o medio. Genial para todos los modos de juego."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_terminal",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TERMINAL",
@@ -3086,11 +2722,7 @@
                 "name": "preview_mp_terminal",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_terminal.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "289",
                 "file": "mp_terminal_wp.csv",
@@ -3104,24 +2736,20 @@
                 "english": "Toujane V2 is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_toujane_v2",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TOUJANE_V2",
                 "english": "Toujane V2"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_toujane_v2",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "279",
                 "file": "mp_toujane_v2_wp.csv",
@@ -3135,9 +2763,9 @@
                 "english": "Trailerpark is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_trailerpark",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TRAILERPARK",
@@ -3148,11 +2776,7 @@
                 "name": "preview_mp_trailerpark",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_trailerpark.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "300",
                 "file": "mp_trailerpark_wp.csv",
@@ -3166,24 +2790,20 @@
                 "english": "Tunisia is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_tunisia",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TUNISIA",
                 "english": "Tunisia"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_tunisia",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "None",
                 "file": "mp_tunisia_wp.csv",
@@ -3203,9 +2823,9 @@
                 "spanish": "Un paso subterr\u00e1neo bajo la lluvia. Buen equilibrio de enfrentamientos a media y a larga distancia."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_underpass",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_UNDERPASS",
@@ -3216,11 +2836,7 @@
                 "name": "preview_mp_underpass",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_underpass.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "415",
                 "file": "mp_underpass_wp.csv",
@@ -3240,9 +2856,9 @@
                 "spanish": "Oficina abandonada rusa. Luchas intensas en interiores."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_vacant",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_VACANT",
@@ -3259,11 +2875,7 @@
                 "name": "preview_mp_vacant",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_vacant.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Base Game / DLC",
-                "url": "None"
-            },
+            "source": "Base Game / DLC",
             "waypoints": {
                 "count": "258",
                 "file": "mp_vacant_wp.csv",
@@ -3277,24 +2889,20 @@
                 "english": "Waw Castle is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_mp_waw_castle",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_WAW_CASTLE",
                 "english": "Waw Castle"
             },
             "preview": {
-                "base64": null,
+                "base64": "None",
                 "name": "preview_mp_waw_castle",
-                "url": null
+                "url": "None"
             },
-            "source": {
-                "md5": "None",
-                "name": "Custom Maps",
-                "url": "https://tinyurl.com/iw4xmaps"
-            },
+            "source": "Custom Maps",
             "waypoints": {
                 "count": "255",
                 "file": "mp_waw_castle_wp.csv",
@@ -3308,9 +2916,9 @@
                 "english": "Oil Rig is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_oilrig",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_OILRIG",
@@ -3327,11 +2935,7 @@
                 "name": "preview_oilrig",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "157",
                 "file": "oilrig_wp.csv",
@@ -3345,9 +2949,9 @@
                 "english": "Roadkill is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_roadkill",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_ROADKILL",
@@ -3358,11 +2962,7 @@
                 "name": "preview_roadkill",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/roadkill.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "268",
                 "file": "roadkill_wp.csv",
@@ -3376,9 +2976,9 @@
                 "english": "So Ghillies is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_so_ghillies",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_SO_GHILLIES",
@@ -3389,11 +2989,7 @@
                 "name": "preview_so_ghillies",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_ghillies.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "so_ghillies_wp.csv",
@@ -3407,9 +3003,9 @@
                 "english": "Trainer is a map for Call of Duty: Modern Warfare 2."
             },
             "minimap": {
-                "base64": null,
+                "base64": "None",
                 "name": "compass_map_trainer",
-                "url": null
+                "url": "None"
             },
             "name": {
                 "_key": "MPUI_TRAINER",
@@ -3420,11 +3016,7 @@
                 "name": "preview_trainer",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/trainer.png"
             },
-            "source": {
-                "md5": "None",
-                "name": "Single Player",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
-            },
+            "source": "Single Player",
             "waypoints": {
                 "count": "None",
                 "file": "trainer_wp.csv",

@@ -1,0 +1,16 @@
+mp_nuked
+mp_cross_fire
+mp_cargoship
+mp_bloc_sh
+mp_killhouse
+mp_bog_sh
+mp_cargoship_sh
+mp_shipment
+mp_shipment_long
+mp_rust_long
+mp_firingrange
+mp_bloc
+mp_crash_tropical
+mp_estate_tropical
+mp_fav_tropical
+mp_storm_spring
