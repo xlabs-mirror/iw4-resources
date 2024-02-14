@@ -22,8 +22,8 @@
       },
       "waypoints": {
         "file": "af_caves_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_caves_wp.csv",
         "count": 212,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_caves_wp.csv",
         "md5": "5fae734282f0139d8c0650e65ac93149"
       }
     },
@@ -49,8 +49,8 @@
       },
       "waypoints": {
         "file": "af_chase_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_chase_wp.csv",
         "count": 88,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_chase_wp.csv",
         "md5": "5ceac89ef46ca2a75f942b07cb90c113"
       }
     },
@@ -76,8 +76,8 @@
       },
       "waypoints": {
         "file": "airport_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/airport_wp.csv",
         "count": 275,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/airport_wp.csv",
         "md5": "59148528c2030071c5b31d897253304d"
       }
     },
@@ -103,8 +103,8 @@
       },
       "waypoints": {
         "file": "arcadia_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/arcadia_wp.csv",
         "count": 257,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/arcadia_wp.csv",
         "md5": "891524c4a3a2f3e48baeb4f41b08d0d8"
       }
     },
@@ -129,8 +129,8 @@
       },
       "waypoints": {
         "file": "boneyard_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv",
         "count": 45,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv",
         "md5": "b5929f0be3c4d1189e7147ddf40b39fa"
       }
     },
@@ -156,8 +156,8 @@
       },
       "waypoints": {
         "file": "cliffhanger_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv",
         "count": 263,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv",
         "md5": "139f31fb424c703a1ad47c1cf50d98dc"
       }
     },
@@ -183,8 +183,8 @@
       },
       "waypoints": {
         "file": "co_hunted_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/co_hunted_wp.csv",
         "count": 178,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/co_hunted_wp.csv",
         "md5": "8acf7d0dafb20de4fde29b313af9da7f"
       }
     },
@@ -210,8 +210,8 @@
       },
       "waypoints": {
         "file": "contingency_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv",
         "count": 166,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv",
         "md5": "833a3321486bb033b5b4237820d14a4b"
       }
     },
@@ -236,10 +236,7 @@
         "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
       },
       "waypoints": {
-        "file": "dcburning_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/dcburning_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "dcburning_wp.csv"
       }
     },
     "dcemp": {
@@ -263,10 +260,7 @@
         "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
       },
       "waypoints": {
-        "file": "dcemp_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/dcemp_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "dcemp_wp.csv"
       }
     },
     "ending": {
@@ -291,8 +285,8 @@
       },
       "waypoints": {
         "file": "ending_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/ending_wp.csv",
         "count": 20,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/ending_wp.csv",
         "md5": "aaea74a94d6a1d678b3901a798672b34"
       }
     },
@@ -323,10 +317,7 @@
         "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
       },
       "waypoints": {
-        "file": "estate_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/estate_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "estate_wp.csv"
       }
     },
     "favela": {
@@ -357,8 +348,8 @@
       },
       "waypoints": {
         "file": "favela_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv",
         "count": 14,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv",
         "md5": "730cef9689a99d612c000672149e799b"
       }
     },
@@ -384,8 +375,8 @@
       },
       "waypoints": {
         "file": "favela_escape_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_escape_wp.csv",
         "count": 286,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_escape_wp.csv",
         "md5": "25402d4ed3920503f7d14221038168de"
       }
     },
@@ -420,8 +411,8 @@
       },
       "waypoints": {
         "file": "gulag_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/gulag_wp.csv",
         "count": 252,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/gulag_wp.csv",
         "md5": "dcf71a0e3223e48bb722ca3697d44483"
       }
     },
@@ -452,10 +443,7 @@
         "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
       },
       "waypoints": {
-        "file": "invasion_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/invasion_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "invasion_wp.csv"
       }
     },
     "iw4_credits": {
@@ -479,10 +467,7 @@
         "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
       },
       "waypoints": {
-        "file": "iw4_credits_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/iw4_credits_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "iw4_credits_wp.csv"
       }
     },
     "mp_abandon": {
@@ -507,8 +492,8 @@
       },
       "waypoints": {
         "file": "mp_abandon_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_abandon_wp.csv",
         "count": 388,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_abandon_wp.csv",
         "md5": "655f2b18df83af21229768be63e07339"
       }
     },
@@ -531,10 +516,7 @@
         "name": "Base Game / DLC"
       },
       "waypoints": {
-        "file": "mp_abandonff_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_abandonff_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_abandonff_wp.csv"
       }
     },
     "mp_afghan": {
@@ -564,8 +546,8 @@
       },
       "waypoints": {
         "file": "mp_afghan_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_afghan_wp.csv",
         "count": 293,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_afghan_wp.csv",
         "md5": "5f1e2d7d4d751d91cafe02eff6fe5fe6"
       }
     },
@@ -589,10 +571,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_after_tchernobyl_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_after_tchernobyl_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_after_tchernobyl_wp.csv"
       }
     },
     "mp_alpha": {
@@ -617,8 +596,8 @@
       },
       "waypoints": {
         "file": "mp_alpha_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_alpha_wp.csv",
         "count": 230,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_alpha_wp.csv",
         "md5": "db0f20cab77d19b456b67026e8a02863"
       }
     },
@@ -642,10 +621,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_ancient_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_ancient_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_ancient_wp.csv"
       }
     },
     "mp_arbor": {
@@ -668,10 +644,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_arbor_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_arbor_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_arbor_wp.csv"
       }
     },
     "mp_backlot": {
@@ -708,8 +681,8 @@
       },
       "waypoints": {
         "file": "mp_backlot_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_wp.csv",
         "count": 179,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_wp.csv",
         "md5": "bb515d0706aba0a188cfda08853299e7"
       }
     },
@@ -734,8 +707,8 @@
       },
       "waypoints": {
         "file": "mp_backlot_snow_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_snow_wp.csv",
         "count": 178,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_snow_wp.csv",
         "md5": "5d17b9d0f77073c14b6642f8411174ca"
       }
     },
@@ -760,8 +733,8 @@
       },
       "waypoints": {
         "file": "mp_bakaara_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bakaara_wp.csv",
         "count": 172,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bakaara_wp.csv",
         "md5": "11f175be80eaa94c6319ab6993300748"
       }
     },
@@ -786,8 +759,8 @@
       },
       "waypoints": {
         "file": "mp_bjwifi_aim_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bjwifi_aim_wp.csv",
         "count": 190,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bjwifi_aim_wp.csv",
         "md5": "a37db0cfd0537aeccf4ae15db7bb641d"
       }
     },
@@ -824,8 +797,8 @@
       },
       "waypoints": {
         "file": "mp_bloc_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_wp.csv",
         "count": 465,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_wp.csv",
         "md5": "b5fd4d828898ad5cf8a4f52d25f8d125"
       }
     },
@@ -851,8 +824,8 @@
       },
       "waypoints": {
         "file": "mp_bloc_sh_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_sh_wp.csv",
         "count": 465,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_sh_wp.csv",
         "md5": "b5fd4d828898ad5cf8a4f52d25f8d125"
       }
     },
@@ -877,8 +850,8 @@
       },
       "waypoints": {
         "file": "mp_bo2carrier_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2carrier_wp.csv",
         "count": 300,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2carrier_wp.csv",
         "md5": "268be658f1e97d2684f6daff1da08817"
       }
     },
@@ -903,8 +876,8 @@
       },
       "waypoints": {
         "file": "mp_bo2paintball_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2paintball_wp.csv",
         "count": 228,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2paintball_wp.csv",
         "md5": "968d019a72d55ce45dd1943f085f9be4"
       }
     },
@@ -929,8 +902,8 @@
       },
       "waypoints": {
         "file": "mp_bo2yemen_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2yemen_wp.csv",
         "count": 365,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2yemen_wp.csv",
         "md5": "ae34cea8a09eae85b14f4025bcf887d6"
       }
     },
@@ -962,8 +935,8 @@
       },
       "waypoints": {
         "file": "mp_bog_sh_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bog_sh_wp.csv",
         "count": 211,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bog_sh_wp.csv",
         "md5": "8788e5aeb1b2ce43214db97308deb3ad"
       }
     },
@@ -988,8 +961,8 @@
       },
       "waypoints": {
         "file": "mp_boneyard_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_boneyard_wp.csv",
         "count": 239,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_boneyard_wp.csv",
         "md5": "f60890280b581cb98f4a376936643949"
       }
     },
@@ -1014,8 +987,8 @@
       },
       "waypoints": {
         "file": "mp_box_hjacked_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_box_hjacked_wp.csv",
         "count": 650,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_box_hjacked_wp.csv",
         "md5": "716100fb54612b8db970ca9c7da54d0c"
       }
     },
@@ -1041,8 +1014,8 @@
       },
       "waypoints": {
         "file": "mp_bravo_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bravo_wp.csv",
         "count": 238,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bravo_wp.csv",
         "md5": "0e05db3601617be26b267f2c5229d17d"
       }
     },
@@ -1073,8 +1046,8 @@
       },
       "waypoints": {
         "file": "mp_brecourt_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_brecourt_wp.csv",
         "count": 325,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_brecourt_wp.csv",
         "md5": "e9b6ddb5fe67c1c7acf2c24ac5d4f660"
       }
     },
@@ -1110,8 +1083,8 @@
       },
       "waypoints": {
         "file": "mp_broadcast_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_broadcast_wp.csv",
         "count": 288,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_broadcast_wp.csv",
         "md5": "f953482ba7e88275589fe7b71bddad22"
       }
     },
@@ -1135,10 +1108,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_brokenroad_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_brokenroad_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_brokenroad_wp.csv"
       }
     },
     "mp_burg": {
@@ -1161,10 +1131,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_burg_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_burg_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_burg_wp.csv"
       }
     },
     "mp_c4s_minecraft": {
@@ -1187,10 +1154,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_c4s_minecraft_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_c4s_minecraft_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_c4s_minecraft_wp.csv"
       }
     },
     "mp_carentan": {
@@ -1215,8 +1179,8 @@
       },
       "waypoints": {
         "file": "mp_carentan_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_wp.csv",
         "count": 286,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_wp.csv",
         "md5": "1a22e2fdd70459c5f66af42320fe5595"
       }
     },
@@ -1241,8 +1205,8 @@
       },
       "waypoints": {
         "file": "mp_carentan_2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_2_wp.csv",
         "count": 337,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_2_wp.csv",
         "md5": "34574afc9b2460f1efb34f3a7fbe10ef"
       }
     },
@@ -1274,8 +1238,8 @@
       },
       "waypoints": {
         "file": "mp_cargoship_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_wp.csv",
         "count": 330,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_wp.csv",
         "md5": "03b01d0c82a177f3c662d59de0258f88"
       }
     },
@@ -1301,8 +1265,8 @@
       },
       "waypoints": {
         "file": "mp_cargoship_sh_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_sh_wp.csv",
         "count": 235,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_sh_wp.csv",
         "md5": "2cbd120e36c7bf625fcdbb3536e9d8c2"
       }
     },
@@ -1326,10 +1290,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_cc_night_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cc_night_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_cc_night_wp.csv"
       }
     },
     "mp_checkpoint": {
@@ -1354,8 +1315,8 @@
       },
       "waypoints": {
         "file": "mp_checkpoint_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_checkpoint_wp.csv",
         "count": 562,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_checkpoint_wp.csv",
         "md5": "d7e20a875320d0f453a2a87e49d9cc39"
       }
     },
@@ -1387,8 +1348,8 @@
       },
       "waypoints": {
         "file": "mp_citystreets_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_citystreets_wp.csv",
         "count": 207,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_citystreets_wp.csv",
         "md5": "e250207ef9985f7152e5ee7e8ff6ae4e"
       }
     },
@@ -1414,8 +1375,8 @@
       },
       "waypoints": {
         "file": "mp_compact_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_compact_wp.csv",
         "count": 334,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_compact_wp.csv",
         "md5": "4c46a0f5598045cd8ca86004f4cc6039"
       }
     },
@@ -1441,8 +1402,8 @@
       },
       "waypoints": {
         "file": "mp_complex_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_complex_wp.csv",
         "count": 361,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_complex_wp.csv",
         "md5": "d5f24eaef43c1884f3d976a7d33ab177"
       }
     },
@@ -1474,8 +1435,8 @@
       },
       "waypoints": {
         "file": "mp_convoy_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_convoy_wp.csv",
         "count": 239,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_convoy_wp.csv",
         "md5": "46f66c2df013fb882d99c989d9f936eb"
       }
     },
@@ -1512,8 +1473,8 @@
       },
       "waypoints": {
         "file": "mp_countdown_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_countdown_wp.csv",
         "count": 198,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_countdown_wp.csv",
         "md5": "24161ffe37815359d7a9ff80d8bd2854"
       }
     },
@@ -1550,8 +1511,8 @@
       },
       "waypoints": {
         "file": "mp_crash_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_wp.csv",
         "count": 317,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_wp.csv",
         "md5": "7b94d26c0e7a04fffe1c763d476f8b7e"
       }
     },
@@ -1577,8 +1538,8 @@
       },
       "waypoints": {
         "file": "mp_crash_snow_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_snow_wp.csv",
         "count": 317,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_snow_wp.csv",
         "md5": "7b94d26c0e7a04fffe1c763d476f8b7e"
       }
     },
@@ -1603,10 +1564,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_crash_tropical_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_tropical_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_crash_tropical_wp.csv"
       }
     },
     "mp_creek": {
@@ -1630,8 +1588,8 @@
       },
       "waypoints": {
         "file": "mp_creek_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_creek_wp.csv",
         "count": 308,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_creek_wp.csv",
         "md5": "260847e8ba723b0690c8134fd0f1be00"
       }
     },
@@ -1657,8 +1615,8 @@
       },
       "waypoints": {
         "file": "mp_cross_fire_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cross_fire_wp.csv",
         "count": 445,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cross_fire_wp.csv",
         "md5": "15352649d68099428a89c1031fdcfa30"
       }
     },
@@ -1689,8 +1647,8 @@
       },
       "waypoints": {
         "file": "mp_derail_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_derail_wp.csv",
         "count": 512,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_derail_wp.csv",
         "md5": "2859e24159a9966e5521f0bb701eb667"
       }
     },
@@ -1716,8 +1674,8 @@
       },
       "waypoints": {
         "file": "mp_dome_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dome_wp.csv",
         "count": 210,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dome_wp.csv",
         "md5": "bc4cd39e439292c7d26a09a7d3cbfa31"
       }
     },
@@ -1742,8 +1700,8 @@
       },
       "waypoints": {
         "file": "mp_dust2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dust2_wp.csv",
         "count": 98,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dust2_wp.csv",
         "md5": "f64e12822ff071d287967c2cb127d607"
       }
     },
@@ -1774,8 +1732,8 @@
       },
       "waypoints": {
         "file": "mp_estate_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_wp.csv",
         "count": 448,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_wp.csv",
         "md5": "e5f603263401a762bf71d7e36b82e1c2"
       }
     },
@@ -1801,8 +1759,8 @@
       },
       "waypoints": {
         "file": "mp_estate_tropical_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_tropical_wp.csv",
         "count": 448,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_tropical_wp.csv",
         "md5": "e5f603263401a762bf71d7e36b82e1c2"
       }
     },
@@ -1834,8 +1792,8 @@
       },
       "waypoints": {
         "file": "mp_farm_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_farm_wp.csv",
         "count": 242,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_farm_wp.csv",
         "md5": "9c94b36a5dd8cf4c8a33b26cda4763be"
       }
     },
@@ -1861,8 +1819,8 @@
       },
       "waypoints": {
         "file": "mp_fav_tropical_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fav_tropical_wp.csv",
         "count": 303,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fav_tropical_wp.csv",
         "md5": "c69c1b3a068d04bb1b7f19870e5812a6"
       }
     },
@@ -1893,8 +1851,8 @@
       },
       "waypoints": {
         "file": "mp_favela_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_favela_wp.csv",
         "count": 303,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_favela_wp.csv",
         "md5": "c69c1b3a068d04bb1b7f19870e5812a6"
       }
     },
@@ -1926,8 +1884,8 @@
       },
       "waypoints": {
         "file": "mp_firingrange_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_firingrange_wp.csv",
         "count": 250,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_firingrange_wp.csv",
         "md5": "6bc840f7a8cdfc9cb5cfb9188d8a7c0d"
       }
     },
@@ -1953,8 +1911,8 @@
       },
       "waypoints": {
         "file": "mp_fuel2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fuel2_wp.csv",
         "count": 623,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fuel2_wp.csv",
         "md5": "2fd336e7294ce1b122132fa394209077"
       }
     },
@@ -1980,8 +1938,8 @@
       },
       "waypoints": {
         "file": "mp_hardhat_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_hardhat_wp.csv",
         "count": 195,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_hardhat_wp.csv",
         "md5": "5f24a9b836bda37a9880b3363780af01"
       }
     },
@@ -2012,8 +1970,8 @@
       },
       "waypoints": {
         "file": "mp_highrise_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_highrise_wp.csv",
         "count": 423,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_highrise_wp.csv",
         "md5": "1a8863643dfcae76fb326600bcc5c97c"
       }
     },
@@ -2044,8 +2002,8 @@
       },
       "waypoints": {
         "file": "mp_invasion_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_invasion_wp.csv",
         "count": 604,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_invasion_wp.csv",
         "md5": "6b6cf7be72cae7d1ed4d71a7f58210dc"
       }
     },
@@ -2071,8 +2029,8 @@
       },
       "waypoints": {
         "file": "mp_killhouse_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_killhouse_wp.csv",
         "count": 182,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_killhouse_wp.csv",
         "md5": "db51295b7cc696cca775ba76171a3b5e"
       }
     },
@@ -2096,10 +2054,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_lost_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_lost_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_lost_wp.csv"
       }
     },
     "mp_luna2": {
@@ -2123,8 +2078,8 @@
       },
       "waypoints": {
         "file": "mp_luna2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_luna2_wp.csv",
         "count": 371,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_luna2_wp.csv",
         "md5": "0e44b2f5e1d896c50c6cc9b578db72ab"
       }
     },
@@ -2155,8 +2110,8 @@
       },
       "waypoints": {
         "file": "mp_nightshift_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nightshift_wp.csv",
         "count": 284,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nightshift_wp.csv",
         "md5": "6526cb77d1db9ffcc7d54cf046ec303c"
       }
     },
@@ -2182,8 +2137,8 @@
       },
       "waypoints": {
         "file": "mp_nuked_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nuked_wp.csv",
         "count": 239,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nuked_wp.csv",
         "md5": "9624dba40792dc701a28665ef46b023e"
       }
     },
@@ -2206,10 +2161,7 @@
         "name": "Base Game / DLC"
       },
       "waypoints": {
-        "file": "mp_nuked_shaders_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nuked_shaders_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_nuked_shaders_wp.csv"
       }
     },
     "mp_overgrown": {
@@ -2246,8 +2198,8 @@
       },
       "waypoints": {
         "file": "mp_overgrown_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_overgrown_wp.csv",
         "count": 559,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_overgrown_wp.csv",
         "md5": "8bd4cbb60489f606a4f7a13070fe0c69"
       }
     },
@@ -2273,8 +2225,8 @@
       },
       "waypoints": {
         "file": "mp_paris_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_paris_wp.csv",
         "count": 284,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_paris_wp.csv",
         "md5": "df51a7e011961990204b195ec6fce3c8"
       }
     },
@@ -2310,8 +2262,8 @@
       },
       "waypoints": {
         "file": "mp_pipeline_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_pipeline_wp.csv",
         "count": 318,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_pipeline_wp.csv",
         "md5": "dfc79ff68ffde8d8eed3c3a5c88cd010"
       }
     },
@@ -2337,8 +2289,8 @@
       },
       "waypoints": {
         "file": "mp_plaza2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_plaza2_wp.csv",
         "count": 132,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_plaza2_wp.csv",
         "md5": "793900a2aa8827ea734f7a3db143e098"
       }
     },
@@ -2369,8 +2321,8 @@
       },
       "waypoints": {
         "file": "mp_quarry_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_quarry_wp.csv",
         "count": 519,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_quarry_wp.csv",
         "md5": "ab009d13aa4df9213258b0aac15683b6"
       }
     },
@@ -2401,8 +2353,8 @@
       },
       "waypoints": {
         "file": "mp_rundown_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rundown_wp.csv",
         "count": 441,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rundown_wp.csv",
         "md5": "3ce5c2ddc4c8fdfa1e126610cad8fdb7"
       }
     },
@@ -2433,8 +2385,8 @@
       },
       "waypoints": {
         "file": "mp_rust_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_wp.csv",
         "count": 193,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_wp.csv",
         "md5": "7aa6bebc2414aaa0d7c29c0a924e8f7c"
       }
     },
@@ -2460,8 +2412,8 @@
       },
       "waypoints": {
         "file": "mp_rust_long_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_long_wp.csv",
         "count": 181,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_long_wp.csv",
         "md5": "3283ce6f056fee868729a3556bf064f6"
       }
     },
@@ -2487,8 +2439,8 @@
       },
       "waypoints": {
         "file": "mp_seatown_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_seatown_wp.csv",
         "count": 375,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_seatown_wp.csv",
         "md5": "1e608740e278fb93dee22ccaceae21ee"
       }
     },
@@ -2526,8 +2478,8 @@
       },
       "waypoints": {
         "file": "mp_shipment_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_wp.csv",
         "count": 79,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_wp.csv",
         "md5": "197348bfa6fc044a8c8d2f5fbe886e2a"
       }
     },
@@ -2553,8 +2505,8 @@
       },
       "waypoints": {
         "file": "mp_shipment_long_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_long_wp.csv",
         "count": 123,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_long_wp.csv",
         "md5": "29dc45742396486d781915a75c2e6a40"
       }
     },
@@ -2591,8 +2543,8 @@
       },
       "waypoints": {
         "file": "mp_showdown_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_showdown_wp.csv",
         "count": 116,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_showdown_wp.csv",
         "md5": "15c4d58425384a3004643de5683ca34c"
       }
     },
@@ -2618,8 +2570,8 @@
       },
       "waypoints": {
         "file": "mp_storm_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_wp.csv",
         "count": 393,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_wp.csv",
         "md5": "68dd514903234224eecfbf6c2eba24f3"
       }
     },
@@ -2645,8 +2597,8 @@
       },
       "waypoints": {
         "file": "mp_storm_spring_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_spring_wp.csv",
         "count": 393,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_spring_wp.csv",
         "md5": "68dd514903234224eecfbf6c2eba24f3"
       }
     },
@@ -2671,8 +2623,8 @@
       },
       "waypoints": {
         "file": "mp_stream_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_stream_wp.csv",
         "count": 281,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_stream_wp.csv",
         "md5": "d45342ddc2be45544eaea0a058ae3034"
       }
     },
@@ -2710,8 +2662,8 @@
       },
       "waypoints": {
         "file": "mp_strike_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_strike_wp.csv",
         "count": 526,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_strike_wp.csv",
         "md5": "4bbc08a2c88a9799608ba6186461e193"
       }
     },
@@ -2736,8 +2688,8 @@
       },
       "waypoints": {
         "file": "mp_subbase_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_subbase_wp.csv",
         "count": 348,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_subbase_wp.csv",
         "md5": "c246425fbcf3ce1cd20b825f370911db"
       }
     },
@@ -2762,8 +2714,8 @@
       },
       "waypoints": {
         "file": "mp_summit_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_summit_wp.csv",
         "count": 223,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_summit_wp.csv",
         "md5": "aaccc779d084497d3d35de245c626840"
       }
     },
@@ -2788,8 +2740,8 @@
       },
       "waypoints": {
         "file": "mp_tatooine_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_tatooine_wp.csv",
         "count": 251,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_tatooine_wp.csv",
         "md5": "a634be799c46532f857ade2339371dc2"
       }
     },
@@ -2820,8 +2772,8 @@
       },
       "waypoints": {
         "file": "mp_terminal_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_terminal_wp.csv",
         "count": 290,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_terminal_wp.csv",
         "md5": "9a257f31a53f6fdb90d45212b80d0423"
       }
     },
@@ -2846,8 +2798,8 @@
       },
       "waypoints": {
         "file": "mp_toujane_v2_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_toujane_v2_wp.csv",
         "count": 280,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_toujane_v2_wp.csv",
         "md5": "2a65296d2e96823cbcce2f0fb1b4008c"
       }
     },
@@ -2873,8 +2825,8 @@
       },
       "waypoints": {
         "file": "mp_trailerpark_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_trailerpark_wp.csv",
         "count": 301,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_trailerpark_wp.csv",
         "md5": "d8b930388d69f0ba6ad64ad827c001be"
       }
     },
@@ -2898,10 +2850,7 @@
         "url": "https://tinyurl.com/iw4xmaps"
       },
       "waypoints": {
-        "file": "mp_tunisia_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_tunisia_wp.csv",
-        "count": 0,
-        "md5": "3be7b8b182ccd96e48989b4e57311193"
+        "file": "mp_tunisia_wp.csv"
       }
     },
     "mp_underground": {
@@ -2926,8 +2875,8 @@
       },
       "waypoints": {
         "file": "mp_underground_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underground_wp.csv",
         "count": 250,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underground_wp.csv",
         "md5": "400348c4258bbcda1f0c9472ba4f08de"
       }
     },
@@ -2958,8 +2907,8 @@
       },
       "waypoints": {
         "file": "mp_underpass_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underpass_wp.csv",
         "count": 416,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underpass_wp.csv",
         "md5": "9ab47d3feb997aa0ae9100c16e0a1060"
       }
     },
@@ -2997,8 +2946,8 @@
       },
       "waypoints": {
         "file": "mp_vacant_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_vacant_wp.csv",
         "count": 259,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_vacant_wp.csv",
         "md5": "f56bfd0e6774860975de4aac131c93cc"
       }
     },
@@ -3024,8 +2973,8 @@
       },
       "waypoints": {
         "file": "mp_village_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_village_wp.csv",
         "count": 179,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_village_wp.csv",
         "md5": "9223b245806d1ba431178387654bf4ae"
       }
     },
@@ -3050,8 +2999,8 @@
       },
       "waypoints": {
         "file": "mp_waw_castle_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_waw_castle_wp.csv",
         "count": 256,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_waw_castle_wp.csv",
         "md5": "4d2d2819167091145f60e7d7f8d99853"
       }
     },
@@ -3083,8 +3032,8 @@
       },
       "waypoints": {
         "file": "oilrig_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv",
         "count": 158,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv",
         "md5": "a9c98dd8ee5bf1956d8362930f05693f"
       }
     },
@@ -3110,8 +3059,8 @@
       },
       "waypoints": {
         "file": "roadkill_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/roadkill_wp.csv",
         "count": 268,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/roadkill_wp.csv",
         "md5": "53fc34ee528066bdda39c1e2dfa90104"
       }
     },
@@ -3137,8 +3086,8 @@
       },
       "waypoints": {
         "file": "so_ghillies_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_ghillies_wp.csv",
         "count": 120,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_ghillies_wp.csv",
         "md5": "160e37606378170823adce27a38ffb64"
       }
     },
@@ -3164,8 +3113,8 @@
       },
       "waypoints": {
         "file": "trainer_wp.csv",
-        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/trainer_wp.csv",
         "count": 108,
+        "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/trainer_wp.csv",
         "md5": "c9fc21728686bd154883d4539cc8163d"
       }
     }
