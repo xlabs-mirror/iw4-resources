@@ -57,7 +57,7 @@
         "airport": {
             "description": {
                 "_key": "MPUI_DESC_MAP_AIRPORT",
-                "english": "Earn Makarov\u00e2\u20ac\u2122s trust."
+                "english": "Earn Makarov's trust."
             },
             "minimap": {
                 "name": "compass_map_airport"
@@ -111,7 +111,7 @@
         "boneyard": {
             "description": {
                 "_key": "MPUI_DESC_MAP_SCRAPYARD",
-                "english": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard."
+                "english": "Escape from General Shepherd's trap in the boneyard."
             },
             "minimap": {
                 "name": "compass_map_boneyard"
@@ -392,7 +392,7 @@
             },
             "name": {
                 "_key": "MPUI_FAVELA_ESCAPE",
-                "english": "The Hornet\u00e2\u20ac\u2122s Nest"
+                "english": "The Hornet's Nest"
             },
             "preview": {
                 "name": "preview_favela_escape",
