@@ -8,7 +8,10 @@
             "minimap": {
                 "name": "compass_map_af_caves"
             },
-            "name": "Just Like Old Times",
+            "name": {
+                "_key": "MPUI_AF_CAVES",
+                "english": "Just Like Old Times"
+            },
             "preview": {
                 "name": "preview_af_caves",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_caves.png"
@@ -32,7 +35,10 @@
             "minimap": {
                 "name": "compass_map_af_chase"
             },
-            "name": "Endgame",
+            "name": {
+                "_key": "MPUI_AF_CHASE",
+                "english": "Endgame"
+            },
             "preview": {
                 "name": "preview_af_chase",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_chase.png"
@@ -56,7 +62,10 @@
             "minimap": {
                 "name": "compass_map_airport"
             },
-            "name": "No Russian",
+            "name": {
+                "_key": "MPUI_AIRPORT",
+                "english": "No Russian"
+            },
             "preview": {
                 "name": "preview_airport",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/airport.png"
@@ -80,7 +89,10 @@
             "minimap": {
                 "name": "compass_map_arcadia"
             },
-            "name": "Exodus",
+            "name": {
+                "_key": "MPUI_ARCADIA",
+                "english": "Exodus"
+            },
             "preview": {
                 "name": "preview_arcadia",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/arcadia.png"
@@ -104,7 +116,10 @@
             "minimap": {
                 "name": "compass_map_boneyard"
             },
-            "name": "The Enemy of My Enemy",
+            "name": {
+                "_key": "MPUI_BONEYARD",
+                "english": "The Enemy of My Enemy"
+            },
             "preview": {
                 "name": "preview_boneyard"
             },
@@ -127,7 +142,10 @@
             "minimap": {
                 "name": "compass_map_cliffhanger"
             },
-            "name": "Cliffhanger",
+            "name": {
+                "_key": "MPUI_CLIFFHANGER",
+                "english": "Cliffhanger"
+            },
             "preview": {
                 "name": "preview_cliffhanger",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
@@ -185,7 +203,10 @@
             "minimap": {
                 "name": "compass_map_contingency"
             },
-            "name": "Contingency",
+            "name": {
+                "_key": "MPUI_CONTINGENCY",
+                "english": "Contingency"
+            },
             "preview": {
                 "name": "preview_contingency",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
@@ -205,7 +226,9 @@
             "description": {
                 "english": "Retake Whiskey Hotel."
             },
-            "name": "Whiskey Hotel",
+            "name": {
+                "english": "Whiskey Hotel"
+            },
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-whiskey-hotel.jpg"
             },
@@ -222,7 +245,10 @@
             "minimap": {
                 "name": "compass_map_dcburning"
             },
-            "name": "Of Their Own Accord",
+            "name": {
+                "_key": "MPUI_DCBURNING",
+                "english": "Of Their Own Accord"
+            },
             "preview": {
                 "name": "preview_dcburning",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcburning.png"
@@ -243,7 +269,10 @@
             "minimap": {
                 "name": "compass_map_dcemp"
             },
-            "name": "Second Sun",
+            "name": {
+                "_key": "MPUI_DCEMP",
+                "english": "Second Sun"
+            },
             "preview": {
                 "name": "preview_dcemp",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcemp.png"
@@ -304,7 +333,10 @@
             "minimap": {
                 "name": "compass_map_estate"
             },
-            "name": "Loose Ends",
+            "name": {
+                "_key": "MPUI_ESTATE",
+                "english": "Loose Ends"
+            },
             "preview": {
                 "name": "preview_estate",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/estate.png"
@@ -331,7 +363,10 @@
             "minimap": {
                 "name": "compass_map_favela"
             },
-            "name": "Takedown",
+            "name": {
+                "_key": "MPUI_FAVELA",
+                "english": "Takedown"
+            },
             "preview": {
                 "name": "preview_favela",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
@@ -355,7 +390,10 @@
             "minimap": {
                 "name": "compass_map_favela_escape"
             },
-            "name": "The Hornet\u00e2\u20ac\u2122s Nest",
+            "name": {
+                "_key": "MPUI_FAVELA_ESCAPE",
+                "english": "The Hornet\u00e2\u20ac\u2122s Nest"
+            },
             "preview": {
                 "name": "preview_favela_escape",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela_escape.png"
@@ -385,7 +423,13 @@
             "minimap": {
                 "name": "compass_map_gulag"
             },
-            "name": "The Gulag",
+            "name": {
+                "_key": "MPUI_GULAG",
+                "english": "The Gulag",
+                "french": "Goulag",
+                "polish": "Gu\u00b3ag",
+                "russian": "\u00ca\u00ee\u00eb\u00ee\u00ed\u00e8\u00ff"
+            },
             "preview": {
                 "name": "preview_gulag",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/gulag.png"
@@ -415,7 +459,10 @@
             "minimap": {
                 "name": "compass_map_invasion"
             },
-            "name": "Wolverines!",
+            "name": {
+                "_key": "MPUI_INVASION",
+                "english": "Wolverines!"
+            },
             "preview": {
                 "name": "preview_invasion",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
@@ -3635,7 +3682,16 @@
             "minimap": {
                 "name": "compass_map_oilrig"
             },
-            "name": "The Only Easy Day\u00e2\u20ac\u00a6 Was Yesterday",
+            "name": {
+                "_key": "MPUI_OILRIG",
+                "english": "The Only Easy Day\u00e2\u20ac\u00a6 Was Yesterday",
+                "french": "Plate-forme p\u00e9troli\u00e8re",
+                "german": "Bohrinsel",
+                "italian": "Piattaforma petrolifera",
+                "polish": "Platforma wiertnicza",
+                "russian": "\u00c1\u00f3\u00f0\u00ee\u00e2\u00e0\u00ff \u00e2\u00fb\u00f8\u00ea\u00e0",
+                "spanish": "Plataforma petrol\u00edfera"
+            },
             "preview": {
                 "name": "preview_oilrig",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
@@ -3659,7 +3715,10 @@
             "minimap": {
                 "name": "compass_map_roadkill"
             },
-            "name": "Team Player",
+            "name": {
+                "_key": "MPUI_ROADKILL",
+                "english": "Team Player"
+            },
             "preview": {
                 "name": "preview_roadkill",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/roadkill.png"
@@ -3717,7 +3776,10 @@
             "minimap": {
                 "name": "compass_map_trainer"
             },
-            "name": "S.S.D.D.",
+            "name": {
+                "_key": "MPUI_TRAINER",
+                "english": "S.S.D.D."
+            },
             "preview": {
                 "name": "preview_trainer",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/trainer.png"
