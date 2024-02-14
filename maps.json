@@ -10,7 +10,7 @@
             },
             "name": {
                 "_key": "MPUI_AF_CAVES",
-                "english": "Just Like Old Times"
+                "english": "17: Just Like Old Times"
             },
             "preview": {
                 "name": "preview_af_caves",
@@ -37,7 +37,7 @@
             },
             "name": {
                 "_key": "MPUI_AF_CHASE",
-                "english": "Endgame"
+                "english": "18: Endgame"
             },
             "preview": {
                 "name": "preview_af_chase",
@@ -64,7 +64,7 @@
             },
             "name": {
                 "_key": "MPUI_AIRPORT",
-                "english": "No Russian"
+                "english": "4: No Russian"
             },
             "preview": {
                 "name": "preview_airport",
@@ -91,7 +91,7 @@
             },
             "name": {
                 "_key": "MPUI_ARCADIA",
-                "english": "Exodus"
+                "english": "8: Exodus"
             },
             "preview": {
                 "name": "preview_arcadia",
@@ -118,7 +118,7 @@
             },
             "name": {
                 "_key": "MPUI_BONEYARD",
-                "english": "The Enemy of My Enemy"
+                "english": "16: The Enemy of My Enemy"
             },
             "preview": {
                 "name": "preview_boneyard"
@@ -144,7 +144,7 @@
             },
             "name": {
                 "_key": "MPUI_CLIFFHANGER",
-                "english": "Cliffhanger"
+                "english": "3: Cliffhanger"
             },
             "preview": {
                 "name": "preview_cliffhanger",
@@ -178,15 +178,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/co_hunted.png"
             },
             "source": {
-                "name": "Single Player",
-                "url": [
-                    "https",
-                    "steamcommunity.com",
-                    "/groups/IW4X/discussions/0/1470841715980056455",
-                    "",
-                    "",
-                    ""
-                ]
+                "name": "Unknown"
             },
             "waypoints": {
                 "count": 178,
@@ -205,7 +197,7 @@
             },
             "name": {
                 "_key": "MPUI_CONTINGENCY",
-                "english": "Contingency"
+                "english": "12: Contingency"
             },
             "preview": {
                 "name": "preview_contingency",
@@ -227,7 +219,7 @@
                 "english": "Retake Whiskey Hotel."
             },
             "name": {
-                "english": "Whiskey Hotel"
+                "english": "14: Whiskey Hotel"
             },
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-whiskey-hotel.jpg"
@@ -247,7 +239,7 @@
             },
             "name": {
                 "_key": "MPUI_DCBURNING",
-                "english": "Of Their Own Accord"
+                "english": "11: Of Their Own Accord"
             },
             "preview": {
                 "name": "preview_dcburning",
@@ -271,7 +263,7 @@
             },
             "name": {
                 "_key": "MPUI_DCEMP",
-                "english": "Second Sun"
+                "english": "13: Second Sun"
             },
             "preview": {
                 "name": "preview_dcemp",
@@ -288,29 +280,22 @@
         "ending": {
             "description": {
                 "_key": "MPUI_DESC_MAP_ENDING",
-                "english": "Ending is a map for Call of Duty: Modern Warfare 2."
+                "english": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don't Push Any Buttons!)"
             },
             "minimap": {
                 "name": "compass_map_ending"
             },
             "name": {
                 "_key": "MPUI_ENDING",
-                "english": "Ending"
+                "english": "19: Museum"
             },
             "preview": {
                 "name": "preview_ending",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/ending.png"
             },
             "source": {
-                "name": "Single Player",
-                "url": [
-                    "https",
-                    "steamcommunity.com",
-                    "/groups/IW4X/discussions/0/1470841715980056455",
-                    "",
-                    "",
-                    ""
-                ]
+                "name": "Singleplayer (Credits)",
+                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
             },
             "waypoints": {
                 "count": 20,
@@ -335,7 +320,7 @@
             },
             "name": {
                 "_key": "MPUI_ESTATE",
-                "english": "Loose Ends"
+                "english": "15: Loose Ends"
             },
             "preview": {
                 "name": "preview_estate",
@@ -365,7 +350,7 @@
             },
             "name": {
                 "_key": "MPUI_FAVELA",
-                "english": "Takedown"
+                "english": "5: Takedown"
             },
             "preview": {
                 "name": "preview_favela",
@@ -392,7 +377,7 @@
             },
             "name": {
                 "_key": "MPUI_FAVELA_ESCAPE",
-                "english": "The Hornet's Nest"
+                "english": "7: The Hornet's Nest"
             },
             "preview": {
                 "name": "preview_favela_escape",
@@ -425,7 +410,7 @@
             },
             "name": {
                 "_key": "MPUI_GULAG",
-                "english": "The Gulag",
+                "english": "10: The Gulag",
                 "french": "Goulag",
                 "polish": "Gu\u00b3ag",
                 "russian": "\u00ca\u00ee\u00eb\u00ee\u00ed\u00e8\u00ff"
@@ -461,7 +446,7 @@
             },
             "name": {
                 "_key": "MPUI_INVASION",
-                "english": "Wolverines!"
+                "english": "6: Wolverines!"
             },
             "preview": {
                 "name": "preview_invasion",
@@ -492,15 +477,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/iw4_credits.png"
             },
             "source": {
-                "name": "Single Player",
-                "url": [
-                    "https",
-                    "steamcommunity.com",
-                    "/groups/IW4X/discussions/0/1470841715980056455",
-                    "",
-                    "",
-                    ""
-                ]
+                "name": "Unknown"
             },
             "waypoints": {
                 "file": "iw4_credits_wp.csv"
@@ -3684,7 +3661,7 @@
             },
             "name": {
                 "_key": "MPUI_OILRIG",
-                "english": "The Only Easy Day\u00e2\u20ac\u00a6 Was Yesterday",
+                "english": "9: The Only Easy Day... Was Yesterday",
                 "french": "Plate-forme p\u00e9troli\u00e8re",
                 "german": "Bohrinsel",
                 "italian": "Piattaforma petrolifera",
@@ -3717,7 +3694,7 @@
             },
             "name": {
                 "_key": "MPUI_ROADKILL",
-                "english": "Team Player"
+                "english": "2: Team Player"
             },
             "preview": {
                 "name": "preview_roadkill",
@@ -3751,15 +3728,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_ghillies.png"
             },
             "source": {
-                "name": "Single Player",
-                "url": [
-                    "https",
-                    "steamcommunity.com",
-                    "/groups/IW4X/discussions/0/1470841715980056455",
-                    "",
-                    "",
-                    ""
-                ]
+                "name": "Unknown"
             },
             "waypoints": {
                 "count": 120,
@@ -3778,7 +3747,7 @@
             },
             "name": {
                 "_key": "MPUI_TRAINER",
-                "english": "S.S.D.D."
+                "english": "1: S.S.D.D."
             },
             "preview": {
                 "name": "preview_trainer",
