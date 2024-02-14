@@ -6,7 +6,9 @@
                 "trainer"
             ],
             "description": "Demonstrate proper fire control for the local trainees.",
-            "location": "Afghanistan",
+            "location": {
+                "country": "Afghanistan"
+            },
             "date": "August 10, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-ssdd.jpg"
         },
@@ -16,7 +18,9 @@
                 "roadkill"
             ],
             "description": "Search and destroy enemy forces in Afghanistan.",
-            "location": "Afghanistan",
+            "location": {
+                "country": "Afghanistan"
+            },
             "date": "August 10, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-team-player.jpg"
         },
@@ -36,7 +40,10 @@
                 "airport"
             ],
             "description": "Earn Makarov’s trust.",
-            "location": "Moscow, Russia",
+            "location": {
+                "country": "Russia",
+                "city": "Moscow"
+            },
             "date": "August 12, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-no-russian.jpg"
         },
@@ -46,7 +53,10 @@
                 "favela"
             ],
             "description": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
-            "location": "Rio de Janeiro State, Brazil",
+            "location": {
+                "country": "Brazil",
+                "state": "Rio de Janeiro"
+            },
             "date": "August 13, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-takedown.jpg"
         }
@@ -58,7 +68,10 @@
                 "invasion"
             ],
             "description": "Locate and protect codename Raptor during the beginning of the invasion.",
-            "location": "Virginia, USA",
+            "location": {
+                "country": "USA",
+                "state": "Virginia"
+            },
             "date": "August 13, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-wolverines.jpg"
         },
@@ -68,7 +81,10 @@
                 "favela_escape"
             ],
             "description": "Escape the favela.",
-            "location": "Rio de Janeiro State, Brazil",
+            "location": {
+                "country": "Brazil",
+                "state": "Rio de Janeiro"
+            },
             "date": "August 13, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-the-hornets-nest.jpg"
         },
@@ -78,7 +94,10 @@
                 "arcadia"
             ],
             "description": "Assist in the evacuation of civilians and key personnel in the suburbs.",
-            "location": "Virginia, USA",
+            "location": {
+                "country": "USA",
+                "state": "Virginia"
+            },
             "date": "August 13, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-exodus.jpg"
         },
@@ -88,7 +107,9 @@
                 "oilrig"
             ],
             "description": "Board the oilrig, rescue the hostages, and clear the route to the gulag.",
-            "location": "Russia",
+            "location": {
+                "country": "Russia"
+            },
             "date": "August 14, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-the-only-easy-day-was-yesterday.jpg"
         },
@@ -98,7 +119,9 @@
                 "gulag"
             ],
             "description": "Rescue Prisoner #627.",
-            "location": "Russia",
+            "location": {
+                "country": "Russia"
+            },
             "date": "August 14, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-the-gulag.jpg"
         },
@@ -108,7 +131,10 @@
                 "dcburning"
             ],
             "description": "Protect the evacuation site at the Washington Monument.",
-            "location": "Washington, D.C., USA",
+            "location": {
+                "country": "USA",
+                "city": "Washington, D.C."
+            },
             "date": "August 14, 2016",
             "imageUrl": "https://callofdutymaps.com/wp-content/uploads/MW2-of-their-own-accord.jpg"
         }
