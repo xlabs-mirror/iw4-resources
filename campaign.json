@@ -102,7 +102,7 @@
             "map": "arcadia"
         },
         {
-            "name": "The Only Easy Day\u00e2\u20ac\u00a6 Was Yesterday",
+            "name": "The Only Easy Day... Was Yesterday",
             "description": "Board the oilrig, rescue the hostages, and clear the route to the gulag.",
             "location": {
                 "country": "Russia"
@@ -228,12 +228,16 @@
     "Credits": [
         {
             "name": "Museum",
-            "mapname": "ending",
             "description": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don\u00e2\u20ac\u2122t Push Any Buttons!)",
-            "location": "Los Angeles, California, U.S.A.",
+            "location": {
+                "country": "USA",
+                "state": "California",
+                "city": "Los Angeles"
+            },
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-museum-info-1024x576.jpg"
-            }
+            },
+            "map": "ending"
         }
     ]
 }
