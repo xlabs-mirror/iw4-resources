@@ -1,0 +1,638 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "Act 1": {
+            "type": "array",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "string"
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "city": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                }
+            ]
+        },
+        "Act 2": {
+            "type": "array",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "city": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                }
+            ]
+        },
+        "Act 3": {
+            "type": "array",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "city": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                },
+                                "city": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "string"
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "maps": {
+                            "type": "array",
+                            "items": [
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "object",
+                            "properties": {
+                                "country": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                }
+            ]
+        },
+        "Credits": {
+            "type": "array",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "mapname": {
+                            "type": "string"
+                        },
+                        "description": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "string"
+                        },
+                        "imageUrl": {
+                            "type": "string"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
