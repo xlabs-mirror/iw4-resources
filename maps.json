@@ -535,8 +535,7 @@
                 "name": "preview_mp_abandonff"
             },
             "source": {
-                "name": "Base Game / DLC",
-                "url": "None://NoneNone"
+                "name": "Base Game / DLC"
             },
             "waypoints": {
                 "file": "mp_abandonff_wp.csv"
@@ -565,8 +564,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_afghan.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 293,
@@ -981,8 +979,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_boneyard.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 239,
@@ -1067,8 +1064,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_brecourt.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 325,
@@ -1337,8 +1333,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_checkpoint.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 562,
@@ -1670,8 +1665,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_derail.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 512,
@@ -1756,8 +1750,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 448,
@@ -1876,8 +1869,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_favela.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 303,
@@ -1996,8 +1988,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_highrise.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 423,
@@ -2029,8 +2020,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_invasion.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 604,
@@ -2138,8 +2128,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nightshift.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 284,
@@ -2191,8 +2180,7 @@
                 "name": "preview_mp_nuked_shaders"
             },
             "source": {
-                "name": "Base Game / DLC",
-                "url": "None://NoneNone"
+                "name": "Base Game / DLC"
             },
             "waypoints": {
                 "file": "mp_nuked_shaders_wp.csv"
@@ -2351,8 +2339,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_quarry.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 519,
@@ -2384,8 +2371,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rundown.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 441,
@@ -2417,8 +2403,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 193,
@@ -2721,8 +2706,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_subbase.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 348,
@@ -2806,8 +2790,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_terminal.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 290,
@@ -2942,8 +2925,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_underpass.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": "None://NoneNone"
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 416,
