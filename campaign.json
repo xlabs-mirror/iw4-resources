@@ -1,6 +1,7 @@
 {
     "Act 1": [
         {
+            "index": 1,
             "name": "S.S.D.D.",
             "description": "Demonstrate proper fire control for the local trainees.",
             "location": {
@@ -13,6 +14,7 @@
             "map": "trainer"
         },
         {
+            "index": 2,
             "name": "Team Player",
             "description": "Search and destroy enemy forces in Afghanistan.",
             "location": {
@@ -25,6 +27,7 @@
             "map": "roadkill"
         },
         {
+            "index": 3,
             "name": "Cliffhanger",
             "description": "Locate and retrieve the ACS module from a crashed satellite.",
             "location": "Tian Shan Mountain Range",
@@ -35,6 +38,7 @@
             "map": "cliffhanger"
         },
         {
+            "index": 4,
             "name": "No Russian",
             "description": "Earn Makarov\u00e2\u20ac\u2122s trust.",
             "location": {
@@ -48,6 +52,7 @@
             "map": "airport"
         },
         {
+            "index": 5,
             "name": "Takedown",
             "description": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
             "location": {
@@ -63,6 +68,7 @@
     ],
     "Act 2": [
         {
+            "index": 6,
             "name": "Wolverines!",
             "description": "Locate and protect codename Raptor during the beginning of the invasion.",
             "location": {
@@ -76,6 +82,7 @@
             "map": "invasion"
         },
         {
+            "index": 7,
             "name": "The Hornet\u00e2\u20ac\u2122s Nest",
             "description": "Escape the favela.",
             "location": {
@@ -89,6 +96,7 @@
             "map": "favela_escape"
         },
         {
+            "index": 8,
             "name": "Exodus",
             "description": "Assist in the evacuation of civilians and key personnel in the suburbs.",
             "location": {
@@ -102,6 +110,7 @@
             "map": "arcadia"
         },
         {
+            "index": 9,
             "name": "The Only Easy Day... Was Yesterday",
             "description": "Board the oilrig, rescue the hostages, and clear the route to the gulag.",
             "location": {
@@ -114,6 +123,7 @@
             "map": "oilrig"
         },
         {
+            "index": 10,
             "name": "The Gulag",
             "description": "Rescue Prisoner #627.",
             "location": {
@@ -126,6 +136,7 @@
             "map": "gulag"
         },
         {
+            "index": 11,
             "name": "Of Their Own Accord",
             "description": "Protect the evacuation site at the Washington Monument.",
             "location": {
@@ -141,6 +152,7 @@
     ],
     "Act 3": [
         {
+            "index": 12,
             "name": "Contingency",
             "description": "Help Captain Price reach the Russian submarine.",
             "location": {
@@ -153,6 +165,7 @@
             "map": "contingency"
         },
         {
+            "index": 13,
             "name": "Second Sun",
             "description": "Get to Whiskey Hotel.",
             "location": {
@@ -166,6 +179,7 @@
             "map": "dcemp"
         },
         {
+            "index": 14,
             "name": "Whiskey Hotel",
             "description": "Retake Whiskey Hotel.",
             "location": {
@@ -179,6 +193,7 @@
             "map": "dc_whitehouse"
         },
         {
+            "index": 15,
             "name": "Loose Ends",
             "description": "Find and kill Makarov at his safe house on the Georgian-Russian border.",
             "location": "Caucasus Mountains",
@@ -189,6 +204,7 @@
             "map": "estate"
         },
         {
+            "index": 16,
             "name": "The Enemy of My Enemy",
             "description": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard.",
             "location": {
@@ -201,6 +217,7 @@
             "map": "boneyard"
         },
         {
+            "index": 17,
             "name": "Just Like Old Times",
             "description": "Search the Afghan cave network for General Shepherd.",
             "location": {
@@ -213,6 +230,7 @@
             "map": "af_caves"
         },
         {
+            "index": 18,
             "name": "Endgame",
             "description": "Kill General Shepherd.",
             "location": {
@@ -227,6 +245,7 @@
     ],
     "Credits": [
         {
+            "index": 19,
             "name": "Museum",
             "description": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don\u00e2\u20ac\u2122t Push Any Buttons!)",
             "location": {

@@ -1,0 +1,296 @@
+{
+  "Alpha": {
+    "description": {
+      "english": "Predator Drones, favela gangs, sniper rifles and stealth. These Ops are short and sweet."
+    },
+    "required_stars": 0,
+    "missions": [
+      {
+        "index": 1,
+        "name": {
+          "english": "The Pit"
+        },
+        "description": {
+          "english": "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting  3 stars."
+        },
+        "opposition": "None",
+        "classification": "Assault",
+        "estimated_time": "1:00.00",
+        "iw_best_time": "00:22.55"
+      },
+      {
+        "index": 2,
+        "name": {
+          "english": "Sniper Fi"
+        },
+        "description": {
+          "english": "Use sniper rifles, claymores and Predator Drones to hold off waves of enemies."
+        },
+        "opposition": "Light",
+        "classification": "Wave Defense",
+        "estimated_time": "4:00.00",
+        "iw_best_time": "01:55.50"
+      },
+      {
+        "index": 3,
+        "name": {
+          "english": "O Cristo Redentor"
+        },
+        "description": {
+          "english": "Hunt down and eliminate the Favela gang. Minimize Civilian casualties."
+        },
+        "opposition": "Light",
+        "classification": "Elimination",
+        "estimated_time": "2:30.00",
+        "iw_best_time": "01:16.20"
+      },
+      {
+        "index": 4,
+        "name": {
+          "english": "Evasion"
+        },
+        "description": {
+          "english": "Use silenced sniper rifles and cunning to slip past the enemy patrols."
+        },
+        "opposition": "Light",
+        "classification": "Stealth",
+        "estimated_time": "3:00.00",
+        "iw_best_time": "00:43.65"
+      },
+      {
+        "index": 5,
+        "name": {
+          "english": "Suspension"
+        },
+        "description": {
+          "english": "Push through the invading forces on the bridge to reach the safe zone."
+        },
+        "opposition": "Medium",
+        "classification": "Assault",
+        "estimated_time": "3:30.00",
+        "iw_best_time": "00:53.00"
+      }
+    ]
+  },
+  "Bravo": {
+    "description": {
+      "english": "AC-130 gunships, snowmobile races, and Vulcan miniguns with explosive ammo. Something for everyone."
+    },
+    "required_stars": 4,
+    "missions": [
+      {
+        "index": 6,
+        "name": {
+          "english": "Overwatch"
+        },
+        "description": {
+          "english": "Rain death from above using an AC-130 gunship to protect your partner."
+        },
+        "opposition": "Light",
+        "classification": "Timed Escort",
+        "estimated_time": "1:30.00",
+        "iw_best_time": "00:35.45",
+        "required_players": 2
+      },
+      {
+        "index": 7,
+        "name": {
+          "english": "Body Count"
+        },
+        "description": {
+          "english": "Rack up a large enough body count. Quick kills earn larger bonuses."
+        },
+        "opposition": "Medium",
+        "classification": "Elimination",
+        "estimated_time": "2:30.00",
+        "iw_best_time": "00:21:57"
+      },
+      {
+        "index": 8,
+        "name": {
+          "english": "Bomb Squad"
+        },
+        "description": {
+          "english": "Race through the Favela marketplace defusing the explosives before it's too late."
+        },
+        "opposition": "Medium",
+        "classification": "Timed Assault",
+        "estimated_time": "2:30.00",
+        "iw_best_time": "01:14.20"
+      },
+      {
+        "index": 9,
+        "name": {
+          "english": "Race"
+        },
+        "description": {
+          "english": "Speed your snowmobile down the mountain, dodging trees, rocks, and thousand foot drops."
+        },
+        "opposition": "Minimal",
+        "classification": "Driving",
+        "estimated_time": "1:30.00",
+        "iw_best_time": "01:04.85"
+      },
+      {
+        "index": 10,
+        "name": {
+          "english": "Big Brother"
+        },
+        "description": {
+          "english": "Explosive ammunition, Vulcan Minigun, Blackhawk Helicopter. Clear the way."
+        },
+        "opposition": "Medium",
+        "classification": "Timed Escort",
+        "estimated_time": "3:00.00",
+        "iw_best_time": "01:25.90",
+        "required_players": 2
+      }
+    ]
+  },
+  "Charlie": {
+    "description": {
+      "english": "Time trials, explosive breaches, boneyards and enemies in Ghillie Suits. Things are getting a bit tougher."
+    },
+    "required_stars": 8,
+    "missions": [
+      {
+        "index": 11,
+        "name": {
+          "english": "Hidden"
+        },
+        "description": {
+          "english": "Evade enemy patrols and Ghillie Snipers near Chernobyl."
+        },
+        "opposition": "Medium",
+        "classification": "Stealth",
+        "estimated_time": "4:30.00",
+        "iw_best_time": "01:45.60"
+      },
+      {
+        "index": 12,
+        "name": {
+          "english": "Breach & Clear"
+        },
+        "description": {
+          "english": "Smash through enemy defenses in the Gulag and escape."
+        },
+        "opposition": "Heavy",
+        "classification": "Assault",
+        "estimated_time": "1:30.00",
+        "iw_best_time": "00:14.10"
+      },
+      {
+        "index": 13,
+        "name": {
+          "english": "Time Trial"
+        },
+        "description": {
+          "english": "Launch your snowmobile across the chasm before time runs out. Hit the flag gates to get extra time."
+        },
+        "opposition": "Light",
+        "classification": "Timed Driving",
+        "estimated_time": "1:30.00",
+        "iw_best_time": "01:07.00"
+      },
+      {
+        "index": 14,
+        "name": {
+          "english": "Homeland Security"
+        },
+        "description": {
+          "english": "Sentry guns, Thermal sights, Rocket launchers and Claymores. Defend yourself from five difficult waves of attackers."
+        },
+        "opposition": "Heavy",
+        "classification": "Wave Defense",
+        "estimated_time": "11:00.00",
+        "iw_best_time": "07:31.20"
+      },
+      {
+        "index": 15,
+        "name": {
+          "english": "Snatch & Grab"
+        },
+        "description": {
+          "english": "Battle Shadow Company and Juggernauts in the airplane graveyard. Grab the intel and escape to the extraction point."
+        },
+        "opposition": "Medium",
+        "classification": "Assault",
+        "estimated_time": "3:30.00",
+        "iw_best_time": "01:22.40"
+      }
+    ]
+  },
+  "Delta": {
+    "description": {
+      "english": "Blizzards, airports, estates and bridges. Five challenging Ops."
+    },
+    "required_stars": 20,
+    "missions": [
+      {
+        "index": 16,
+        "name": {
+          "english": "Wardriving"
+        },
+        "description": {
+          "english": "Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room."
+        },
+        "opposition": "Heavy",
+        "classification": "Assault & Defend",
+        "estimated_time": "9:00.00",
+        "iw_best_time": "3:25.25"
+      },
+      {
+        "index": 17,
+        "name": {
+          "english": "Wreckage"
+        },
+        "description": {
+          "english": "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
+        },
+        "opposition": "Heavy",
+        "classification": "Assault",
+        "estimated_time": "1:30.00",
+        "iw_best_time": "00:44.65"
+      },
+      {
+        "index": 18,
+        "name": {
+          "english": "Blizzard"
+        },
+        "description": {
+          "english": "Navigate through the blizzard to reach the extraction point. Snowmobiles and dog sleds are your best friends."
+        },
+        "opposition": "Medium",
+        "classification": "Driving",
+        "estimated_time": "2:30.00",
+        "iw_best_time": "01:55.50"
+      },
+      {
+        "index": 19,
+        "name": {
+          "english": "Airport"
+        },
+        "description": {
+          "english": "Clear the airport of enemies. Use explosives to take down enemy vehicles and structures."
+        },
+        "opposition": "Heavy",
+        "classification": "Assault",
+        "estimated_time": "4:00.00",
+        "iw_best_time": "02:45.20"
+      },
+      {
+        "index": 20,
+        "name": {
+          "english": "Estate"
+        },
+        "description": {
+          "english": "Infiltrate the estate, taking out the guards and securing the hostages. Use stealth to avoid detection."
+        },
+        "opposition": "Medium",
+        "classification": "Elimination",
+        "estimated_time": "3:30.00",
+        "iw_best_time": "01:23.40"
+      }
+    ]
+  }
+}

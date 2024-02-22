@@ -1,0 +1,286 @@
+1.1	Alpha
+1.1.1	The Pit
+1.1.2	Sniper Fi
+1.1.3	O Cristo Redentor
+1.1.4	Evasion
+1.1.5	Suspension
+1.2	Bravo
+1.2.1	Overwatch
+1.2.2	Body Count
+1.2.3	Bomb Squad
+1.2.4	Race
+1.2.5	Big Brother
+1.3	Charlie
+1.3.1	Hidden
+1.3.2	Breach & Clear
+1.3.3	Time Trial
+1.3.4	Homeland Security
+1.3.5	Snatch & Grab
+1.4	Delta
+1.4.1	Wardriving
+1.4.2	Wreckage
+1.4.3	Acceptable Losses
+1.4.4	Terminal
+1.4.5	Estate Takedown
+1.5	Echo
+1.5.1	Wetwork
+1.5.2	High Explosive
+1.5.3	Armor Piercing
+
+
+
+
+
+Alpha
+Predator Drones, favela gangs, sniper rifles and stealth. These Ops are short and sweet.
+
+
+
+The Pit
+Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting 3 stars.
+
+Est. Opposition: None
+Classification: Assault
+Est. Completion Time: 1:00.00
+IW Best Time: 00:22.55
+
+
+Sniper Fi
+Use sniper rifles, claymores and Predator Drones to hold off waves of enemies.
+
+Est. Opposition: Light
+Classification: Wave Defense
+Est. Completion Time: 4:00.00
+IW Best Time: 01:55.50
+
+
+O Cristo Redentor
+Hunt down and eliminate the Favela gang. Minimize Civilian casualties.
+
+Est. Opposition: Light
+Classification: Elimination
+Est. Completion Time: 2:30.00
+IW Best Time: 01:16.20
+
+
+Evasion
+Use silenced sniper rifles and cunning to slip past the enemy patrols.
+
+Est. Opposition: Light
+Classification: Stealth
+Est. Completion Time: 3:00.00
+IW Best Time: 00:43.65
+
+
+Suspension
+Push through the invading forces on the bridge to reach the safe zone.
+
+Est. Opposition: Medium
+Classification: Assault
+Est. Completion Time: 3:30.00
+IW Best Time: 00:53.00
+
+
+
+Bravo
+AC-130 gunships, snowmobile races, and Vulcan miniguns with explosive ammo. Something for everyone.
+
+Earn 4 stars to unlock.
+
+
+
+Overwatch
+Rain death from above using an AC-130 gunship to protect your partner.
+
+Est. Opposition: Light
+Classification: Timed Escort
+Est. Completion Time: 1:30.00
+IW Best Time: 00:35.45
+
+
+Two Players Required
+
+
+Body Count
+Rack up a large enough body count. Quick kills earn larger bonuses.
+
+Est. Opposition: Medium
+Classification: Elimination
+Est. Completion Time: 2:30.00
+
+
+IW Best Time: 00:21:57
+
+
+Bomb Squad
+Race through the Favela marketplace defusing the explosives before it's too late.
+
+Est. Opposition: Medium
+Classification: Timed Assault
+Est. Completion Time: 2:30.00
+IW Best Time: 01:14.20
+
+
+Race
+Speed your snowmobile down the mountain, dodging trees, rocks, and thousand foot drops.
+
+Est. Opposition: Minimal
+Classification: Driving
+Est. Completion Time: 1:30.00
+IW Best Time: 01:04.85
+
+
+Big Brother
+Explosive ammunition, Vulcan Minigun, Blackhawk Helicopter. Clear the way.
+
+Est. Opposition: Medium
+Classification: Timed Escort
+Est. Completion Time: 3:00.00
+IW Best Time: 01:25.90
+
+
+Two Players Required
+
+
+
+Charlie
+Time trials, explosive breaches, boneyards and enemies in Ghillie Suits. Things are getting a bit tougher.
+
+Earn 8 stars to unlock.
+
+
+
+Hidden
+Evade enemy patrols and Ghillie Snipers near Chernobyl.
+
+Est. Opposition: Medium
+Classification: Stealth
+Est. Completion Time: 4:30.00
+
+
+IW Best Time: 01:45.60
+Breach & Clear
+Smash through enemy defenses in the Gulag and escape.
+
+Est. Opposition: Heavy
+Classification: Assault
+Est. Completion Time: 1:30.00
+IW Best Time: 00:14.10
+
+
+Time Trial
+Launch your snowmobile across the chasm before time runs out. Hit the flag gates to get extra time.
+
+Est. Opposition: Light
+Classification: Timed Driving
+Est. Completion Time: 1:30.00
+IW Best Time: 01:07.00
+
+
+Homeland Security
+Sentry guns, Thermal sights, Rocket launchers and Claymores. Defend yourself from five difficult waves of attackers.
+
+Est. Opposition: Heavy
+Classification: Wave Defense
+Est. Completion Time: 11:00.00
+IW Best Time: 07:31.20
+
+
+Snatch & Grab
+Battle Shadow Company and Juggernauts in the airplane graveyard. Grab the intel and escape to the extraction point.
+
+Est. Opposition: Medium
+Classification: Assault
+Est. Completion Time: 3:30.00
+IW Best Time: 01:22.40
+
+
+
+Delta
+Blizzards, airports, estates and bridges. Five challenging Ops.
+
+Earn 20 stars to unlock.
+
+
+
+Wardriving
+Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room.
+
+Est. Opposition: Heavy
+Classification: Assault & Defend
+Est. Completion Time: 9:00.00
+IW Best Time: 3:25.25
+
+
+Wreckage
+Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge.
+
+Est. Opposition: Medium
+Classification: Vehicle Killspree
+Est. Completion Time: 3:30.00
+
+
+IW Best Time: 01:40.40
+Acceptable Losses
+Sabotage the remote airbase with your silenced weapons and heartbeat sensor.
+
+Est. Opposition: Medium
+Classification: Stealth
+Est. Completion Time: 7:00.00
+
+
+IW Best Time: 00:48.15
+Terminal
+Pummel your way through enemy riot shield ambushes.
+
+Est. Opposition: Heavy
+Classification: Assault
+Est. Completion Time: 4:00.00
+
+
+IW Best Time: 00:34.60
+Estate Takedown
+Eliminate Ghillie Snipers, Elite Mercenaries, and Juggernauts guarding the estate.
+
+Est. Opposition: Medium
+Classification: Elimination
+Est. Completion Time: 9:00.00
+
+IW Best Time: 02:59.60
+
+
+
+Echo
+An oil rig and a favela full of Juggernauts. These Ops are fast and brutal.
+
+Earn 40 stars to unlock.
+
+
+
+Wetwork
+Breach and clear two deadly rooms full of enemies and hostages to capture the oil rig.
+
+Est. Opposition: Massive
+Classification: Assault
+Est. Completion Time: 5:00.00
+IW Best Time: 03:10.30
+
+
+Slow-mo Breach
+High Explosive
+Kill all ten Juggernauts using only explosives and a knife.
+
+Est. Opposition: Massive
+Classification: Elimination
+Est. Completion Time: 6:00.00
+IW Best Time: 02:47.70
+
+
+Explosives & Knives Only
+Armor Piercing
+Kill all fifteen Juggernauts on the oil rig.
+
+Est. Opposition: Massive
+Classification: Elimination
+Est. Completion Time: 7:00.00
+IW Best Time: 04:12.25
