@@ -31,3 +31,5 @@
 *.out
 *.app
 
+maps_out.json
+*_.csv
