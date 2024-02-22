@@ -21,9 +21,9 @@
                 "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
             },
             "waypoints": {
-                "count": 212,
+                "count": 234,
                 "file": "af_caves_wp.csv",
-                "md5": "5fae734282f0139d8c0650e65ac93149",
+                "md5": "b96f24466719c26db2f7a1989b63045a",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_caves_wp.csv"
             }
         },
@@ -128,9 +128,9 @@
                 "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
             },
             "waypoints": {
-                "count": 45,
+                "count": 277,
                 "file": "boneyard_wp.csv",
-                "md5": "b5929f0be3c4d1189e7147ddf40b39fa",
+                "md5": "da143b52fc8950bc727b2f254fa861df",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv"
             }
         },
@@ -227,6 +227,9 @@
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+            },
+            "waypoints": {
+                "file": "dc_whitehouse_wp.csv"
             }
         },
         "dcburning": {
@@ -250,7 +253,10 @@
                 "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
             },
             "waypoints": {
-                "file": "dcburning_wp.csv"
+                "count": 469,
+                "file": "dcburning_wp.csv",
+                "md5": "9414d2c8dea623b11898b0b12df3c2e6",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcburning_wp.csv"
             }
         },
         "dcemp": {
@@ -274,7 +280,10 @@
                 "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
             },
             "waypoints": {
-                "file": "dcemp_wp.csv"
+                "count": 248,
+                "file": "dcemp_wp.csv",
+                "md5": "5e5c7ce7eff07aacd75a96d90b116e39",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcemp_wp.csv"
             }
         },
         "ending": {
@@ -501,14 +510,7 @@
             },
             "source": {
                 "name": "Resurgence DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 388,
@@ -533,15 +535,7 @@
                 "name": "preview_mp_abandonff"
             },
             "source": {
-                "name": "Base Game / DLC",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Base Game / DLC"
             },
             "waypoints": {
                 "file": "mp_abandonff_wp.csv"
@@ -570,15 +564,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_afghan.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 293,
@@ -604,14 +590,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_after_tchernobyl_wp.csv"
@@ -635,14 +614,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 230,
@@ -668,14 +640,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_ancient_wp.csv"
@@ -698,14 +663,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_arbor_wp.csv"
@@ -741,14 +699,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 179,
@@ -774,14 +725,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 178,
@@ -807,14 +751,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 172,
@@ -840,14 +777,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 190,
@@ -885,14 +815,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 465,
@@ -919,14 +842,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 465,
@@ -952,14 +868,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 300,
@@ -985,14 +894,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 228,
@@ -1018,14 +920,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 365,
@@ -1058,14 +953,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 211,
@@ -1091,15 +979,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_boneyard.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 239,
@@ -1125,14 +1005,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 650,
@@ -1159,14 +1032,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 238,
@@ -1198,15 +1064,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_brecourt.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 325,
@@ -1243,14 +1101,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 288,
@@ -1276,14 +1127,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_brokenroad_wp.csv"
@@ -1306,14 +1150,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_burg_wp.csv"
@@ -1336,14 +1173,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_c4s_minecraft_wp.csv"
@@ -1367,14 +1197,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 286,
@@ -1400,14 +1223,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 337,
@@ -1440,14 +1256,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 330,
@@ -1474,14 +1283,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 235,
@@ -1507,14 +1309,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_cc_night_wp.csv"
@@ -1538,15 +1333,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_checkpoint.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 562,
@@ -1579,14 +1366,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 207,
@@ -1613,14 +1393,7 @@
             },
             "source": {
                 "name": "Stimulus DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 334,
@@ -1647,14 +1420,7 @@
             },
             "source": {
                 "name": "Stimulus DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 361,
@@ -1687,14 +1453,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 239,
@@ -1732,14 +1491,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 198,
@@ -1777,14 +1529,7 @@
             },
             "source": {
                 "name": "Stimulus DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 317,
@@ -1811,14 +1556,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 317,
@@ -1845,14 +1583,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_crash_tropical_wp.csv"
@@ -1875,14 +1606,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 308,
@@ -1909,14 +1633,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 445,
@@ -1948,15 +1665,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_derail.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 512,
@@ -1983,14 +1692,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 210,
@@ -2016,14 +1718,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 98,
@@ -2055,15 +1750,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 448,
@@ -2090,14 +1777,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 448,
@@ -2130,14 +1810,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 242,
@@ -2164,14 +1837,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 303,
@@ -2203,15 +1869,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_favela.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 303,
@@ -2244,14 +1902,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 250,
@@ -2278,14 +1929,7 @@
             },
             "source": {
                 "name": "Resurgence DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 623,
@@ -2312,14 +1956,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 195,
@@ -2351,15 +1988,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_highrise.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 423,
@@ -2391,15 +2020,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_invasion.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 604,
@@ -2426,14 +2047,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 182,
@@ -2459,14 +2073,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_lost_wp.csv"
@@ -2489,14 +2096,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 371,
@@ -2528,15 +2128,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nightshift.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 284,
@@ -2563,14 +2155,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 239,
@@ -2595,15 +2180,7 @@
                 "name": "preview_mp_nuked_shaders"
             },
             "source": {
-                "name": "Base Game / DLC",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Base Game / DLC"
             },
             "waypoints": {
                 "file": "mp_nuked_shaders_wp.csv"
@@ -2639,14 +2216,7 @@
             },
             "source": {
                 "name": "Stimulus DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 559,
@@ -2673,14 +2243,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 284,
@@ -2717,14 +2280,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 318,
@@ -2751,14 +2307,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 132,
@@ -2790,15 +2339,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_quarry.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 519,
@@ -2830,15 +2371,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rundown.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 441,
@@ -2870,15 +2403,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 193,
@@ -2905,14 +2430,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 181,
@@ -2939,14 +2457,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 375,
@@ -2985,14 +2496,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 79,
@@ -3019,14 +2523,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 123,
@@ -3064,14 +2561,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 116,
@@ -3098,14 +2588,7 @@
             },
             "source": {
                 "name": "Stimulus DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 393,
@@ -3132,14 +2615,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Online DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 393,
@@ -3165,14 +2641,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 281,
@@ -3211,14 +2680,7 @@
             },
             "source": {
                 "name": "Resurgence DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 526,
@@ -3244,15 +2706,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_subbase.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 348,
@@ -3278,14 +2732,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 223,
@@ -3311,14 +2758,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 251,
@@ -3350,15 +2790,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_terminal.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 290,
@@ -3384,14 +2816,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 280,
@@ -3418,14 +2843,7 @@
             },
             "source": {
                 "name": "Resurgence DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 301,
@@ -3451,14 +2869,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "file": "mp_tunisia_wp.csv"
@@ -3482,14 +2893,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 250,
@@ -3521,15 +2925,7 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_underpass.png"
             },
             "source": {
-                "name": "Call of Duty: Modern Warfare 2",
-                "url": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
+                "name": "Call of Duty: Modern Warfare 2"
             },
             "waypoints": {
                 "count": 416,
@@ -3568,14 +2964,7 @@
             },
             "source": {
                 "name": "Resurgence DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 259,
@@ -3602,14 +2991,7 @@
             },
             "source": {
                 "name": "IW4x Call of Duty: Modern Warfare 3 DLC",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 179,
@@ -3635,14 +3017,7 @@
             },
             "source": {
                 "name": "Custom Maps",
-                "url": [
-                    "https",
-                    "tinyurl.com",
-                    "/iw4xmaps",
-                    "",
-                    "",
-                    ""
-                ]
+                "url": "https://tinyurl.com/iw4xmaps"
             },
             "waypoints": {
                 "count": 256,
