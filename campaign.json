@@ -1,5 +1,6 @@
 [
     {
+        "index": 1,
         "name": {
             "english": "Act 1",
             "german": "Akt 1"
@@ -73,6 +74,7 @@
         ]
     },
     {
+        "index": 2,
         "name": {
             "english": "Act 2",
             "german": "Akt 2"
@@ -163,6 +165,7 @@
         ]
     },
     {
+        "index": 3,
         "name": {
             "english": "Act 3",
             "german": "Akt 3"
@@ -262,6 +265,7 @@
         ]
     },
     {
+        "index": 4,
         "name": {
             "english": "Credits",
             "german": "Abspann"

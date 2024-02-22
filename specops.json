@@ -1,5 +1,6 @@
 [
     {
+        "index": 1,
         "name": {
             "english": "Alpha"
         },
@@ -82,6 +83,7 @@
         ]
     },
     {
+        "index": 2,
         "name": {
             "english": "Bravo"
         },
@@ -165,6 +167,7 @@
         ]
     },
     {
+        "index": 3,
         "name": {
             "english": "Charlie"
         },
@@ -246,6 +249,7 @@
         ]
     },
     {
+        "index": 4,
         "name": {
             "english": "Delta"
         },
