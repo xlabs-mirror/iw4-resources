@@ -3086,6 +3086,30 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/roadkill_wp.csv"
             }
         },
+        "so_bridge": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_SO_BRIDGE",
+                "english": "Bridge is a map from the Special Ops mode."
+            },
+            "minimap": {
+                "name": "compass_map_so_bridge"
+            },
+            "name": {
+                "_key": "MPUI_SO_GHILLIES",
+                "english": "Bridge"
+            },
+            "preview": {
+                "name": "preview_so_bridge",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_bridge.png"
+            },
+            "source": {
+                "name": "Special Ops (Bravo)"
+            },
+            "waypoints": {
+                "file": "so_bridge_wp.csv",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_bridge_wp.csv"
+            }
+        },
         "so_ghillies": {
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_GHILLIES",
