@@ -1,17 +1,55 @@
 {
-    "airport": ["so_escape_airport"],
-    "arcadia": ["so_download_arcadia"],
-    "boneyard": ["so_intel_boneyard"],
-    "cliffhanger": ["so_sabotage_cliffhanger", "so_snowrace1_cliffhanger", "so_snowrace2_cliffhanger"],
-    "contingency": ["so_forest_contingency", "so_rooftop_contingency"],
-    "estate": ["so_takeover_estate"],
-    "favela": ["so_juggernauts_favela", "so_killspree_favela"],
-    "favela_escape": ["so_defuse_favela_escape"],
-    "gulag": ["so_showers_gulag"],
-    "invasion": ["so_chopper_invasion", "so_defense_invasion", "so_killspree_invasion"],
-    "oilrig": ["so_assault_oilrig", "so_takeover_oilrig"],
-    "so_ghillies": ["so_hidden_so_ghillies"],
-    "co_hunted": ["so_ac130_co_hunted"],
-    "so_bridge": ["so_crossing_so_bridge", "so_demo_so_bridge"],
-    "trainer": ["so_killspree_trainer"]
+    "airport": [
+        "so_escape_airport"
+    ],
+    "arcadia": [
+        "so_download_arcadia"
+    ],
+    "boneyard": [
+        "so_intel_boneyard"
+    ],
+    "cliffhanger": [
+        "so_sabotage_cliffhanger",
+        "so_snowrace1_cliffhanger",
+        "so_snowrace2_cliffhanger"
+    ],
+    "contingency": [
+        "so_forest_contingency",
+        "so_rooftop_contingency"
+    ],
+    "estate": [
+        "so_takeover_estate"
+    ],
+    "favela": [
+        "so_juggernauts_favela",
+        "so_killspree_favela"
+    ],
+    "favela_escape": [
+        "so_defuse_favela_escape"
+    ],
+    "gulag": [
+        "so_showers_gulag"
+    ],
+    "invasion": [
+        "so_chopper_invasion",
+        "so_defense_invasion",
+        "so_killspree_invasion"
+    ],
+    "oilrig": [
+        "so_assault_oilrig",
+        "so_takeover_oilrig"
+    ],
+    "so_ghillies": [
+        "so_hidden_so_ghillies"
+    ],
+    "co_hunted": [
+        "so_ac130_co_hunted"
+    ],
+    "so_bridge": [
+        "so_crossing_so_bridge",
+        "so_demo_so_bridge"
+    ],
+    "trainer": [
+        "so_killspree_trainer"
+    ]
 }

@@ -8,15 +8,17 @@
       {
         "index": 1,
         "name": {
-          "english": "The Pit"
+          "english": "The Pit",
+          "german": "Die Grube"
         },
         "description": {
-          "english": "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting  3 stars."
+          "english": "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting 3 stars."
         },
         "opposition": "None",
         "classification": "Assault",
         "estimated_time": "1:00.00",
-        "iw_best_time": "00:22.55"
+        "iw_best_time": "00:22.55",
+        "mapname": "so_killspree_trainer"
       },
       {
         "index": 2,
@@ -29,7 +31,8 @@
         "opposition": "Light",
         "classification": "Wave Defense",
         "estimated_time": "4:00.00",
-        "iw_best_time": "01:55.50"
+        "iw_best_time": "01:55.50",
+        "mapname": "so_rooftop_contingency"
       },
       {
         "index": 3,
@@ -42,7 +45,8 @@
         "opposition": "Light",
         "classification": "Elimination",
         "estimated_time": "2:30.00",
-        "iw_best_time": "01:16.20"
+        "iw_best_time": "01:16.20",
+        "mapname": "so_killspree_favela"
       },
       {
         "index": 4,
@@ -55,7 +59,8 @@
         "opposition": "Light",
         "classification": "Stealth",
         "estimated_time": "3:00.00",
-        "iw_best_time": "00:43.65"
+        "iw_best_time": "00:43.65",
+        "mapname": "so_forest_contingency"
       },
       {
         "index": 5,
@@ -68,7 +73,8 @@
         "opposition": "Medium",
         "classification": "Assault",
         "estimated_time": "3:30.00",
-        "iw_best_time": "00:53.00"
+        "iw_best_time": "00:53.00",
+        "mapname": "so_crossing_so_bridge"
       }
     ]
   },
@@ -90,7 +96,8 @@
         "classification": "Timed Escort",
         "estimated_time": "1:30.00",
         "iw_best_time": "00:35.45",
-        "required_players": 2
+        "required_players": 2,
+        "mapname": "so_ac130_co_hunted"
       },
       {
         "index": 7,
@@ -103,7 +110,8 @@
         "opposition": "Medium",
         "classification": "Elimination",
         "estimated_time": "2:30.00",
-        "iw_best_time": "00:21:57"
+        "iw_best_time": "00:21:57",
+        "mapname": "so_killspree_invasion"
       },
       {
         "index": 8,
@@ -116,7 +124,8 @@
         "opposition": "Medium",
         "classification": "Timed Assault",
         "estimated_time": "2:30.00",
-        "iw_best_time": "01:14.20"
+        "iw_best_time": "01:14.20",
+        "mapname": "so_defuse_favela_escape"
       },
       {
         "index": 9,
@@ -129,7 +138,8 @@
         "opposition": "Minimal",
         "classification": "Driving",
         "estimated_time": "1:30.00",
-        "iw_best_time": "01:04.85"
+        "iw_best_time": "01:04.85",
+        "mapname": "so_snowrace1_cliffhanger"
       },
       {
         "index": 10,
@@ -143,7 +153,8 @@
         "classification": "Timed Escort",
         "estimated_time": "3:00.00",
         "iw_best_time": "01:25.90",
-        "required_players": 2
+        "required_players": 2,
+        "mapname": "so_chopper_invasion"
       }
     ]
   },
@@ -164,7 +175,8 @@
         "opposition": "Medium",
         "classification": "Stealth",
         "estimated_time": "4:30.00",
-        "iw_best_time": "01:45.60"
+        "iw_best_time": "01:45.60",
+        "mapname": "so_hidden_so_ghillies"
       },
       {
         "index": 12,
@@ -177,7 +189,8 @@
         "opposition": "Heavy",
         "classification": "Assault",
         "estimated_time": "1:30.00",
-        "iw_best_time": "00:14.10"
+        "iw_best_time": "00:14.10",
+        "mapname": "so_showers_gulag"
       },
       {
         "index": 13,
@@ -190,7 +203,8 @@
         "opposition": "Light",
         "classification": "Timed Driving",
         "estimated_time": "1:30.00",
-        "iw_best_time": "01:07.00"
+        "iw_best_time": "01:07.00",
+        "mapname": "so_snowrace2_cliffhanger"
       },
       {
         "index": 14,
@@ -203,7 +217,8 @@
         "opposition": "Heavy",
         "classification": "Wave Defense",
         "estimated_time": "11:00.00",
-        "iw_best_time": "07:31.20"
+        "iw_best_time": "07:31.20",
+        "mapname": "so_defense_invasion"
       },
       {
         "index": 15,
@@ -216,7 +231,8 @@
         "opposition": "Medium",
         "classification": "Assault",
         "estimated_time": "3:30.00",
-        "iw_best_time": "01:22.40"
+        "iw_best_time": "01:22.40",
+        "mapname": "so_intel_boneyard"
       }
     ]
   },
@@ -237,7 +253,8 @@
         "opposition": "Heavy",
         "classification": "Assault & Defend",
         "estimated_time": "9:00.00",
-        "iw_best_time": "3:25.25"
+        "iw_best_time": "3:25.25",
+        "mapname": "so_download_arcadia"
       },
       {
         "index": 17,
@@ -250,7 +267,8 @@
         "opposition": "Heavy",
         "classification": "Assault",
         "estimated_time": "1:30.00",
-        "iw_best_time": "00:44.65"
+        "iw_best_time": "00:44.65",
+        "mapname": "so_demo_so_bridge"
       },
       {
         "index": 18,
@@ -263,7 +281,8 @@
         "opposition": "Medium",
         "classification": "Driving",
         "estimated_time": "2:30.00",
-        "iw_best_time": "01:55.50"
+        "iw_best_time": "01:55.50",
+        "mapname": "so_sabotage_cliffhanger"
       },
       {
         "index": 19,
@@ -276,7 +295,8 @@
         "opposition": "Heavy",
         "classification": "Assault",
         "estimated_time": "4:00.00",
-        "iw_best_time": "02:45.20"
+        "iw_best_time": "02:45.20",
+        "mapname": "so_escape_airport"
       },
       {
         "index": 20,
@@ -289,7 +309,8 @@
         "opposition": "Medium",
         "classification": "Elimination",
         "estimated_time": "3:30.00",
-        "iw_best_time": "01:23.40"
+        "iw_best_time": "01:23.40",
+        "mapname": "so_takeover_estate"
       }
     ]
   }

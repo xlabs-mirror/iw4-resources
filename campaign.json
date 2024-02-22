@@ -11,7 +11,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-ssdd.jpg"
             },
-            "map": "trainer"
+            "mapname": "trainer"
         },
         {
             "index": 2,
@@ -24,7 +24,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-team-player.jpg"
             },
-            "map": "roadkill"
+            "mapname": "roadkill"
         },
         {
             "index": 3,
@@ -35,7 +35,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-cliffhanger.jpg"
             },
-            "map": "cliffhanger"
+            "mapname": "cliffhanger"
         },
         {
             "index": 4,
@@ -49,7 +49,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-no-russian.jpg"
             },
-            "map": "airport"
+            "mapname": "airport"
         },
         {
             "index": 5,
@@ -63,7 +63,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-takedown.jpg"
             },
-            "map": "favela"
+            "mapname": "favela"
         }
     ],
     "Act 2": [
@@ -79,7 +79,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-wolverines.jpg"
             },
-            "map": "invasion"
+            "mapname": "invasion"
         },
         {
             "index": 7,
@@ -93,7 +93,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-hornets-nest.jpg"
             },
-            "map": "favela_escape"
+            "mapname": "favela_escape"
         },
         {
             "index": 8,
@@ -107,7 +107,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-exodus.jpg"
             },
-            "map": "arcadia"
+            "mapname": "arcadia"
         },
         {
             "index": 9,
@@ -120,7 +120,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-only-easy-day-was-yesterday.jpg"
             },
-            "map": "oilrig"
+            "mapname": "oilrig"
         },
         {
             "index": 10,
@@ -133,7 +133,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-gulag.jpg"
             },
-            "map": "gulag"
+            "mapname": "gulag"
         },
         {
             "index": 11,
@@ -147,7 +147,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-of-their-own-accord.jpg"
             },
-            "map": "dcburning"
+            "mapname": "dcburning"
         }
     ],
     "Act 3": [
@@ -162,7 +162,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-contingency.jpg"
             },
-            "map": "contingency"
+            "mapname": "contingency"
         },
         {
             "index": 13,
@@ -176,7 +176,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-second-sun.jpg"
             },
-            "map": "dcemp"
+            "mapname": "dcemp"
         },
         {
             "index": 14,
@@ -190,7 +190,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-whiskey-hotel.jpg"
             },
-            "map": "dc_whitehouse"
+            "mapname": "dc_whitehouse"
         },
         {
             "index": 15,
@@ -201,7 +201,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-loose-ends.jpg"
             },
-            "map": "estate"
+            "mapname": "estate"
         },
         {
             "index": 16,
@@ -214,7 +214,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-enemy-of-my-enemy.jpg"
             },
-            "map": "boneyard"
+            "mapname": "boneyard"
         },
         {
             "index": 17,
@@ -227,7 +227,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-just-like-old-times.jpg"
             },
-            "map": "af_caves"
+            "mapname": "af_caves"
         },
         {
             "index": 18,
@@ -240,7 +240,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-endgame.jpg"
             },
-            "map": "af_chase"
+            "mapname": "af_chase"
         }
     ],
     "Credits": [
@@ -256,7 +256,7 @@
             "preview": {
                 "url": "https://callofdutymaps.com/wp-content/uploads/MW2-museum-info-1024x576.jpg"
             },
-            "map": "ending"
+            "mapname": "ending"
         }
     ]
 }
