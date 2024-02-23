@@ -5,12 +5,17 @@
                 "_key": "MPUI_DESC_MAP_AF_CAVES",
                 "english": "Search the Afghan cave network for General Shepherd."
             },
+            "index": 17,
+            "loadscreen": {
+                "filename": "loadscreen_af_caves.iwi"
+            },
             "mapname": "af_caves",
             "minimap": {
-                "name": "compass_map_af_caves"
+                "filename": "compass_map_af_caves.iwi"
             },
             "preview": {
-                "name": "preview_af_caves",
+                "filename": "preview_af_caves.iwi",
+                "md5": "7953e86cc92dd2790a26f9aad8e54c55",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_caves.png"
             },
             "source": {
@@ -22,8 +27,8 @@
                 "english": "Just Like Old Times (#17)"
             },
             "waypoints": {
-                "count": 234,
-                "file": "af_caves_wp.csv",
+                "count": 233,
+                "filename": "af_caves_wp.csv",
                 "md5": "b96f24466719c26db2f7a1989b63045a",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_caves_wp.csv"
             }
@@ -33,12 +38,17 @@
                 "_key": "MPUI_DESC_MAP_AF_CHASE",
                 "english": "Kill General Shepherd."
             },
+            "index": 18,
+            "loadscreen": {
+                "filename": "loadscreen_af_chase.iwi"
+            },
             "mapname": "af_chase",
             "minimap": {
-                "name": "compass_map_af_chase"
+                "filename": "compass_map_af_chase.iwi"
             },
             "preview": {
-                "name": "preview_af_chase",
+                "filename": "preview_af_chase.iwi",
+                "md5": "ec4dabe583d9b5278e9505afbe31e3a7",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_chase.png"
             },
             "source": {
@@ -51,7 +61,7 @@
             },
             "waypoints": {
                 "count": 88,
-                "file": "af_chase_wp.csv",
+                "filename": "af_chase_wp.csv",
                 "md5": "5ceac89ef46ca2a75f942b07cb90c113",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_chase_wp.csv"
             }
@@ -64,12 +74,17 @@
                 "_key": "MPUI_DESC_MAP_AIRPORT",
                 "english": "Earn Makarov's trust."
             },
+            "index": 4,
+            "loadscreen": {
+                "filename": "loadscreen_airport.iwi"
+            },
             "mapname": "airport",
             "minimap": {
-                "name": "compass_map_airport"
+                "filename": "compass_map_airport.iwi"
             },
             "preview": {
-                "name": "preview_airport",
+                "filename": "preview_airport.iwi",
+                "md5": "81c7c5b256e6d8af8297106132187fde",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/airport.png"
             },
             "source": {
@@ -82,7 +97,7 @@
             },
             "waypoints": {
                 "count": 275,
-                "file": "airport_wp.csv",
+                "filename": "airport_wp.csv",
                 "md5": "59148528c2030071c5b31d897253304d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/airport_wp.csv"
             }
@@ -95,12 +110,17 @@
                 "_key": "MPUI_DESC_MAP_ARCADIA",
                 "english": "Assist in the evacuation of civilians and key personnel in the suburbs."
             },
+            "index": 8,
+            "loadscreen": {
+                "filename": "loadscreen_arcadia.iwi"
+            },
             "mapname": "arcadia",
             "minimap": {
-                "name": "compass_map_arcadia"
+                "filename": "compass_map_arcadia.iwi"
             },
             "preview": {
-                "name": "preview_arcadia",
+                "filename": "preview_arcadia.iwi",
+                "md5": "a2c7414a2e2dcc4aeb6ff726a0042ce9",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/arcadia.png"
             },
             "source": {
@@ -113,7 +133,7 @@
             },
             "waypoints": {
                 "count": 257,
-                "file": "arcadia_wp.csv",
+                "filename": "arcadia_wp.csv",
                 "md5": "891524c4a3a2f3e48baeb4f41b08d0d8",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/arcadia_wp.csv"
             }
@@ -126,12 +146,18 @@
                 "_key": "MPUI_DESC_MAP_SCRAPYARD",
                 "english": "Escape from General Shepherd's trap in the boneyard."
             },
+            "index": 16,
+            "loadscreen": {
+                "filename": "loadscreen_boneyard.iwi"
+            },
             "mapname": "boneyard",
             "minimap": {
-                "name": "compass_map_boneyard"
+                "filename": "compass_map_boneyard.iwi"
             },
             "preview": {
-                "name": "preview_boneyard"
+                "filename": "preview_boneyard.iwi",
+                "md5": "ab1bcb82a6e3089f6efe1af57363d9b3",
+                "url": "https://callofdutymaps.com/wp-content/uploads/boneyard1-1500x500.jpg"
             },
             "source": {
                 "name": "Singleplayer (Act 3)",
@@ -142,8 +168,8 @@
                 "english": "The Enemy of My Enemy (#16)"
             },
             "waypoints": {
-                "count": 277,
-                "file": "boneyard_wp.csv",
+                "count": 276,
+                "filename": "boneyard_wp.csv",
                 "md5": "da143b52fc8950bc727b2f254fa861df",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv"
             }
@@ -158,12 +184,17 @@
                 "_key": "MPUI_DESC_MAP_CLIFFHANGER",
                 "english": "Locate and retrieve the ACS module from a crashed satellite."
             },
+            "index": 3,
+            "loadscreen": {
+                "filename": "loadscreen_cliffhanger.iwi"
+            },
             "mapname": "cliffhanger",
             "minimap": {
-                "name": "compass_map_cliffhanger"
+                "filename": "compass_map_cliffhanger.iwi"
             },
             "preview": {
-                "name": "preview_cliffhanger",
+                "filename": "preview_cliffhanger.iwi",
+                "md5": "8d152acd5d75b4550f2d9bdc5fe7a008",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
             },
             "source": {
@@ -175,8 +206,8 @@
                 "english": "Cliffhanger (#3)"
             },
             "waypoints": {
-                "count": 263,
-                "file": "cliffhanger_wp.csv",
+                "count": 262,
+                "filename": "cliffhanger_wp.csv",
                 "md5": "139f31fb424c703a1ad47c1cf50d98dc",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv"
             }
@@ -189,12 +220,16 @@
                 "_key": "MPUI_DESC_MAP_VILLAGE",
                 "english": "Large African village. Great for all game modes."
             },
+            "loadscreen": {
+                "filename": "loadscreen_co_hunted.iwi"
+            },
             "mapname": "co_hunted",
             "minimap": {
-                "name": "compass_map_co_hunted"
+                "filename": "compass_map_co_hunted.iwi"
             },
             "preview": {
-                "name": "preview_co_hunted",
+                "filename": "preview_co_hunted.iwi",
+                "md5": "21fc6518710355e956e98b369c0c232d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/co_hunted.png"
             },
             "source": {
@@ -205,8 +240,8 @@
                 "english": "Village"
             },
             "waypoints": {
-                "count": 178,
-                "file": "co_hunted_wp.csv",
+                "count": 177,
+                "filename": "co_hunted_wp.csv",
                 "md5": "8acf7d0dafb20de4fde29b313af9da7f",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/co_hunted_wp.csv"
             }
@@ -220,12 +255,17 @@
                 "_key": "MPUI_DESC_MAP_CONTINGENCY",
                 "english": "Help Captain Price reach the Russian submarine."
             },
+            "index": 12,
+            "loadscreen": {
+                "filename": "loadscreen_contingency.iwi"
+            },
             "mapname": "contingency",
             "minimap": {
-                "name": "compass_map_contingency"
+                "filename": "compass_map_contingency.iwi"
             },
             "preview": {
-                "name": "preview_contingency",
+                "filename": "preview_contingency.iwi",
+                "md5": "cbe1b9a7cd157eb2dfe9f78f44bc71e0",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
             },
             "source": {
@@ -238,7 +278,7 @@
             },
             "waypoints": {
                 "count": 166,
-                "file": "contingency_wp.csv",
+                "filename": "contingency_wp.csv",
                 "md5": "833a3321486bb033b5b4237820d14a4b",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv"
             }
@@ -247,9 +287,16 @@
             "description": {
                 "english": "Retake Whiskey Hotel."
             },
+            "index": 14,
+            "loadscreen": {
+                "filename": "loadscreen_dc_whitehouse.iwi"
+            },
             "mapname": "dc_whitehouse",
+            "minimap": {
+                "filename": "compass_map_dc_whitehouse.iwi"
+            },
             "preview": {
-                "url": "https://callofdutymaps.com/wp-content/uploads/MW2-whiskey-hotel.jpg"
+                "filename": "preview_dc_whitehouse.iwi"
             },
             "source": {
                 "name": "Singleplayer (Act 3)",
@@ -259,7 +306,7 @@
                 "english": "Whiskey Hotel (#14)"
             },
             "waypoints": {
-                "file": "dc_whitehouse_wp.csv"
+                "filename": "dc_whitehouse_wp.csv"
             }
         },
         "dcburning": {
@@ -267,12 +314,17 @@
                 "_key": "MPUI_DESC_MAP_DCBURNING",
                 "english": "Protect the evacuation site at the Washington Monument."
             },
+            "index": 11,
+            "loadscreen": {
+                "filename": "loadscreen_dcburning.iwi"
+            },
             "mapname": "dcburning",
             "minimap": {
-                "name": "compass_map_dcburning"
+                "filename": "compass_map_dcburning.iwi"
             },
             "preview": {
-                "name": "preview_dcburning",
+                "filename": "preview_dcburning.iwi",
+                "md5": "45ba8864ed8cfe9c83a66c32a4d7fc6e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcburning.png"
             },
             "source": {
@@ -284,8 +336,8 @@
                 "english": "Of Their Own Accord (#11)"
             },
             "waypoints": {
-                "count": 469,
-                "file": "dcburning_wp.csv",
+                "count": 468,
+                "filename": "dcburning_wp.csv",
                 "md5": "9414d2c8dea623b11898b0b12df3c2e6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcburning_wp.csv"
             }
@@ -295,12 +347,17 @@
                 "_key": "MPUI_DESC_MAP_DCEMP",
                 "english": "Get to Whiskey Hotel."
             },
+            "index": 13,
+            "loadscreen": {
+                "filename": "loadscreen_dcemp.iwi"
+            },
             "mapname": "dcemp",
             "minimap": {
-                "name": "compass_map_dcemp"
+                "filename": "compass_map_dcemp.iwi"
             },
             "preview": {
-                "name": "preview_dcemp",
+                "filename": "preview_dcemp.iwi",
+                "md5": "4608fc087544e952990ca9d1143080a5",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcemp.png"
             },
             "source": {
@@ -312,8 +369,8 @@
                 "english": "Second Sun (#13)"
             },
             "waypoints": {
-                "count": 248,
-                "file": "dcemp_wp.csv",
+                "count": 247,
+                "filename": "dcemp_wp.csv",
                 "md5": "5e5c7ce7eff07aacd75a96d90b116e39",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcemp_wp.csv"
             }
@@ -323,12 +380,17 @@
                 "_key": "MPUI_DESC_MAP_ENDING",
                 "english": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don't Push Any Buttons!)"
             },
+            "index": 19,
+            "loadscreen": {
+                "filename": "loadscreen_ending.iwi"
+            },
             "mapname": "ending",
             "minimap": {
-                "name": "compass_map_ending"
+                "filename": "compass_map_ending.iwi"
             },
             "preview": {
-                "name": "preview_ending",
+                "filename": "preview_ending.iwi",
+                "md5": "3c74581c6dc46647f9022253a695021e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/ending.png"
             },
             "source": {
@@ -341,7 +403,7 @@
             },
             "waypoints": {
                 "count": 20,
-                "file": "ending_wp.csv",
+                "filename": "ending_wp.csv",
                 "md5": "aaea74a94d6a1d678b3901a798672b34",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/ending_wp.csv"
             }
@@ -360,12 +422,17 @@
                 "russian": "\u00cb\u00e5\u00f1\u00ed\u00ee\u00e9 \u00e4\u00ee\u00ec\u00e8\u00ea. \u00c1\u00ee\u00e9 \u00e7\u00e0 \u00ef\u00ee\u00eb\u00f3\u00f7\u00e5\u00ed\u00e8\u00e5 \u00ea\u00ee\u00ed\u00f2\u00f0\u00ee\u00eb\u00ff \u00ed\u00e0\u00e4 \u00f1\u00f2\u00f0\u00ee\u00e5\u00ed\u00e8\u00e5\u00ec.",
                 "spanish": "Una choza en los bosques. Se lucha por su control."
             },
+            "index": 15,
+            "loadscreen": {
+                "filename": "loadscreen_estate.iwi"
+            },
             "mapname": "estate",
             "minimap": {
-                "name": "compass_map_estate"
+                "filename": "compass_map_estate.iwi"
             },
             "preview": {
-                "name": "preview_estate",
+                "filename": "preview_estate.iwi",
+                "md5": "af4deed92e8cac9ea0285b7c245d6a1c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/estate.png"
             },
             "source": {
@@ -377,7 +444,9 @@
                 "english": "Loose Ends (#15)"
             },
             "waypoints": {
-                "file": "estate_wp.csv"
+                "count": 313,
+                "filename": "estate_wp.csv",
+                "md5": "877cfbd7ce41014bec99534192e41337"
             }
         },
         "favela": {
@@ -395,12 +464,17 @@
                 "russian": "\u00cb\u00e0\u00e1\u00e8\u00f0\u00e8\u00ed\u00f2 \u00e1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e8\u00f5 \u00f3\u00eb\u00ee\u00f7\u00e5\u00ea. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb \u00e8 \u00e4\u00eb\u00ff \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2 \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2.",
                 "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
             },
+            "index": 5,
+            "loadscreen": {
+                "filename": "loadscreen_favela.iwi"
+            },
             "mapname": "favela",
             "minimap": {
-                "name": "compass_map_favela"
+                "filename": "compass_map_favela.iwi"
             },
             "preview": {
-                "name": "preview_favela",
+                "filename": "preview_favela.iwi",
+                "md5": "92981603a1fd9b8a719af788d6a81b7c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
             },
             "source": {
@@ -413,7 +487,7 @@
             },
             "waypoints": {
                 "count": 14,
-                "file": "favela_wp.csv",
+                "filename": "favela_wp.csv",
                 "md5": "730cef9689a99d612c000672149e799b",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv"
             }
@@ -426,12 +500,17 @@
                 "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
                 "english": "Escape the favela."
             },
+            "index": 7,
+            "loadscreen": {
+                "filename": "loadscreen_favela_escape.iwi"
+            },
             "mapname": "favela_escape",
             "minimap": {
-                "name": "compass_map_favela_escape"
+                "filename": "compass_map_favela_escape.iwi"
             },
             "preview": {
-                "name": "preview_favela_escape",
+                "filename": "preview_favela_escape.iwi",
+                "md5": "6deb2cafd496b176220a71284e01daf6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela_escape.png"
             },
             "source": {
@@ -444,7 +523,7 @@
             },
             "waypoints": {
                 "count": 286,
-                "file": "favela_escape_wp.csv",
+                "filename": "favela_escape_wp.csv",
                 "md5": "25402d4ed3920503f7d14221038168de",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_escape_wp.csv"
             }
@@ -463,12 +542,17 @@
                 "russian": "\u00cd\u00ee\u00f7\u00ed\u00e0\u00ff \u00f1\u00f5\u00e2\u00e0\u00f2\u00ea\u00e0 \u00ed\u00e0 \u00f2\u00e5\u00f0\u00f0\u00e8\u00f2\u00ee\u00f0\u00e8\u00e8 \u00f2\u00fe\u00f0\u00fc\u00ec\u00fb. \u00d8\u00e8\u00f0\u00ee\u00ea\u00e8\u00e9 \u00f1\u00ef\u00e5\u00ea\u00f2\u00f0 \u00f0\u00f3\u00f1\u00f1\u00ea\u00e8\u00f5 \u00f2\u00fe\u00f0\u00e5\u00ec\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
                 "spanish": "Pelea nocturna en una c\u00e1rcel. Luchas a gran escala en una prisi\u00f3n rusa."
             },
+            "index": 10,
+            "loadscreen": {
+                "filename": "loadscreen_gulag.iwi"
+            },
             "mapname": "gulag",
             "minimap": {
-                "name": "compass_map_gulag"
+                "filename": "compass_map_gulag.iwi"
             },
             "preview": {
-                "name": "preview_gulag",
+                "filename": "preview_gulag.iwi",
+                "md5": "852b4a676d684f942b2088fcd4acf214",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/gulag.png"
             },
             "source": {
@@ -484,7 +568,7 @@
             },
             "waypoints": {
                 "count": 252,
-                "file": "gulag_wp.csv",
+                "filename": "gulag_wp.csv",
                 "md5": "dcf71a0e3223e48bb722ca3697d44483",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/gulag_wp.csv"
             }
@@ -505,12 +589,17 @@
                 "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
                 "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
             },
+            "index": 6,
+            "loadscreen": {
+                "filename": "loadscreen_invasion.iwi"
+            },
             "mapname": "invasion",
             "minimap": {
-                "name": "compass_map_invasion"
+                "filename": "compass_map_invasion.iwi"
             },
             "preview": {
-                "name": "preview_invasion",
+                "filename": "preview_invasion.iwi",
+                "md5": "5a12cc65acf5bb3b671b52c5b02999f3",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
             },
             "source": {
@@ -522,7 +611,7 @@
                 "english": "Wolverines! (#6)"
             },
             "waypoints": {
-                "file": "invasion_wp.csv"
+                "filename": "invasion_wp.csv"
             }
         },
         "iw4_credits": {
@@ -530,12 +619,16 @@
                 "_key": "MPUI_DESC_MAP_IW4_CREDITS",
                 "english": "Iw4 Credits is a map for Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_iw4_credits.iwi"
+            },
             "mapname": "iw4_credits",
             "minimap": {
-                "name": "compass_map_iw4_credits"
+                "filename": "compass_map_iw4_credits.iwi"
             },
             "preview": {
-                "name": "preview_iw4_credits",
+                "filename": "preview_iw4_credits.iwi",
+                "md5": "aedb737d6cc3b7cf9ea1f423b239e5dd",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/iw4_credits.png"
             },
             "source": {
@@ -546,7 +639,7 @@
                 "english": "Iw4 Credits"
             },
             "waypoints": {
-                "file": "iw4_credits_wp.csv"
+                "filename": "iw4_credits_wp.csv"
             }
         },
         "mp_abandon": {
@@ -554,12 +647,16 @@
                 "_key": "MPUI_DESC_MAP_ABANDON",
                 "english": "Abandon is a map from Resurgence DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_abandon.iwi"
+            },
             "mapname": "mp_abandon",
             "minimap": {
-                "name": "compass_map_mp_abandon"
+                "filename": "compass_map_mp_abandon.iwi"
             },
             "preview": {
-                "name": "preview_mp_abandon",
+                "filename": "preview_mp_abandon.iwi",
+                "md5": "a46fb05279d3a83e74671ed0dca3470d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_abandon.png"
             },
             "source": {
@@ -571,8 +668,8 @@
                 "english": "Abandon"
             },
             "waypoints": {
-                "count": 388,
-                "file": "mp_abandon_wp.csv",
+                "count": 387,
+                "filename": "mp_abandon_wp.csv",
                 "md5": "655f2b18df83af21229768be63e07339",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_abandon_wp.csv"
             }
@@ -582,12 +679,15 @@
                 "_key": "MPUI_DESC_MAP_ABANDONFF",
                 "english": "Abandonff is a map for Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_abandonff.iwi"
+            },
             "mapname": "mp_abandonff",
             "minimap": {
-                "name": "compass_map_mp_abandonff"
+                "filename": "compass_map_mp_abandonff.iwi"
             },
             "preview": {
-                "name": "preview_mp_abandonff"
+                "filename": "preview_mp_abandonff.iwi"
             },
             "source": {
                 "name": "Base Game / DLC"
@@ -597,7 +697,7 @@
                 "english": "Abandonff"
             },
             "waypoints": {
-                "file": "mp_abandonff_wp.csv"
+                "filename": "mp_abandonff_wp.csv"
             }
         },
         "mp_afghan": {
@@ -611,12 +711,16 @@
                 "russian": "\u00d3\u00f7\u00e0\u00f1\u00f2\u00ee\u00ea \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00e8 \u00f1\u00f0\u00e5\u00e4\u00ed\u00e8\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2. \u00cd\u00e0\u00ef\u00f0\u00ff\u00e6\u00e5\u00ed\u00ed\u00fb\u00e5 \u00e1\u00ee\u00e8 \u00e2 \u00f0\u00e5\u00e6\u00e8\u00ec\u00e5 \\",
                 "spanish": "Un desierto de tama\u00f1o medio. Emocionantes batallas de demolici\u00f3n."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_afghan.iwi"
+            },
             "mapname": "mp_afghan",
             "minimap": {
-                "name": "compass_map_mp_afghan"
+                "filename": "compass_map_mp_afghan.iwi"
             },
             "preview": {
-                "name": "preview_mp_afghan",
+                "filename": "preview_mp_afghan.iwi",
+                "md5": "8d34da1f003ed2067c21ee7ade2866bc",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_afghan.png"
             },
             "source": {
@@ -627,8 +731,8 @@
                 "english": "Afghan"
             },
             "waypoints": {
-                "count": 293,
-                "file": "mp_afghan_wp.csv",
+                "count": 292,
+                "filename": "mp_afghan_wp.csv",
                 "md5": "5f1e2d7d4d751d91cafe02eff6fe5fe6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_afghan_wp.csv"
             }
@@ -638,12 +742,15 @@
                 "_key": "MPUI_DESC_MAP_AFTER_TCHERNOBYL",
                 "english": "After Tchernobyl is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_after_tchernobyl.iwi"
+            },
             "mapname": "mp_after_tchernobyl",
             "minimap": {
-                "name": "compass_map_mp_after_tchernobyl"
+                "filename": "compass_map_mp_after_tchernobyl.iwi"
             },
             "preview": {
-                "name": "preview_mp_after_tchernobyl"
+                "filename": "preview_mp_after_tchernobyl.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -654,7 +761,7 @@
                 "english": "After Tchernobyl"
             },
             "waypoints": {
-                "file": "mp_after_tchernobyl_wp.csv"
+                "filename": "mp_after_tchernobyl_wp.csv"
             }
         },
         "mp_alpha": {
@@ -662,12 +769,16 @@
                 "_key": "MPUI_DESC_MAP_ALPHA",
                 "english": "Alpha is a map from IW4x Call of Duty: Modern Warfare 3 DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_alpha.iwi"
+            },
             "mapname": "mp_alpha",
             "minimap": {
-                "name": "compass_map_mp_alpha"
+                "filename": "compass_map_mp_alpha.iwi"
             },
             "preview": {
-                "name": "preview_mp_alpha",
+                "filename": "preview_mp_alpha.iwi",
+                "md5": "2b806f23e9bc50b69209352c002f9fd1",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_alpha.png"
             },
             "source": {
@@ -679,8 +790,8 @@
                 "english": "Alpha"
             },
             "waypoints": {
-                "count": 230,
-                "file": "mp_alpha_wp.csv",
+                "count": 229,
+                "filename": "mp_alpha_wp.csv",
                 "md5": "db0f20cab77d19b456b67026e8a02863",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_alpha_wp.csv"
             }
@@ -690,12 +801,15 @@
                 "_key": "MPUI_DESC_MAP_ANCIENT",
                 "english": "Ancient is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_ancient.iwi"
+            },
             "mapname": "mp_ancient",
             "minimap": {
-                "name": "compass_map_mp_ancient"
+                "filename": "compass_map_mp_ancient.iwi"
             },
             "preview": {
-                "name": "preview_mp_ancient"
+                "filename": "preview_mp_ancient.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -706,7 +820,7 @@
                 "english": "Ancient"
             },
             "waypoints": {
-                "file": "mp_ancient_wp.csv"
+                "filename": "mp_ancient_wp.csv"
             }
         },
         "mp_arbor": {
@@ -714,12 +828,15 @@
                 "_key": "MPUI_DESC_MAP_ARBOR",
                 "english": "Arbor is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_arbor.iwi"
+            },
             "mapname": "mp_arbor",
             "minimap": {
-                "name": "compass_map_mp_arbor"
+                "filename": "compass_map_mp_arbor.iwi"
             },
             "preview": {
-                "name": "preview_mp_arbor"
+                "filename": "preview_mp_arbor.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -730,7 +847,7 @@
                 "english": "Arbor"
             },
             "waypoints": {
-                "file": "mp_arbor_wp.csv"
+                "filename": "mp_arbor_wp.csv"
             }
         },
         "mp_backlot": {
@@ -744,12 +861,16 @@
                 "russian": "\u00d1\u00f0\u00e5\u00e4\u00ed\u00e5\u00e3\u00ee \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00e0 \u00f1\u00f2\u00f0\u00ee\u00e9\u00ef\u00eb\u00ee\u00f9\u00e0\u00e4\u00ea\u00e0. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb.",
                 "spanish": "Obra mediana. Gran nivel para todos los modos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_backlot.iwi"
+            },
             "mapname": "mp_backlot",
             "minimap": {
-                "name": "compass_map_mp_backlot"
+                "filename": "compass_map_mp_backlot.iwi"
             },
             "preview": {
-                "name": "preview_mp_backlot",
+                "filename": "preview_mp_backlot.iwi",
+                "md5": "e503388462f456ecf1a7c56f46cd1045",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_backlot.png"
             },
             "source": {
@@ -767,8 +888,8 @@
                 "spanish": "Terreno en obras"
             },
             "waypoints": {
-                "count": 179,
-                "file": "mp_backlot_wp.csv",
+                "count": 178,
+                "filename": "mp_backlot_wp.csv",
                 "md5": "bb515d0706aba0a188cfda08853299e7",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_wp.csv"
             }
@@ -778,12 +899,15 @@
                 "_key": "MPUI_DESC_MAP_BACKLOT_SNOW",
                 "english": "Backlot Snow is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_backlot_snow.iwi"
+            },
             "mapname": "mp_backlot_snow",
             "minimap": {
-                "name": "compass_map_mp_backlot_snow"
+                "filename": "compass_map_mp_backlot_snow.iwi"
             },
             "preview": {
-                "name": "preview_mp_backlot_snow"
+                "filename": "preview_mp_backlot_snow.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -795,7 +919,7 @@
             },
             "waypoints": {
                 "count": 178,
-                "file": "mp_backlot_snow_wp.csv",
+                "filename": "mp_backlot_snow_wp.csv",
                 "md5": "5d17b9d0f77073c14b6642f8411174ca",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_backlot_snow_wp.csv"
             }
@@ -805,12 +929,17 @@
                 "_key": "MPUI_DESC_MAP_BAKAARA",
                 "english": "Bakaara is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bakaara.iwi"
+            },
             "mapname": "mp_bakaara",
             "minimap": {
-                "name": "compass_map_mp_bakaara"
+                "filename": "compass_map_mp_bakaara.iwi"
             },
             "preview": {
-                "name": "preview_mp_bakaara"
+                "filename": "preview_mp_bakaara.iwi",
+                "md5": "4446eaedcbecb4575646953bd4e3ecc3",
+                "url": "https://callofdutymaps.com/wp-content/uploads/bakaara1-1500x500.jpg"
             },
             "source": {
                 "name": "Custom Maps",
@@ -821,8 +950,8 @@
                 "english": "Bakaara"
             },
             "waypoints": {
-                "count": 172,
-                "file": "mp_bakaara_wp.csv",
+                "count": 171,
+                "filename": "mp_bakaara_wp.csv",
                 "md5": "11f175be80eaa94c6319ab6993300748",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bakaara_wp.csv"
             }
@@ -832,12 +961,15 @@
                 "_key": "MPUI_DESC_MAP_BJWIFI_AIM",
                 "english": "Bjwifi Aim is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bjwifi_aim.iwi"
+            },
             "mapname": "mp_bjwifi_aim",
             "minimap": {
-                "name": "compass_map_mp_bjwifi_aim"
+                "filename": "compass_map_mp_bjwifi_aim.iwi"
             },
             "preview": {
-                "name": "preview_mp_bjwifi_aim"
+                "filename": "preview_mp_bjwifi_aim.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -848,8 +980,8 @@
                 "english": "Bjwifi Aim"
             },
             "waypoints": {
-                "count": 190,
-                "file": "mp_bjwifi_aim_wp.csv",
+                "count": 189,
+                "filename": "mp_bjwifi_aim_wp.csv",
                 "md5": "a37db0cfd0537aeccf4ae15db7bb641d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bjwifi_aim_wp.csv"
             }
@@ -865,12 +997,16 @@
                 "russian": "\u00d0\u00ee\u00f1\u00f1\u00e8\u00ff, \u00e1\u00ee\u00eb\u00fc\u00f8\u00ee\u00e9 \u00e6\u00e8\u00eb\u00ee\u00e9 \u00ea\u00e2\u00e0\u00f0\u00f2\u00e0\u00eb. \u00cd\u00e0\u00ef\u00f0\u00ff\u00e6\u00e5\u00ed\u00ed\u00fb\u00e5 \u00e1\u00ee\u00e8 \u00e2 \u00f0\u00e5\u00e6\u00e8\u00ec\u00e5 \\",
                 "spanish": "Bloque de apartamentos ruso grande. Partidas de Dominio intensas."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bloc.iwi"
+            },
             "mapname": "mp_bloc",
             "minimap": {
-                "name": "compass_map_mp_bloc"
+                "filename": "compass_map_mp_bloc.iwi"
             },
             "preview": {
-                "name": "preview_mp_bloc",
+                "filename": "preview_mp_bloc.iwi",
+                "md5": "ecf221134d7cbdf124cf325e80b3066b",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bloc.png"
             },
             "source": {
@@ -887,8 +1023,8 @@
                 "spanish": "Bloque"
             },
             "waypoints": {
-                "count": 465,
-                "file": "mp_bloc_wp.csv",
+                "count": 464,
+                "filename": "mp_bloc_wp.csv",
                 "md5": "b5fd4d828898ad5cf8a4f52d25f8d125",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_wp.csv"
             }
@@ -898,12 +1034,16 @@
                 "_key": "MPUI_DESC_MAP_FORGOTTEN_CITY",
                 "english": "Forgotten City is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bloc_sh.iwi"
+            },
             "mapname": "mp_bloc_sh",
             "minimap": {
-                "name": "compass_map_mp_bloc_sh"
+                "filename": "compass_map_mp_bloc_sh.iwi"
             },
             "preview": {
-                "name": "preview_mp_bloc_sh",
+                "filename": "preview_mp_bloc_sh.iwi",
+                "md5": "98cfc1e670bd12e35d0b39a7b461da95",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bloc_sh.png"
             },
             "source": {
@@ -915,8 +1055,8 @@
                 "english": "Forgotten City"
             },
             "waypoints": {
-                "count": 465,
-                "file": "mp_bloc_sh_wp.csv",
+                "count": 464,
+                "filename": "mp_bloc_sh_wp.csv",
                 "md5": "b5fd4d828898ad5cf8a4f52d25f8d125",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bloc_sh_wp.csv"
             }
@@ -926,12 +1066,15 @@
                 "_key": "MPUI_DESC_MAP_BO2CARRIER",
                 "english": "Bo2Carrier is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bo2carrier.iwi"
+            },
             "mapname": "mp_bo2carrier",
             "minimap": {
-                "name": "compass_map_mp_bo2carrier"
+                "filename": "compass_map_mp_bo2carrier.iwi"
             },
             "preview": {
-                "name": "preview_mp_bo2carrier"
+                "filename": "preview_mp_bo2carrier.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -942,8 +1085,8 @@
                 "english": "Bo2Carrier"
             },
             "waypoints": {
-                "count": 300,
-                "file": "mp_bo2carrier_wp.csv",
+                "count": 299,
+                "filename": "mp_bo2carrier_wp.csv",
                 "md5": "268be658f1e97d2684f6daff1da08817",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2carrier_wp.csv"
             }
@@ -953,12 +1096,15 @@
                 "_key": "MPUI_DESC_MAP_BO2PAINTBALL",
                 "english": "Bo2Paintball is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bo2paintball.iwi"
+            },
             "mapname": "mp_bo2paintball",
             "minimap": {
-                "name": "compass_map_mp_bo2paintball"
+                "filename": "compass_map_mp_bo2paintball.iwi"
             },
             "preview": {
-                "name": "preview_mp_bo2paintball"
+                "filename": "preview_mp_bo2paintball.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -969,8 +1115,8 @@
                 "english": "Bo2Paintball"
             },
             "waypoints": {
-                "count": 228,
-                "file": "mp_bo2paintball_wp.csv",
+                "count": 227,
+                "filename": "mp_bo2paintball_wp.csv",
                 "md5": "968d019a72d55ce45dd1943f085f9be4",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2paintball_wp.csv"
             }
@@ -980,12 +1126,15 @@
                 "_key": "MPUI_DESC_MAP_BO2YEMEN",
                 "english": "Bo2Yemen is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bo2yemen.iwi"
+            },
             "mapname": "mp_bo2yemen",
             "minimap": {
-                "name": "compass_map_mp_bo2yemen"
+                "filename": "compass_map_mp_bo2yemen.iwi"
             },
             "preview": {
-                "name": "preview_mp_bo2yemen"
+                "filename": "preview_mp_bo2yemen.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -996,8 +1145,8 @@
                 "english": "Bo2Yemen"
             },
             "waypoints": {
-                "count": 365,
-                "file": "mp_bo2yemen_wp.csv",
+                "count": 364,
+                "filename": "mp_bo2yemen_wp.csv",
                 "md5": "ae34cea8a09eae85b14f4025bcf887d6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2yemen_wp.csv"
             }
@@ -1013,12 +1162,16 @@
                 "russian": "\u00cc\u00e0\u00eb\u00e5\u00ed\u00fc\u00ea\u00ee\u00e5 \u00e1\u00ee\u00eb\u00ee\u00f2\u00ee \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ce\u00f2\u00ea\u00f0\u00fb\u00f2\u00ee\u00e5 \u00ef\u00f0\u00ee\u00f1\u00f2\u00f0\u00e0\u00ed\u00f1\u00f2\u00e2\u00ee, \u00f3\u00e4\u00ee\u00e1\u00ed\u00ee \u00e4\u00eb\u00ff \u00ed\u00e5\u00e1\u00ee\u00eb\u00fc\u00f8\u00e8\u00f5 \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2.",
                 "spanish": "Peque\u00f1a ci\u00e9naga en el desierto. Nivel abierto, excelente para grupos m\u00e1s peque\u00f1os."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bog_sh.iwi"
+            },
             "mapname": "mp_bog_sh",
             "minimap": {
-                "name": "compass_map_mp_bog_sh"
+                "filename": "compass_map_mp_bog_sh.iwi"
             },
             "preview": {
-                "name": "preview_mp_bog_sh",
+                "filename": "preview_mp_bog_sh.iwi",
+                "md5": "306444e7e53d73c0ff7e35b04d93a6e1",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bog_sh.png"
             },
             "source": {
@@ -1030,8 +1183,8 @@
                 "english": "Bog"
             },
             "waypoints": {
-                "count": 211,
-                "file": "mp_bog_sh_wp.csv",
+                "count": 210,
+                "filename": "mp_bog_sh_wp.csv",
                 "md5": "8788e5aeb1b2ce43214db97308deb3ad",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bog_sh_wp.csv"
             }
@@ -1041,12 +1194,16 @@
                 "_key": "MPUI_DESC_MAP_SCRAPYARD",
                 "english": "Scrapyard is a map from Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_boneyard.iwi"
+            },
             "mapname": "mp_boneyard",
             "minimap": {
-                "name": "compass_map_mp_boneyard"
+                "filename": "compass_map_mp_boneyard.iwi"
             },
             "preview": {
-                "name": "preview_mp_boneyard",
+                "filename": "preview_mp_boneyard.iwi",
+                "md5": "fd45f0dcdb768ad5a1fbefd312cc7ebd",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_boneyard.png"
             },
             "source": {
@@ -1057,8 +1214,8 @@
                 "english": "Scrapyard"
             },
             "waypoints": {
-                "count": 239,
-                "file": "mp_boneyard_wp.csv",
+                "count": 238,
+                "filename": "mp_boneyard_wp.csv",
                 "md5": "f60890280b581cb98f4a376936643949",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_boneyard_wp.csv"
             }
@@ -1068,12 +1225,15 @@
                 "_key": "MPUI_DESC_MAP_BOX_HJACKED",
                 "english": "Box Hjacked is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_box_hjacked.iwi"
+            },
             "mapname": "mp_box_hjacked",
             "minimap": {
-                "name": "compass_map_mp_box_hjacked"
+                "filename": "compass_map_mp_box_hjacked.iwi"
             },
             "preview": {
-                "name": "preview_mp_box_hjacked"
+                "filename": "preview_mp_box_hjacked.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1084,8 +1244,8 @@
                 "english": "Box Hjacked"
             },
             "waypoints": {
-                "count": 650,
-                "file": "mp_box_hjacked_wp.csv",
+                "count": 649,
+                "filename": "mp_box_hjacked_wp.csv",
                 "md5": "716100fb54612b8db970ca9c7da54d0c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_box_hjacked_wp.csv"
             }
@@ -1095,12 +1255,16 @@
                 "_key": "MPUI_DESC_MAP_BRAVO",
                 "english": "Bravo is a map from IW4x Call of Duty: Modern Warfare 3 DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_bravo.iwi"
+            },
             "mapname": "mp_bravo",
             "minimap": {
-                "name": "compass_map_mp_bravo"
+                "filename": "compass_map_mp_bravo.iwi"
             },
             "preview": {
-                "name": "preview_mp_bravo",
+                "filename": "preview_mp_bravo.iwi",
+                "md5": "36b4ab248242586cc8f99d5c61996440",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_bravo.png"
             },
             "source": {
@@ -1112,8 +1276,8 @@
                 "english": "Bravo"
             },
             "waypoints": {
-                "count": 238,
-                "file": "mp_bravo_wp.csv",
+                "count": 237,
+                "filename": "mp_bravo_wp.csv",
                 "md5": "0e05db3601617be26b267f2c5229d17d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bravo_wp.csv"
             }
@@ -1129,12 +1293,16 @@
                 "russian": "\u00d7\u00e5\u00f0\u00ed\u00ee\u00e1\u00fb\u00eb\u00fc, \u00ee\u00f2\u00ea\u00f0\u00fb\u00f2\u00ee\u00e5 \u00ef\u00f0\u00ee\u00f1\u00f2\u00f0\u00e0\u00ed\u00f1\u00f2\u00e2\u00ee. \u00d3\u00e4\u00ee\u00e1\u00ed\u00ee \u00e4\u00eb\u00ff \u00f1\u00ed\u00e0\u00e9\u00ef\u00e5\u00f0\u00ee\u00e2 \u00e8 \u00e4\u00eb\u00ff \u00ef\u00e5\u00f0\u00e5\u00f1\u00f2\u00f0\u00e5\u00eb\u00ea\u00e8 \u00e8\u00e7\u00e4\u00e0\u00eb\u00e5\u00ea\u00e0.",
                 "spanish": "Chernobyl a campo abierto. Genial para francotiradores y tiroteos a larga distancia."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_brecourt.iwi"
+            },
             "mapname": "mp_brecourt",
             "minimap": {
-                "name": "compass_map_mp_brecourt"
+                "filename": "compass_map_mp_brecourt.iwi"
             },
             "preview": {
-                "name": "preview_mp_brecourt",
+                "filename": "preview_mp_brecourt.iwi",
+                "md5": "6fd7215232f19222a5ef7218c7f7e134",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_brecourt.png"
             },
             "source": {
@@ -1145,8 +1313,8 @@
                 "english": "Brecourt"
             },
             "waypoints": {
-                "count": 325,
-                "file": "mp_brecourt_wp.csv",
+                "count": 324,
+                "filename": "mp_brecourt_wp.csv",
                 "md5": "e9b6ddb5fe67c1c7acf2c24ac5d4f660",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_brecourt_wp.csv"
             }
@@ -1162,12 +1330,16 @@
                 "russian": "\u00d2\u00e5\u00eb\u00e5\u00f1\u00f2\u00e0\u00ed\u00f6\u00e8\u00ff.",
                 "spanish": "Emisora de TV."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_broadcast.iwi"
+            },
             "mapname": "mp_broadcast",
             "minimap": {
-                "name": "compass_map_mp_broadcast"
+                "filename": "compass_map_mp_broadcast.iwi"
             },
             "preview": {
-                "name": "preview_mp_broadcast",
+                "filename": "preview_mp_broadcast.iwi",
+                "md5": "3b29cdfb8e84586220f823ea27efa906",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_broadcast.png"
             },
             "source": {
@@ -1183,8 +1355,8 @@
                 "russian": "\u00d2\u00f0\u00e0\u00ed\u00f1\u00eb\u00ff\u00f6\u00e8\u00ff"
             },
             "waypoints": {
-                "count": 288,
-                "file": "mp_broadcast_wp.csv",
+                "count": 287,
+                "filename": "mp_broadcast_wp.csv",
                 "md5": "f953482ba7e88275589fe7b71bddad22",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_broadcast_wp.csv"
             }
@@ -1194,12 +1366,15 @@
                 "_key": "MPUI_DESC_MAP_BROKENROAD",
                 "english": "Brokenroad is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_brokenroad.iwi"
+            },
             "mapname": "mp_brokenroad",
             "minimap": {
-                "name": "compass_map_mp_brokenroad"
+                "filename": "compass_map_mp_brokenroad.iwi"
             },
             "preview": {
-                "name": "preview_mp_brokenroad"
+                "filename": "preview_mp_brokenroad.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1210,7 +1385,7 @@
                 "english": "Brokenroad"
             },
             "waypoints": {
-                "file": "mp_brokenroad_wp.csv"
+                "filename": "mp_brokenroad_wp.csv"
             }
         },
         "mp_burg": {
@@ -1218,12 +1393,15 @@
                 "_key": "MPUI_DESC_MAP_BURG",
                 "english": "Burg is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_burg.iwi"
+            },
             "mapname": "mp_burg",
             "minimap": {
-                "name": "compass_map_mp_burg"
+                "filename": "compass_map_mp_burg.iwi"
             },
             "preview": {
-                "name": "preview_mp_burg"
+                "filename": "preview_mp_burg.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1234,7 +1412,7 @@
                 "english": "Burg"
             },
             "waypoints": {
-                "file": "mp_burg_wp.csv"
+                "filename": "mp_burg_wp.csv"
             }
         },
         "mp_c4s_minecraft": {
@@ -1242,12 +1420,15 @@
                 "_key": "MPUI_DESC_MAP_C4S_MINECRAFT",
                 "english": "C4S Minecraft is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_c4s_minecraft.iwi"
+            },
             "mapname": "mp_c4s_minecraft",
             "minimap": {
-                "name": "compass_map_mp_c4s_minecraft"
+                "filename": "compass_map_mp_c4s_minecraft.iwi"
             },
             "preview": {
-                "name": "preview_mp_c4s_minecraft"
+                "filename": "preview_mp_c4s_minecraft.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1258,7 +1439,7 @@
                 "english": "C4S Minecraft"
             },
             "waypoints": {
-                "file": "mp_c4s_minecraft_wp.csv"
+                "filename": "mp_c4s_minecraft_wp.csv"
             }
         },
         "mp_carentan": {
@@ -1266,12 +1447,16 @@
                 "_key": "MPUI_DESC_MAP_CHINATOWN",
                 "english": "Chinatown is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_carentan.iwi"
+            },
             "mapname": "mp_carentan",
             "minimap": {
-                "name": "compass_map_mp_carentan"
+                "filename": "compass_map_mp_carentan.iwi"
             },
             "preview": {
-                "name": "preview_mp_carentan",
+                "filename": "preview_mp_carentan.iwi",
+                "md5": "70bc937dd55eccec60ac173bd44a629c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_carentan.png"
             },
             "source": {
@@ -1283,8 +1468,8 @@
                 "english": "Chinatown"
             },
             "waypoints": {
-                "count": 286,
-                "file": "mp_carentan_wp.csv",
+                "count": 285,
+                "filename": "mp_carentan_wp.csv",
                 "md5": "1a22e2fdd70459c5f66af42320fe5595",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_wp.csv"
             }
@@ -1294,12 +1479,15 @@
                 "_key": "MPUI_DESC_MAP_CARENTAN_2",
                 "english": "Carentan 2 is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_carentan_2.iwi"
+            },
             "mapname": "mp_carentan_2",
             "minimap": {
-                "name": "compass_map_mp_carentan_2"
+                "filename": "compass_map_mp_carentan_2.iwi"
             },
             "preview": {
-                "name": "preview_mp_carentan_2"
+                "filename": "preview_mp_carentan_2.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1310,8 +1498,8 @@
                 "english": "Carentan 2"
             },
             "waypoints": {
-                "count": 337,
-                "file": "mp_carentan_2_wp.csv",
+                "count": 336,
+                "filename": "mp_carentan_2_wp.csv",
                 "md5": "34574afc9b2460f1efb34f3a7fbe10ef",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_carentan_2_wp.csv"
             }
@@ -1321,12 +1509,16 @@
                 "_key": "MPUI_DESC_MAP_WET_WORK",
                 "english": "Wet Work is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_cargoship.iwi"
+            },
             "mapname": "mp_cargoship",
             "minimap": {
-                "name": "compass_map_mp_cargoship"
+                "filename": "compass_map_mp_cargoship.iwi"
             },
             "preview": {
-                "name": "preview_mp_cargoship",
+                "filename": "preview_mp_cargoship.iwi",
+                "md5": "04083376bb7278a859cb7213b530cd12",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cargoship.png"
             },
             "source": {
@@ -1344,8 +1536,8 @@
                 "spanish": "Trabajo sucio"
             },
             "waypoints": {
-                "count": 330,
-                "file": "mp_cargoship_wp.csv",
+                "count": 329,
+                "filename": "mp_cargoship_wp.csv",
                 "md5": "03b01d0c82a177f3c662d59de0258f88",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_wp.csv"
             }
@@ -1355,12 +1547,16 @@
                 "_key": "MPUI_DESC_MAP_FREIGHTER",
                 "english": "Freighter is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_cargoship_sh.iwi"
+            },
             "mapname": "mp_cargoship_sh",
             "minimap": {
-                "name": "compass_map_mp_cargoship_sh"
+                "filename": "compass_map_mp_cargoship_sh.iwi"
             },
             "preview": {
-                "name": "preview_mp_cargoship_sh",
+                "filename": "preview_mp_cargoship_sh.iwi",
+                "md5": "feb3ddeae3d6559b418038c8f72b34e5",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cargoship_sh.png"
             },
             "source": {
@@ -1372,8 +1568,8 @@
                 "english": "Freighter"
             },
             "waypoints": {
-                "count": 235,
-                "file": "mp_cargoship_sh_wp.csv",
+                "count": 234,
+                "filename": "mp_cargoship_sh_wp.csv",
                 "md5": "2cbd120e36c7bf625fcdbb3536e9d8c2",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cargoship_sh_wp.csv"
             }
@@ -1383,12 +1579,15 @@
                 "_key": "MPUI_DESC_MAP_CC_NIGHT",
                 "english": "Cc Night is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_cc_night.iwi"
+            },
             "mapname": "mp_cc_night",
             "minimap": {
-                "name": "compass_map_mp_cc_night"
+                "filename": "compass_map_mp_cc_night.iwi"
             },
             "preview": {
-                "name": "preview_mp_cc_night"
+                "filename": "preview_mp_cc_night.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1399,7 +1598,7 @@
                 "english": "Cc Night"
             },
             "waypoints": {
-                "file": "mp_cc_night_wp.csv"
+                "filename": "mp_cc_night_wp.csv"
             }
         },
         "mp_checkpoint": {
@@ -1407,12 +1606,16 @@
                 "_key": "MPUI_DESC_MAP_KARACHI",
                 "english": "Karachi is a map from Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_checkpoint.iwi"
+            },
             "mapname": "mp_checkpoint",
             "minimap": {
-                "name": "compass_map_mp_checkpoint"
+                "filename": "compass_map_mp_checkpoint.iwi"
             },
             "preview": {
-                "name": "preview_mp_checkpoint",
+                "filename": "preview_mp_checkpoint.iwi",
+                "md5": "20575cc8158f61475613c6334ddaa966",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_checkpoint.png"
             },
             "source": {
@@ -1424,8 +1627,8 @@
                 "polish": "Karaczi"
             },
             "waypoints": {
-                "count": 562,
-                "file": "mp_checkpoint_wp.csv",
+                "count": 561,
+                "filename": "mp_checkpoint_wp.csv",
                 "md5": "d7e20a875320d0f453a2a87e49d9cc39",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_checkpoint_wp.csv"
             }
@@ -1435,12 +1638,16 @@
                 "_key": "MPUI_DESC_MAP_DISTRICT",
                 "english": "District is a map from IW4x Call of Duty: Modern Warfare DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_citystreets.iwi"
+            },
             "mapname": "mp_citystreets",
             "minimap": {
-                "name": "compass_map_mp_citystreets"
+                "filename": "compass_map_mp_citystreets.iwi"
             },
             "preview": {
-                "name": "preview_mp_citystreets",
+                "filename": "preview_mp_citystreets.iwi",
+                "md5": "b7d3be2818eef29007cc1f7b436455a5",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_citystreets.png"
             },
             "source": {
@@ -1458,8 +1665,8 @@
                 "spanish": "Distrito"
             },
             "waypoints": {
-                "count": 207,
-                "file": "mp_citystreets_wp.csv",
+                "count": 206,
+                "filename": "mp_citystreets_wp.csv",
                 "md5": "e250207ef9985f7152e5ee7e8ff6ae4e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_citystreets_wp.csv"
             }
@@ -1469,12 +1676,16 @@
                 "_key": "MPUI_DESC_MAP_COMPACT",
                 "english": "Compact is a map from Stimulus DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_compact.iwi"
+            },
             "mapname": "mp_compact",
             "minimap": {
-                "name": "compass_map_mp_compact"
+                "filename": "compass_map_mp_compact.iwi"
             },
             "preview": {
-                "name": "preview_mp_compact",
+                "filename": "preview_mp_compact.iwi",
+                "md5": "5a22f8f34cba808aab1f5197a7e413c6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_compact.png"
             },
             "source": {
@@ -1486,8 +1697,8 @@
                 "english": "Compact"
             },
             "waypoints": {
-                "count": 334,
-                "file": "mp_compact_wp.csv",
+                "count": 333,
+                "filename": "mp_compact_wp.csv",
                 "md5": "4c46a0f5598045cd8ca86004f4cc6039",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_compact_wp.csv"
             }
@@ -1497,12 +1708,16 @@
                 "_key": "MPUI_DESC_MAP_COMPLEX",
                 "english": "Complex is a map from Stimulus DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_complex.iwi"
+            },
             "mapname": "mp_complex",
             "minimap": {
-                "name": "compass_map_mp_complex"
+                "filename": "compass_map_mp_complex.iwi"
             },
             "preview": {
-                "name": "preview_mp_complex",
+                "filename": "preview_mp_complex.iwi",
+                "md5": "a77569f0042526ea79b0a72692d7cf1e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_complex.png"
             },
             "source": {
@@ -1514,8 +1729,8 @@
                 "english": "Complex"
             },
             "waypoints": {
-                "count": 361,
-                "file": "mp_complex_wp.csv",
+                "count": 360,
+                "filename": "mp_complex_wp.csv",
                 "md5": "d5f24eaef43c1884f3d976a7d33ab177",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_complex_wp.csv"
             }
@@ -1525,12 +1740,16 @@
                 "_key": "MPUI_DESC_MAP_AMBUSH",
                 "english": "Ambush is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_convoy.iwi"
+            },
             "mapname": "mp_convoy",
             "minimap": {
-                "name": "compass_map_mp_convoy"
+                "filename": "compass_map_mp_convoy.iwi"
             },
             "preview": {
-                "name": "preview_mp_convoy",
+                "filename": "preview_mp_convoy.iwi",
+                "md5": "ea0915cb95263035c82454ce6982945f",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_convoy.png"
             },
             "source": {
@@ -1548,8 +1767,8 @@
                 "spanish": "Emboscada"
             },
             "waypoints": {
-                "count": 239,
-                "file": "mp_convoy_wp.csv",
+                "count": 238,
+                "filename": "mp_convoy_wp.csv",
                 "md5": "46f66c2df013fb882d99c989d9f936eb",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_convoy_wp.csv"
             }
@@ -1565,12 +1784,16 @@
                 "russian": "\u00d1\u00f2\u00e0\u00f0\u00f2\u00ee\u00e2\u00e0\u00ff \u00ef\u00eb\u00ee\u00f9\u00e0\u00e4\u00ea\u00e0. \u00ce\u00f2\u00ea\u00f0\u00fb\u00f2\u00ee\u00e5, \u00f5\u00ee\u00f0\u00ee\u00f8\u00ee \u00ef\u00f0\u00ee\u00f1\u00f2\u00f0\u00e5\u00eb\u00e8\u00e2\u00e0\u00e5\u00ec\u00ee\u00e5 \u00ef\u00f0\u00ee\u00f1\u00f2\u00f0\u00e0\u00ed\u00f1\u00f2\u00e2\u00ee, \u00ef\u00f0\u00ee\u00f1\u00f2\u00ee\u00f0 \u00e4\u00eb\u00ff \u00ee\u00ef\u00e0\u00f1\u00ed\u00fb\u00f5 \u00ec\u00e0\u00ed\u00e5\u00e2\u00f0\u00ee\u00e2.",
                 "spanish": "Plataforma de lanzamiento abierta. L\u00edneas de tiro despejadas y movimientos peligrosos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_countdown.iwi"
+            },
             "mapname": "mp_countdown",
             "minimap": {
-                "name": "compass_map_mp_countdown"
+                "filename": "compass_map_mp_countdown.iwi"
             },
             "preview": {
-                "name": "preview_mp_countdown",
+                "filename": "preview_mp_countdown.iwi",
+                "md5": "26e08a245f7a1d4603563f60731cd928",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_countdown.png"
             },
             "source": {
@@ -1587,8 +1810,8 @@
                 "spanish": "Cuenta atr\u00e1s"
             },
             "waypoints": {
-                "count": 198,
-                "file": "mp_countdown_wp.csv",
+                "count": 197,
+                "filename": "mp_countdown_wp.csv",
                 "md5": "24161ffe37815359d7a9ff80d8bd2854",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_countdown_wp.csv"
             }
@@ -1604,12 +1827,16 @@
                 "russian": "\u00d3\u00ef\u00e0\u00e2\u00f8\u00e8\u00e9 \u00e2\u00e5\u00f0\u00f2\u00ee\u00eb\u00e5\u00f2 \\",
                 "spanish": "Sea Knight derribado en una ciudad des\u00e9rtica. Fant\u00e1stico para las partidas por equipos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_crash.iwi"
+            },
             "mapname": "mp_crash",
             "minimap": {
-                "name": "compass_map_mp_crash"
+                "filename": "compass_map_mp_crash.iwi"
             },
             "preview": {
-                "name": "preview_mp_crash",
+                "filename": "preview_mp_crash.iwi",
+                "md5": "6f54342475d10629131a47e3635b0544",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash.png"
             },
             "source": {
@@ -1626,8 +1853,8 @@
                 "spanish": "Colisi\u00f3n"
             },
             "waypoints": {
-                "count": 317,
-                "file": "mp_crash_wp.csv",
+                "count": 316,
+                "filename": "mp_crash_wp.csv",
                 "md5": "7b94d26c0e7a04fffe1c763d476f8b7e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_wp.csv"
             }
@@ -1637,12 +1864,16 @@
                 "_key": "MPUI_DESC_MAP_WINTER_CRASH",
                 "english": "Winter Crash is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_crash_snow.iwi"
+            },
             "mapname": "mp_crash_snow",
             "minimap": {
-                "name": "compass_map_mp_crash_snow"
+                "filename": "compass_map_mp_crash_snow.iwi"
             },
             "preview": {
-                "name": "preview_mp_crash_snow",
+                "filename": "preview_mp_crash_snow.iwi",
+                "md5": "be77c32d150ac20dad0a8476f27f9e32",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash_snow.png"
             },
             "source": {
@@ -1654,8 +1885,8 @@
                 "english": "Winter Crash"
             },
             "waypoints": {
-                "count": 317,
-                "file": "mp_crash_snow_wp.csv",
+                "count": 316,
+                "filename": "mp_crash_snow_wp.csv",
                 "md5": "7b94d26c0e7a04fffe1c763d476f8b7e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_crash_snow_wp.csv"
             }
@@ -1665,12 +1896,16 @@
                 "_key": "MPUI_DESC_MAP_CRASH:_TROPICAL",
                 "english": "Crash: Tropical is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_crash_tropical.iwi"
+            },
             "mapname": "mp_crash_tropical",
             "minimap": {
-                "name": "compass_map_mp_crash_tropical"
+                "filename": "compass_map_mp_crash_tropical.iwi"
             },
             "preview": {
-                "name": "preview_mp_crash_tropical",
+                "filename": "preview_mp_crash_tropical.iwi",
+                "md5": "a048e5d35ba66315d07c2c7c43a3cb32",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_crash_tropical.png"
             },
             "source": {
@@ -1682,7 +1917,7 @@
                 "english": "Crash: Tropical"
             },
             "waypoints": {
-                "file": "mp_crash_tropical_wp.csv"
+                "filename": "mp_crash_tropical_wp.csv"
             }
         },
         "mp_creek": {
@@ -1690,12 +1925,17 @@
                 "_key": "MPUI_DESC_MAP_CREEK",
                 "english": "Creek is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_creek.iwi"
+            },
             "mapname": "mp_creek",
             "minimap": {
-                "name": "compass_map_mp_creek"
+                "filename": "compass_map_mp_creek.iwi"
             },
             "preview": {
-                "name": "preview_mp_creek"
+                "filename": "preview_mp_creek.iwi",
+                "md5": "63574bb363749aafed3a15ed7251ad91",
+                "url": "https://callofdutymaps.com/wp-content/uploads/creek1-1500x500.jpg"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1706,8 +1946,8 @@
                 "english": "Creek"
             },
             "waypoints": {
-                "count": 308,
-                "file": "mp_creek_wp.csv",
+                "count": 307,
+                "filename": "mp_creek_wp.csv",
                 "md5": "260847e8ba723b0690c8134fd0f1be00",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_creek_wp.csv"
             }
@@ -1717,12 +1957,16 @@
                 "_key": "MPUI_DESC_MAP_CROSS_FIRE",
                 "english": "Cross Fire is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_cross_fire.iwi"
+            },
             "mapname": "mp_cross_fire",
             "minimap": {
-                "name": "compass_map_mp_cross_fire"
+                "filename": "compass_map_mp_cross_fire.iwi"
             },
             "preview": {
-                "name": "preview_mp_cross_fire",
+                "filename": "preview_mp_cross_fire.iwi",
+                "md5": "8a501c7e4fd8a8f4e37de8a079d41931",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_cross_fire.png"
             },
             "source": {
@@ -1734,8 +1978,8 @@
                 "english": "Cross Fire"
             },
             "waypoints": {
-                "count": 445,
-                "file": "mp_cross_fire_wp.csv",
+                "count": 444,
+                "filename": "mp_cross_fire_wp.csv",
                 "md5": "15352649d68099428a89c1031fdcfa30",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cross_fire_wp.csv"
             }
@@ -1751,12 +1995,16 @@
                 "russian": "\u00cf\u00ee\u00f2\u00e5\u00f0\u00ef\u00e5\u00e2\u00f8\u00e8\u00e9 \u00ea\u00f0\u00f3\u00f8\u00e5\u00ed\u00e8\u00e5 \u00ef\u00ee\u00e5\u00e7\u00e4, \u00f8\u00e8\u00f0\u00ee\u00ea\u00ee\u00e5 \u00e7\u00e0\u00f1\u00ed\u00e5\u00e6\u00e5\u00ed\u00ed\u00ee\u00e5 \u00ef\u00f0\u00ee\u00f1\u00f2\u00f0\u00e0\u00ed\u00f1\u00f2\u00e2\u00ee. \u00dd\u00ef\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e5 \u00e1\u00ee\u00eb\u00fc\u00f8\u00e8\u00e5 \u00f1\u00f0\u00e0\u00e6\u00e5\u00ed\u00e8\u00ff. \\n",
                 "spanish": "Escenario de un descarrilamiento en una amplia zona nevada. Batallas \u00e9picas a gran escala.\\n"
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_derail.iwi"
+            },
             "mapname": "mp_derail",
             "minimap": {
-                "name": "compass_map_mp_derail"
+                "filename": "compass_map_mp_derail.iwi"
             },
             "preview": {
-                "name": "preview_mp_derail",
+                "filename": "preview_mp_derail.iwi",
+                "md5": "931843e35ed3fde348245cf618c74da8",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_derail.png"
             },
             "source": {
@@ -1767,8 +2015,8 @@
                 "english": "Derail"
             },
             "waypoints": {
-                "count": 512,
-                "file": "mp_derail_wp.csv",
+                "count": 511,
+                "filename": "mp_derail_wp.csv",
                 "md5": "2859e24159a9966e5521f0bb701eb667",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_derail_wp.csv"
             }
@@ -1778,12 +2026,16 @@
                 "_key": "MPUI_DESC_MAP_DOME",
                 "english": "Small outpost in the desert. Fast and frantic action."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_dome.iwi"
+            },
             "mapname": "mp_dome",
             "minimap": {
-                "name": "compass_map_mp_dome"
+                "filename": "compass_map_mp_dome.iwi"
             },
             "preview": {
-                "name": "preview_mp_dome",
+                "filename": "preview_mp_dome.iwi",
+                "md5": "e1fe3841279c8096ee2445180878c518",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_dome.png"
             },
             "source": {
@@ -1795,8 +2047,8 @@
                 "english": "Dome"
             },
             "waypoints": {
-                "count": 210,
-                "file": "mp_dome_wp.csv",
+                "count": 209,
+                "filename": "mp_dome_wp.csv",
                 "md5": "bc4cd39e439292c7d26a09a7d3cbfa31",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dome_wp.csv"
             }
@@ -1806,12 +2058,15 @@
                 "_key": "MPUI_DESC_MAP_DUST2",
                 "english": "Dust2 is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_dust2.iwi"
+            },
             "mapname": "mp_dust2",
             "minimap": {
-                "name": "compass_map_mp_dust2"
+                "filename": "compass_map_mp_dust2.iwi"
             },
             "preview": {
-                "name": "preview_mp_dust2"
+                "filename": "preview_mp_dust2.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -1822,8 +2077,8 @@
                 "english": "Dust2"
             },
             "waypoints": {
-                "count": 98,
-                "file": "mp_dust2_wp.csv",
+                "count": 97,
+                "filename": "mp_dust2_wp.csv",
                 "md5": "f64e12822ff071d287967c2cb127d607",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_dust2_wp.csv"
             }
@@ -1839,12 +2094,16 @@
                 "russian": "\u00cb\u00e5\u00f1\u00ed\u00ee\u00e9 \u00e4\u00ee\u00ec\u00e8\u00ea. \u00c1\u00ee\u00e9 \u00e7\u00e0 \u00ef\u00ee\u00eb\u00f3\u00f7\u00e5\u00ed\u00e8\u00e5 \u00ea\u00ee\u00ed\u00f2\u00f0\u00ee\u00eb\u00ff \u00ed\u00e0\u00e4 \u00f1\u00f2\u00f0\u00ee\u00e5\u00ed\u00e8\u00e5\u00ec.",
                 "spanish": "Una choza en los bosques. Se lucha por su control."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_estate.iwi"
+            },
             "mapname": "mp_estate",
             "minimap": {
-                "name": "compass_map_mp_estate"
+                "filename": "compass_map_mp_estate.iwi"
             },
             "preview": {
-                "name": "preview_mp_estate",
+                "filename": "preview_mp_estate.iwi",
+                "md5": "a7cb918c684aa9f099c302b99263c299",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate.png"
             },
             "source": {
@@ -1855,8 +2114,8 @@
                 "english": "Estate"
             },
             "waypoints": {
-                "count": 448,
-                "file": "mp_estate_wp.csv",
+                "count": 447,
+                "filename": "mp_estate_wp.csv",
                 "md5": "e5f603263401a762bf71d7e36b82e1c2",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_wp.csv"
             }
@@ -1866,12 +2125,16 @@
                 "_key": "MPUI_DESC_MAP_ESTATE:_TROPICAL",
                 "english": "Estate: Tropical is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_estate_tropical.iwi"
+            },
             "mapname": "mp_estate_tropical",
             "minimap": {
-                "name": "compass_map_mp_estate_tropical"
+                "filename": "compass_map_mp_estate_tropical.iwi"
             },
             "preview": {
-                "name": "preview_mp_estate_tropical",
+                "filename": "preview_mp_estate_tropical.iwi",
+                "md5": "761ecd3ad73217f971361f9a86fb1ff4",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_estate_tropical.png"
             },
             "source": {
@@ -1883,8 +2146,8 @@
                 "english": "Estate: Tropical"
             },
             "waypoints": {
-                "count": 448,
-                "file": "mp_estate_tropical_wp.csv",
+                "count": 447,
+                "filename": "mp_estate_tropical_wp.csv",
                 "md5": "e5f603263401a762bf71d7e36b82e1c2",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_estate_tropical_wp.csv"
             }
@@ -1894,12 +2157,16 @@
                 "_key": "MPUI_DESC_MAP_DOWNPOUR",
                 "english": "Downpour is a map from IW4x Call of Duty: Modern Warfare DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_farm.iwi"
+            },
             "mapname": "mp_farm",
             "minimap": {
-                "name": "compass_map_mp_farm"
+                "filename": "compass_map_mp_farm.iwi"
             },
             "preview": {
-                "name": "preview_mp_farm",
+                "filename": "preview_mp_farm.iwi",
+                "md5": "40f90a81e9530e31583db550aad9f208",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_farm.png"
             },
             "source": {
@@ -1917,8 +2184,8 @@
                 "spanish": "Chaparr\u00f3n"
             },
             "waypoints": {
-                "count": 242,
-                "file": "mp_farm_wp.csv",
+                "count": 241,
+                "filename": "mp_farm_wp.csv",
                 "md5": "9c94b36a5dd8cf4c8a33b26cda4763be",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_farm_wp.csv"
             }
@@ -1928,12 +2195,16 @@
                 "_key": "MPUI_DESC_MAP_FAVELA:_TROPICAL",
                 "english": "Favela: Tropical is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_fav_tropical.iwi"
+            },
             "mapname": "mp_fav_tropical",
             "minimap": {
-                "name": "compass_map_mp_fav_tropical"
+                "filename": "compass_map_mp_fav_tropical.iwi"
             },
             "preview": {
-                "name": "preview_mp_fav_tropical",
+                "filename": "preview_mp_fav_tropical.iwi",
+                "md5": "1a232e442643c6e8f2c8cd7855b5bec0",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_fav_tropical.png"
             },
             "source": {
@@ -1945,8 +2216,8 @@
                 "english": "Favela: Tropical"
             },
             "waypoints": {
-                "count": 303,
-                "file": "mp_fav_tropical_wp.csv",
+                "count": 302,
+                "filename": "mp_fav_tropical_wp.csv",
                 "md5": "c69c1b3a068d04bb1b7f19870e5812a6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fav_tropical_wp.csv"
             }
@@ -1962,12 +2233,16 @@
                 "russian": "\u00cb\u00e0\u00e1\u00e8\u00f0\u00e8\u00ed\u00f2 \u00e1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e8\u00f5 \u00f3\u00eb\u00ee\u00f7\u00e5\u00ea. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb \u00e8 \u00e4\u00eb\u00ff \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2 \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2.",
                 "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_favela.iwi"
+            },
             "mapname": "mp_favela",
             "minimap": {
-                "name": "compass_map_mp_favela"
+                "filename": "compass_map_mp_favela.iwi"
             },
             "preview": {
-                "name": "preview_mp_favela",
+                "filename": "preview_mp_favela.iwi",
+                "md5": "6bbc5794a4bb84ad5e42565111d5b165",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_favela.png"
             },
             "source": {
@@ -1978,8 +2253,8 @@
                 "english": "Favela"
             },
             "waypoints": {
-                "count": 303,
-                "file": "mp_favela_wp.csv",
+                "count": 302,
+                "filename": "mp_favela_wp.csv",
                 "md5": "c69c1b3a068d04bb1b7f19870e5812a6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_favela_wp.csv"
             }
@@ -1989,12 +2264,16 @@
                 "_key": "MPUI_DESC_MAP_FIRING_RANGE",
                 "english": "Firing Range is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_firingrange.iwi"
+            },
             "mapname": "mp_firingrange",
             "minimap": {
-                "name": "compass_map_mp_firingrange"
+                "filename": "compass_map_mp_firingrange.iwi"
             },
             "preview": {
-                "name": "preview_mp_firingrange",
+                "filename": "preview_mp_firingrange.iwi",
+                "md5": "4ef09593b12a6fd5aacf1e89988af298",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_firingrange.png"
             },
             "source": {
@@ -2012,8 +2291,8 @@
                 "spanish": "Campo de tiro"
             },
             "waypoints": {
-                "count": 250,
-                "file": "mp_firingrange_wp.csv",
+                "count": 249,
+                "filename": "mp_firingrange_wp.csv",
                 "md5": "6bc840f7a8cdfc9cb5cfb9188d8a7c0d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_firingrange_wp.csv"
             }
@@ -2023,12 +2302,16 @@
                 "_key": "MPUI_DESC_MAP_FUEL2",
                 "english": "Fuel2 is a map from Resurgence DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_fuel2.iwi"
+            },
             "mapname": "mp_fuel2",
             "minimap": {
-                "name": "compass_map_mp_fuel2"
+                "filename": "compass_map_mp_fuel2.iwi"
             },
             "preview": {
-                "name": "preview_mp_fuel2",
+                "filename": "preview_mp_fuel2.iwi",
+                "md5": "de6d820bcab6070b62227c313630d898",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_fuel2.png"
             },
             "source": {
@@ -2040,8 +2323,8 @@
                 "english": "Fuel2"
             },
             "waypoints": {
-                "count": 623,
-                "file": "mp_fuel2_wp.csv",
+                "count": 622,
+                "filename": "mp_fuel2_wp.csv",
                 "md5": "2fd336e7294ce1b122132fa394209077",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_fuel2_wp.csv"
             }
@@ -2051,12 +2334,16 @@
                 "_key": "MPUI_DESC_MAP_HARDHAT",
                 "english": "A small construction site. Fast paced, close quarter action."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_hardhat.iwi"
+            },
             "mapname": "mp_hardhat",
             "minimap": {
-                "name": "compass_map_mp_hardhat"
+                "filename": "compass_map_mp_hardhat.iwi"
             },
             "preview": {
-                "name": "preview_mp_hardhat",
+                "filename": "preview_mp_hardhat.iwi",
+                "md5": "7bc0621dfc344a18cfabad8af296f28f",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_hardhat.png"
             },
             "source": {
@@ -2068,8 +2355,8 @@
                 "english": "Hardhat"
             },
             "waypoints": {
-                "count": 195,
-                "file": "mp_hardhat_wp.csv",
+                "count": 194,
+                "filename": "mp_hardhat_wp.csv",
                 "md5": "5f24a9b836bda37a9880b3363780af01",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_hardhat_wp.csv"
             }
@@ -2085,12 +2372,16 @@
                 "russian": "\u00ca\u00f0\u00fb\u00f8\u00e0 \u00ed\u00e5\u00e1\u00ee\u00f1\u00ea\u00f0\u00e5\u00e1\u00e0. \u00c1\u00e5\u00f8\u00e5\u00ed\u00fb\u00e5 \u00e1\u00ee\u00e8 \u00e2 \u00f0\u00e5\u00e6\u00e8\u00ec\u00e5 \\",
                 "spanish": "El tejado de un rascacielos. Fren\u00e9ticos juegos de Dominio."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_highrise.iwi"
+            },
             "mapname": "mp_highrise",
             "minimap": {
-                "name": "compass_map_mp_highrise"
+                "filename": "compass_map_mp_highrise.iwi"
             },
             "preview": {
-                "name": "preview_mp_highrise",
+                "filename": "preview_mp_highrise.iwi",
+                "md5": "2287054b879025cb3686bc82d439b4f3",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_highrise.png"
             },
             "source": {
@@ -2101,8 +2392,8 @@
                 "english": "Highrise"
             },
             "waypoints": {
-                "count": 423,
-                "file": "mp_highrise_wp.csv",
+                "count": 422,
+                "filename": "mp_highrise_wp.csv",
                 "md5": "1a8863643dfcae76fb326600bcc5c97c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_highrise_wp.csv"
             }
@@ -2118,12 +2409,16 @@
                 "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
                 "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_invasion.iwi"
+            },
             "mapname": "mp_invasion",
             "minimap": {
-                "name": "compass_map_mp_invasion"
+                "filename": "compass_map_mp_invasion.iwi"
             },
             "preview": {
-                "name": "preview_mp_invasion",
+                "filename": "preview_mp_invasion.iwi",
+                "md5": "4956f7e3332926247f996eb631078fff",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_invasion.png"
             },
             "source": {
@@ -2134,8 +2429,8 @@
                 "english": "Invasion"
             },
             "waypoints": {
-                "count": 604,
-                "file": "mp_invasion_wp.csv",
+                "count": 603,
+                "filename": "mp_invasion_wp.csv",
                 "md5": "6b6cf7be72cae7d1ed4d71a7f58210dc",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_invasion_wp.csv"
             }
@@ -2145,12 +2440,16 @@
                 "_key": "MPUI_DESC_MAP_KILLHOUSE",
                 "english": "Killhouse is a very small map from the Variety Map Pack of Call of Duty 4: Modern Warfare.  It is the home to very fierce battles as the map is no larger than Shipment."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_killhouse.iwi"
+            },
             "mapname": "mp_killhouse",
             "minimap": {
-                "name": "compass_map_mp_killhouse"
+                "filename": "compass_map_mp_killhouse.iwi"
             },
             "preview": {
-                "name": "preview_mp_killhouse",
+                "filename": "preview_mp_killhouse.iwi",
+                "md5": "6481d771c5b2e91065d702a2e53fa02d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_killhouse.png"
             },
             "source": {
@@ -2162,8 +2461,8 @@
                 "english": "Killhouse"
             },
             "waypoints": {
-                "count": 182,
-                "file": "mp_killhouse_wp.csv",
+                "count": 181,
+                "filename": "mp_killhouse_wp.csv",
                 "md5": "db51295b7cc696cca775ba76171a3b5e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_killhouse_wp.csv"
             }
@@ -2173,12 +2472,15 @@
                 "_key": "MPUI_DESC_MAP_LOST",
                 "english": "Lost is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_lost.iwi"
+            },
             "mapname": "mp_lost",
             "minimap": {
-                "name": "compass_map_mp_lost"
+                "filename": "compass_map_mp_lost.iwi"
             },
             "preview": {
-                "name": "preview_mp_lost"
+                "filename": "preview_mp_lost.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2189,7 +2491,7 @@
                 "english": "Lost"
             },
             "waypoints": {
-                "file": "mp_lost_wp.csv"
+                "filename": "mp_lost_wp.csv"
             }
         },
         "mp_luna2": {
@@ -2197,12 +2499,15 @@
                 "_key": "MPUI_DESC_MAP_LUNA2",
                 "english": "Luna2 is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_luna2.iwi"
+            },
             "mapname": "mp_luna2",
             "minimap": {
-                "name": "compass_map_mp_luna2"
+                "filename": "compass_map_mp_luna2.iwi"
             },
             "preview": {
-                "name": "preview_mp_luna2"
+                "filename": "preview_mp_luna2.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2213,8 +2518,8 @@
                 "english": "Luna2"
             },
             "waypoints": {
-                "count": 371,
-                "file": "mp_luna2_wp.csv",
+                "count": 370,
+                "filename": "mp_luna2_wp.csv",
                 "md5": "0e44b2f5e1d896c50c6cc9b578db72ab",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_luna2_wp.csv"
             }
@@ -2230,12 +2535,16 @@
                 "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4\u00f1\u00ea\u00e8\u00e5 \u00e1\u00ee\u00e8 \u00ed\u00e0 \u00f3\u00eb\u00e8\u00f6\u00e0\u00f5 \u00e8 \u00e2 \u00e7\u00e4\u00e0\u00ed\u00e8\u00ff\u00f5, \u00e1\u00eb\u00e8\u00e6\u00ed\u00e8\u00e9 \u00e1\u00ee\u00e9.",
                 "spanish": "Una batalla urbana. Enfrentamientos a corta distancia por los apartamentos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_nightshift.iwi"
+            },
             "mapname": "mp_nightshift",
             "minimap": {
-                "name": "compass_map_mp_nightshift"
+                "filename": "compass_map_mp_nightshift.iwi"
             },
             "preview": {
-                "name": "preview_mp_nightshift",
+                "filename": "preview_mp_nightshift.iwi",
+                "md5": "89082b141e508165c640baf906f4f359",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nightshift.png"
             },
             "source": {
@@ -2246,8 +2555,8 @@
                 "english": "Nightshift"
             },
             "waypoints": {
-                "count": 284,
-                "file": "mp_nightshift_wp.csv",
+                "count": 283,
+                "filename": "mp_nightshift_wp.csv",
                 "md5": "6526cb77d1db9ffcc7d54cf046ec303c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nightshift_wp.csv"
             }
@@ -2257,12 +2566,16 @@
                 "_key": "MPUI_DESC_MAP_NUKETOWN",
                 "english": "Nuketown is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_nuked.iwi"
+            },
             "mapname": "mp_nuked",
             "minimap": {
-                "name": "compass_map_mp_nuked"
+                "filename": "compass_map_mp_nuked.iwi"
             },
             "preview": {
-                "name": "preview_mp_nuked",
+                "filename": "preview_mp_nuked.iwi",
+                "md5": "956bde00846a5211a925a40bee7b4f2b",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_nuked.png"
             },
             "source": {
@@ -2274,8 +2587,8 @@
                 "english": "Nuketown"
             },
             "waypoints": {
-                "count": 239,
-                "file": "mp_nuked_wp.csv",
+                "count": 238,
+                "filename": "mp_nuked_wp.csv",
                 "md5": "9624dba40792dc701a28665ef46b023e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_nuked_wp.csv"
             }
@@ -2285,12 +2598,15 @@
                 "_key": "MPUI_DESC_MAP_NUKED_SHADERS",
                 "english": "Nuked Shaders is a map for Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_nuked_shaders.iwi"
+            },
             "mapname": "mp_nuked_shaders",
             "minimap": {
-                "name": "compass_map_mp_nuked_shaders"
+                "filename": "compass_map_mp_nuked_shaders.iwi"
             },
             "preview": {
-                "name": "preview_mp_nuked_shaders"
+                "filename": "preview_mp_nuked_shaders.iwi"
             },
             "source": {
                 "name": "Base Game / DLC"
@@ -2300,7 +2616,7 @@
                 "english": "Nuked Shaders"
             },
             "waypoints": {
-                "file": "mp_nuked_shaders_wp.csv"
+                "filename": "mp_nuked_shaders_wp.csv"
             }
         },
         "mp_overgrown": {
@@ -2314,12 +2630,16 @@
                 "russian": "\u00ce\u00e3\u00f0\u00ee\u00ec\u00ed\u00fb\u00e9 \u00f3\u00f7\u00e0\u00f1\u00f2\u00ee\u00ea \u00e2 \u00f0\u00ee\u00f1\u00f1\u00e8\u00e9\u00f1\u00ea\u00ee\u00e9 \u00f1\u00e5\u00eb\u00fc\u00f1\u00ea\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00e0\u00ec\u00f3\u00f4\u00eb\u00ff\u00e6 \u00f1\u00ed\u00e0\u00e9\u00ef\u00e5\u00f0\u00e0 - \u00ee\u00f2\u00eb\u00e8\u00f7\u00ed\u00e0\u00ff \u00ec\u00e0\u00f1\u00ea\u00e8\u00f0\u00ee\u00e2\u00ea\u00e0 \u00e4\u00eb\u00ff \u00fd\u00f2\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8...",
                 "spanish": "Zona rural rusa extensa. Los trajes de camuflaje para francotiradores resultan \u00fatiles..."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_overgrown.iwi"
+            },
             "mapname": "mp_overgrown",
             "minimap": {
-                "name": "compass_map_mp_overgrown"
+                "filename": "compass_map_mp_overgrown.iwi"
             },
             "preview": {
-                "name": "preview_mp_overgrown",
+                "filename": "preview_mp_overgrown.iwi",
+                "md5": "81616057b9577c8d47cfa057fa333444",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_overgrown.png"
             },
             "source": {
@@ -2337,8 +2657,8 @@
                 "spanish": "Matojos"
             },
             "waypoints": {
-                "count": 559,
-                "file": "mp_overgrown_wp.csv",
+                "count": 558,
+                "filename": "mp_overgrown_wp.csv",
                 "md5": "8bd4cbb60489f606a4f7a13070fe0c69",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_overgrown_wp.csv"
             }
@@ -2348,12 +2668,16 @@
                 "_key": "MPUI_DESC_MAP_PARIS",
                 "english": "Paris is a map from IW4x Call of Duty: Modern Warfare 3 DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_paris.iwi"
+            },
             "mapname": "mp_paris",
             "minimap": {
-                "name": "compass_map_mp_paris"
+                "filename": "compass_map_mp_paris.iwi"
             },
             "preview": {
-                "name": "preview_mp_paris",
+                "filename": "preview_mp_paris.iwi",
+                "md5": "376b7b80b390bcc878197f85144fba26",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_paris.png"
             },
             "source": {
@@ -2365,8 +2689,8 @@
                 "english": "Paris"
             },
             "waypoints": {
-                "count": 284,
-                "file": "mp_paris_wp.csv",
+                "count": 283,
+                "filename": "mp_paris_wp.csv",
                 "md5": "df51a7e011961990204b195ec6fce3c8",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_paris_wp.csv"
             }
@@ -2382,12 +2706,16 @@
                 "russian": "\u00d0\u00f3\u00f1\u00f1\u00ea\u00ee\u00e5 \u00e4\u00e5\u00ef\u00ee. \u00cf\u00f0\u00e5\u00ea\u00f0\u00e0\u00f1\u00ed\u00ee \u00ef\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00ea\u00ee\u00ec\u00e0\u00ed\u00e4\u00ed\u00ee\u00e9 \u00e8\u00e3\u00f0\u00fb.",
                 "spanish": "Estaci\u00f3n de tren rusa. Excelente para las partidas por equipos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_pipeline.iwi"
+            },
             "mapname": "mp_pipeline",
             "minimap": {
-                "name": "compass_map_mp_pipeline"
+                "filename": "compass_map_mp_pipeline.iwi"
             },
             "preview": {
-                "name": "preview_mp_pipeline",
+                "filename": "preview_mp_pipeline.iwi",
+                "md5": "2322d1bf351522c9fbf14f5fc0dbe50e",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_pipeline.png"
             },
             "source": {
@@ -2403,8 +2731,8 @@
                 "spanish": "Conducto"
             },
             "waypoints": {
-                "count": 318,
-                "file": "mp_pipeline_wp.csv",
+                "count": 317,
+                "filename": "mp_pipeline_wp.csv",
                 "md5": "dfc79ff68ffde8d8eed3c3a5c88cd010",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_pipeline_wp.csv"
             }
@@ -2414,12 +2742,16 @@
                 "_key": "MPUI_DESC_MAP_PLAZA2",
                 "english": "Plaza2 is a map from IW4x Call of Duty: Modern Warfare 3 DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_plaza2.iwi"
+            },
             "mapname": "mp_plaza2",
             "minimap": {
-                "name": "compass_map_mp_plaza2"
+                "filename": "compass_map_mp_plaza2.iwi"
             },
             "preview": {
-                "name": "preview_mp_plaza2",
+                "filename": "preview_mp_plaza2.iwi",
+                "md5": "a2a3eacac4edf88ebf801d05e2e37b84",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_plaza2.png"
             },
             "source": {
@@ -2431,8 +2763,8 @@
                 "english": "Plaza2"
             },
             "waypoints": {
-                "count": 132,
-                "file": "mp_plaza2_wp.csv",
+                "count": 131,
+                "filename": "mp_plaza2_wp.csv",
                 "md5": "793900a2aa8827ea734f7a3db143e098",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_plaza2_wp.csv"
             }
@@ -2448,12 +2780,16 @@
                 "russian": "\u00d1\u00f0\u00e5\u00e4\u00ed\u00e5\u00e3\u00ee \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00e0 \u00ea\u00e0\u00f0\u00fc\u00e5\u00f0. \u00cd\u00e0\u00ef\u00f0\u00ff\u00e6\u00e5\u00ed\u00ed\u00fb\u00e5 \u00e1\u00ee\u00e8 \u00e2 \u00f0\u00e5\u00e6\u00e8\u00ec\u00e5 \\",
                 "spanish": "Una cantera de tama\u00f1o medio. Emocionantes partidas de Tomar la bandera."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_quarry.iwi"
+            },
             "mapname": "mp_quarry",
             "minimap": {
-                "name": "compass_map_mp_quarry"
+                "filename": "compass_map_mp_quarry.iwi"
             },
             "preview": {
-                "name": "preview_mp_quarry",
+                "filename": "preview_mp_quarry.iwi",
+                "md5": "496eebacc15af09e0436c38c771c2344",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_quarry.png"
             },
             "source": {
@@ -2464,8 +2800,8 @@
                 "english": "Quarry"
             },
             "waypoints": {
-                "count": 519,
-                "file": "mp_quarry_wp.csv",
+                "count": 518,
+                "filename": "mp_quarry_wp.csv",
                 "md5": "ab009d13aa4df9213258b0aac15683b6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_quarry_wp.csv"
             }
@@ -2481,12 +2817,16 @@
                 "russian": "\u00c1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e0\u00ff \u00e4\u00e5\u00f0\u00e5\u00e2\u00ed\u00ff. \u00c0\u00f2\u00e0\u00ea\u00e8 \u00f1\u00ee \u00e2\u00f1\u00e5\u00f5 \u00f1\u00f2\u00ee\u00f0\u00ee\u00ed.",
                 "spanish": "Un pueblo brasile\u00f1o. Se lucha desde todos los \u00e1ngulos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_rundown.iwi"
+            },
             "mapname": "mp_rundown",
             "minimap": {
-                "name": "compass_map_mp_rundown"
+                "filename": "compass_map_mp_rundown.iwi"
             },
             "preview": {
-                "name": "preview_mp_rundown",
+                "filename": "preview_mp_rundown.iwi",
+                "md5": "08f614620636a7868b799fb8c28d1204",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rundown.png"
             },
             "source": {
@@ -2497,8 +2837,8 @@
                 "english": "Rundown"
             },
             "waypoints": {
-                "count": 441,
-                "file": "mp_rundown_wp.csv",
+                "count": 440,
+                "filename": "mp_rundown_wp.csv",
                 "md5": "3ce5c2ddc4c8fdfa1e126610cad8fdb7",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rundown_wp.csv"
             }
@@ -2514,12 +2854,16 @@
                 "russian": "\u00cf\u00e5\u00f1\u00f7\u00e0\u00ed\u00e0\u00ff \u00e1\u00f3\u00f0\u00ff \u00ed\u00e0 \u00ec\u00e0\u00eb\u00e5\u00ed\u00fc\u00ea\u00ee\u00ec \u00f3\u00f7\u00e0\u00f1\u00f2\u00ea\u00e5 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00e8. \u00c1\u00fb\u00f1\u00f2\u00f0\u00fb\u00e9 \u00ea\u00ee\u00f0\u00ee\u00f2\u00ea\u00e8\u00e9 \u00e1\u00ee\u00e9.",
                 "spanish": "Una ligera tormenta de arena en el desierto. Acci\u00f3n rapid\u00edsima en un mapa muy peque\u00f1o."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_rust.iwi"
+            },
             "mapname": "mp_rust",
             "minimap": {
-                "name": "compass_map_mp_rust"
+                "filename": "compass_map_mp_rust.iwi"
             },
             "preview": {
-                "name": "preview_mp_rust",
+                "filename": "preview_mp_rust.iwi",
+                "md5": "1923c67a3832471126d0f798d164c24d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust.png"
             },
             "source": {
@@ -2530,8 +2874,8 @@
                 "english": "Rust"
             },
             "waypoints": {
-                "count": 193,
-                "file": "mp_rust_wp.csv",
+                "count": 192,
+                "filename": "mp_rust_wp.csv",
                 "md5": "7aa6bebc2414aaa0d7c29c0a924e8f7c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_wp.csv"
             }
@@ -2541,12 +2885,16 @@
                 "_key": "MPUI_DESC_MAP_RUST:_LONG",
                 "english": "Rust: Long is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_rust_long.iwi"
+            },
             "mapname": "mp_rust_long",
             "minimap": {
-                "name": "compass_map_mp_rust_long"
+                "filename": "compass_map_mp_rust_long.iwi"
             },
             "preview": {
-                "name": "preview_mp_rust_long",
+                "filename": "preview_mp_rust_long.iwi",
+                "md5": "b10a5b8b5a41933447a62885f41c6527",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_rust_long.png"
             },
             "source": {
@@ -2558,8 +2906,8 @@
                 "english": "Rust: Long"
             },
             "waypoints": {
-                "count": 181,
-                "file": "mp_rust_long_wp.csv",
+                "count": 180,
+                "filename": "mp_rust_long_wp.csv",
                 "md5": "3283ce6f056fee868729a3556bf064f6",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rust_long_wp.csv"
             }
@@ -2569,12 +2917,16 @@
                 "_key": "MPUI_DESC_MAP_SEATOWN",
                 "english": "A coastal town.  Narrow streets bring hectic, close encounters."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_seatown.iwi"
+            },
             "mapname": "mp_seatown",
             "minimap": {
-                "name": "compass_map_mp_seatown"
+                "filename": "compass_map_mp_seatown.iwi"
             },
             "preview": {
-                "name": "preview_mp_seatown",
+                "filename": "preview_mp_seatown.iwi",
+                "md5": "286141cc978883b02476aea7489d30ca",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_seatown.png"
             },
             "source": {
@@ -2586,8 +2938,8 @@
                 "english": "Seatown"
             },
             "waypoints": {
-                "count": 375,
-                "file": "mp_seatown_wp.csv",
+                "count": 374,
+                "filename": "mp_seatown_wp.csv",
                 "md5": "1e608740e278fb93dee22ccaceae21ee",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_seatown_wp.csv"
             }
@@ -2603,12 +2955,16 @@
                 "russian": "\u00cc\u00e0\u00eb\u00e5\u00ed\u00fc\u00ea\u00e0\u00ff \u00f1\u00f3\u00e4\u00ee\u00e2\u00e5\u00f0\u00f4\u00fc \u00e2 \u00d0\u00ee\u00f1\u00f1\u00e8\u00e8. \u00c1\u00fb\u00f1\u00f2\u00f0\u00fb\u00e9 \u00ea\u00ee\u00f0\u00ee\u00f2\u00ea\u00e8\u00e9 \u00e1\u00ee\u00e9 \u00e1\u00e5\u00e7 \u00f3\u00ea\u00f0\u00fb\u00f2\u00e8\u00e9.",
                 "spanish": "Astillero ruso peque\u00f1o. Acci\u00f3n vertiginosa sin escondites."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_shipment.iwi"
+            },
             "mapname": "mp_shipment",
             "minimap": {
-                "name": "compass_map_mp_shipment"
+                "filename": "compass_map_mp_shipment.iwi"
             },
             "preview": {
-                "name": "preview_mp_shipment",
+                "filename": "preview_mp_shipment.iwi",
+                "md5": "3131f0a5d2ac0bf43947db1156714231",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_shipment.png"
             },
             "source": {
@@ -2626,8 +2982,8 @@
                 "spanish": "Cargamento"
             },
             "waypoints": {
-                "count": 79,
-                "file": "mp_shipment_wp.csv",
+                "count": 78,
+                "filename": "mp_shipment_wp.csv",
                 "md5": "197348bfa6fc044a8c8d2f5fbe886e2a",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_wp.csv"
             }
@@ -2637,12 +2993,16 @@
                 "_key": "MPUI_DESC_MAP_SHIPMENT:_LONG",
                 "english": "Shipment: Long is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_shipment_long.iwi"
+            },
             "mapname": "mp_shipment_long",
             "minimap": {
-                "name": "compass_map_mp_shipment_long"
+                "filename": "compass_map_mp_shipment_long.iwi"
             },
             "preview": {
-                "name": "preview_mp_shipment_long",
+                "filename": "preview_mp_shipment_long.iwi",
+                "md5": "76b91fab16060c1529ba044c75b3711a",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_shipment_long.png"
             },
             "source": {
@@ -2654,8 +3014,8 @@
                 "english": "Shipment: Long"
             },
             "waypoints": {
-                "count": 123,
-                "file": "mp_shipment_long_wp.csv",
+                "count": 122,
+                "filename": "mp_shipment_long_wp.csv",
                 "md5": "29dc45742396486d781915a75c2e6a40",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_long_wp.csv"
             }
@@ -2671,12 +3031,16 @@
                 "russian": "\u00cc\u00e0\u00eb\u00e5\u00ed\u00fc\u00ea\u00e8\u00e9 \u00f3\u00f7\u00e0\u00f1\u00f2\u00ee\u00ea \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00e8. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e1\u00fb\u00f1\u00f2\u00f0\u00ee\u00e9 \u00e8\u00e3\u00f0\u00fb \u00ed\u00e5\u00e1\u00ee\u00eb\u00fc\u00f8\u00e8\u00ec \u00f7\u00e8\u00f1\u00eb\u00ee\u00ec \u00f3\u00f7\u00e0\u00f1\u00f2\u00ed\u00e8\u00ea\u00ee\u00e2.",
                 "spanish": "Peque\u00f1o escenario des\u00e9rtico. Partidas vertiginosas para pocos jugadores."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_showdown.iwi"
+            },
             "mapname": "mp_showdown",
             "minimap": {
-                "name": "compass_map_mp_showdown"
+                "filename": "compass_map_mp_showdown.iwi"
             },
             "preview": {
-                "name": "preview_mp_showdown",
+                "filename": "preview_mp_showdown.iwi",
+                "md5": "b568dca737aeb509645d4456f60e3fc8",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_showdown.png"
             },
             "source": {
@@ -2693,8 +3057,8 @@
                 "spanish": "Enfrentamiento"
             },
             "waypoints": {
-                "count": 116,
-                "file": "mp_showdown_wp.csv",
+                "count": 115,
+                "filename": "mp_showdown_wp.csv",
                 "md5": "15c4d58425384a3004643de5683ca34c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_showdown_wp.csv"
             }
@@ -2704,12 +3068,16 @@
                 "_key": "MPUI_DESC_MAP_STORM",
                 "english": "Storm is a map from Stimulus DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_storm.iwi"
+            },
             "mapname": "mp_storm",
             "minimap": {
-                "name": "compass_map_mp_storm"
+                "filename": "compass_map_mp_storm.iwi"
             },
             "preview": {
-                "name": "preview_mp_storm",
+                "filename": "preview_mp_storm.iwi",
+                "md5": "617bb78cd92c7cd335684b65b60351f0",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_storm.png"
             },
             "source": {
@@ -2721,8 +3089,8 @@
                 "english": "Storm"
             },
             "waypoints": {
-                "count": 393,
-                "file": "mp_storm_wp.csv",
+                "count": 392,
+                "filename": "mp_storm_wp.csv",
                 "md5": "68dd514903234224eecfbf6c2eba24f3",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_wp.csv"
             }
@@ -2732,12 +3100,16 @@
                 "_key": "MPUI_DESC_MAP_CHEMICAL_PLANT",
                 "english": "Chemical Plant is a map from IW4x Call of Duty: Online DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_storm_spring.iwi"
+            },
             "mapname": "mp_storm_spring",
             "minimap": {
-                "name": "compass_map_mp_storm_spring"
+                "filename": "compass_map_mp_storm_spring.iwi"
             },
             "preview": {
-                "name": "preview_mp_storm_spring",
+                "filename": "preview_mp_storm_spring.iwi",
+                "md5": "a8f0f485a1f39f9d27b4ffd269bf7b62",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_storm_spring.png"
             },
             "source": {
@@ -2749,8 +3121,8 @@
                 "english": "Chemical Plant"
             },
             "waypoints": {
-                "count": 393,
-                "file": "mp_storm_spring_wp.csv",
+                "count": 392,
+                "filename": "mp_storm_spring_wp.csv",
                 "md5": "68dd514903234224eecfbf6c2eba24f3",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_storm_spring_wp.csv"
             }
@@ -2760,12 +3132,15 @@
                 "_key": "MPUI_DESC_MAP_STREAM",
                 "english": "Stream is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_stream.iwi"
+            },
             "mapname": "mp_stream",
             "minimap": {
-                "name": "compass_map_mp_stream"
+                "filename": "compass_map_mp_stream.iwi"
             },
             "preview": {
-                "name": "preview_mp_stream"
+                "filename": "preview_mp_stream.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2776,8 +3151,8 @@
                 "english": "Stream"
             },
             "waypoints": {
-                "count": 281,
-                "file": "mp_stream_wp.csv",
+                "count": 280,
+                "filename": "mp_stream_wp.csv",
                 "md5": "d45342ddc2be45544eaea0a058ae3034",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_stream_wp.csv"
             }
@@ -2793,12 +3168,16 @@
                 "russian": "\u00c1\u00ee\u00eb\u00fc\u00f8\u00ee\u00e5 \u00e7\u00e0\u00e1\u00f0\u00ee\u00f8\u00e5\u00ed\u00ed\u00ee\u00e5 \u00e3\u00ee\u00f0\u00ee\u00e4\u00f1\u00ea\u00ee\u00e5 \u00ef\u00ee\u00f1\u00e5\u00eb\u00e5\u00ed\u00e8\u00e5. \u00ce\u00f2\u00eb\u00e8\u00f7\u00ed\u00ee \u00ef\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00ea\u00ee\u00ec\u00e0\u00ed\u00e4\u00ed\u00fb\u00f5 \u00e8\u00e3\u00f0.",
                 "spanish": "Ciudad des\u00e9rtica grande. Excelente para las partidas por equipos."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_strike.iwi"
+            },
             "mapname": "mp_strike",
             "minimap": {
-                "name": "compass_map_mp_strike"
+                "filename": "compass_map_mp_strike.iwi"
             },
             "preview": {
-                "name": "preview_mp_strike",
+                "filename": "preview_mp_strike.iwi",
+                "md5": "1fa74743f97eb28c07de77fbe799a613",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_strike.png"
             },
             "source": {
@@ -2816,8 +3195,8 @@
                 "spanish": "Ataque"
             },
             "waypoints": {
-                "count": 526,
-                "file": "mp_strike_wp.csv",
+                "count": 525,
+                "filename": "mp_strike_wp.csv",
                 "md5": "4bbc08a2c88a9799608ba6186461e193",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_strike_wp.csv"
             }
@@ -2827,12 +3206,16 @@
                 "_key": "MPUI_DESC_MAP_SUB_BASE",
                 "english": "Sub Base is a map from Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_subbase.iwi"
+            },
             "mapname": "mp_subbase",
             "minimap": {
-                "name": "compass_map_mp_subbase"
+                "filename": "compass_map_mp_subbase.iwi"
             },
             "preview": {
-                "name": "preview_mp_subbase",
+                "filename": "preview_mp_subbase.iwi",
+                "md5": "a76e0727d54d93765a3119c391050588",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_subbase.png"
             },
             "source": {
@@ -2843,8 +3226,8 @@
                 "english": "Sub Base"
             },
             "waypoints": {
-                "count": 348,
-                "file": "mp_subbase_wp.csv",
+                "count": 347,
+                "filename": "mp_subbase_wp.csv",
                 "md5": "c246425fbcf3ce1cd20b825f370911db",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_subbase_wp.csv"
             }
@@ -2854,12 +3237,17 @@
                 "_key": "MPUI_DESC_MAP_SUMMIT",
                 "english": "Summit is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_summit.iwi"
+            },
             "mapname": "mp_summit",
             "minimap": {
-                "name": "compass_map_mp_summit"
+                "filename": "compass_map_mp_summit.iwi"
             },
             "preview": {
-                "name": "preview_mp_summit"
+                "filename": "preview_mp_summit.iwi",
+                "md5": "ba3696bc0785c988ee168e1ee420807f",
+                "url": "https://callofdutymaps.com/wp-content/uploads/summit1-1500x500.jpg"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2870,8 +3258,8 @@
                 "english": "Summit"
             },
             "waypoints": {
-                "count": 223,
-                "file": "mp_summit_wp.csv",
+                "count": 222,
+                "filename": "mp_summit_wp.csv",
                 "md5": "aaccc779d084497d3d35de245c626840",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_summit_wp.csv"
             }
@@ -2881,12 +3269,15 @@
                 "_key": "MPUI_DESC_MAP_TATOOINE",
                 "english": "Tatooine is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_tatooine.iwi"
+            },
             "mapname": "mp_tatooine",
             "minimap": {
-                "name": "compass_map_mp_tatooine"
+                "filename": "compass_map_mp_tatooine.iwi"
             },
             "preview": {
-                "name": "preview_mp_tatooine"
+                "filename": "preview_mp_tatooine.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2897,8 +3288,8 @@
                 "english": "Tatooine"
             },
             "waypoints": {
-                "count": 251,
-                "file": "mp_tatooine_wp.csv",
+                "count": 250,
+                "filename": "mp_tatooine_wp.csv",
                 "md5": "a634be799c46532f857ade2339371dc2",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_tatooine_wp.csv"
             }
@@ -2914,12 +3305,16 @@
                 "russian": "\u00d1\u00f0\u00e5\u00e4\u00ed\u00e8\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2 \u00e0\u00fd\u00f0\u00ee\u00ef\u00ee\u00f0\u00f2. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb.",
                 "spanish": "Un aeropuerto de tama\u00f1o medio. Genial para todos los modos de juego."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_terminal.iwi"
+            },
             "mapname": "mp_terminal",
             "minimap": {
-                "name": "compass_map_mp_terminal"
+                "filename": "compass_map_mp_terminal.iwi"
             },
             "preview": {
-                "name": "preview_mp_terminal",
+                "filename": "preview_mp_terminal.iwi",
+                "md5": "cfbea4ce6db1fe4dfbb0aba16877aed5",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_terminal.png"
             },
             "source": {
@@ -2930,8 +3325,8 @@
                 "english": "Terminal"
             },
             "waypoints": {
-                "count": 290,
-                "file": "mp_terminal_wp.csv",
+                "count": 289,
+                "filename": "mp_terminal_wp.csv",
                 "md5": "9a257f31a53f6fdb90d45212b80d0423",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_terminal_wp.csv"
             }
@@ -2941,12 +3336,15 @@
                 "_key": "MPUI_DESC_MAP_TOUJANE_V2",
                 "english": "Toujane V2 is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_toujane_v2.iwi"
+            },
             "mapname": "mp_toujane_v2",
             "minimap": {
-                "name": "compass_map_mp_toujane_v2"
+                "filename": "compass_map_mp_toujane_v2.iwi"
             },
             "preview": {
-                "name": "preview_mp_toujane_v2"
+                "filename": "preview_mp_toujane_v2.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -2957,8 +3355,8 @@
                 "english": "Toujane V2"
             },
             "waypoints": {
-                "count": 280,
-                "file": "mp_toujane_v2_wp.csv",
+                "count": 279,
+                "filename": "mp_toujane_v2_wp.csv",
                 "md5": "2a65296d2e96823cbcce2f0fb1b4008c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_toujane_v2_wp.csv"
             }
@@ -2968,12 +3366,16 @@
                 "_key": "MPUI_DESC_MAP_TRAILERPARK",
                 "english": "Trailerpark is a map from Resurgence DLC."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_trailerpark.iwi"
+            },
             "mapname": "mp_trailerpark",
             "minimap": {
-                "name": "compass_map_mp_trailerpark"
+                "filename": "compass_map_mp_trailerpark.iwi"
             },
             "preview": {
-                "name": "preview_mp_trailerpark",
+                "filename": "preview_mp_trailerpark.iwi",
+                "md5": "c7a0f2ea66029e420dd6b6af8b116308",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_trailerpark.png"
             },
             "source": {
@@ -2985,8 +3387,8 @@
                 "english": "Trailerpark"
             },
             "waypoints": {
-                "count": 301,
-                "file": "mp_trailerpark_wp.csv",
+                "count": 300,
+                "filename": "mp_trailerpark_wp.csv",
                 "md5": "d8b930388d69f0ba6ad64ad827c001be",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_trailerpark_wp.csv"
             }
@@ -2996,12 +3398,15 @@
                 "_key": "MPUI_DESC_MAP_TUNISIA",
                 "english": "Tunisia is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_tunisia.iwi"
+            },
             "mapname": "mp_tunisia",
             "minimap": {
-                "name": "compass_map_mp_tunisia"
+                "filename": "compass_map_mp_tunisia.iwi"
             },
             "preview": {
-                "name": "preview_mp_tunisia"
+                "filename": "preview_mp_tunisia.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -3012,7 +3417,7 @@
                 "english": "Tunisia"
             },
             "waypoints": {
-                "file": "mp_tunisia_wp.csv"
+                "filename": "mp_tunisia_wp.csv"
             }
         },
         "mp_underground": {
@@ -3020,12 +3425,16 @@
                 "_key": "MPUI_DESC_MAP_UNDERGROUND",
                 "english": "Small subway station. Fast paced action both inside and out."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_underground.iwi"
+            },
             "mapname": "mp_underground",
             "minimap": {
-                "name": "compass_map_mp_underground"
+                "filename": "compass_map_mp_underground.iwi"
             },
             "preview": {
-                "name": "preview_mp_underground",
+                "filename": "preview_mp_underground.iwi",
+                "md5": "013a00e5bcb511865ce48aefa02b9416",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_underground.png"
             },
             "source": {
@@ -3037,8 +3446,8 @@
                 "english": "Underground"
             },
             "waypoints": {
-                "count": 250,
-                "file": "mp_underground_wp.csv",
+                "count": 249,
+                "filename": "mp_underground_wp.csv",
                 "md5": "400348c4258bbcda1f0c9472ba4f08de",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underground_wp.csv"
             }
@@ -3054,12 +3463,16 @@
                 "russian": "\u00cf\u00f3\u00f2\u00e5\u00ef\u00f0\u00ee\u00e2\u00ee\u00e4 \u00e2 \u00e4\u00ee\u00e6\u00e4\u00eb\u00e8\u00e2\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00d3\u00e4\u00ee\u00e1\u00ed\u00ee \u00e4\u00eb\u00ff \u00e1\u00ee\u00e5\u00e2 \u00ea\u00e0\u00ea \u00ed\u00e0 \u00e4\u00e0\u00eb\u00fc\u00ed\u00e5\u00e9, \u00f2\u00e0\u00ea \u00e8 \u00ed\u00e0 \u00f1\u00f0\u00e5\u00e4\u00ed\u00e5\u00e9 \u00e4\u00e8\u00f1\u00f2\u00e0\u00ed\u00f6\u00e8\u00e8.",
                 "spanish": "Un paso subterr\u00e1neo bajo la lluvia. Buen equilibrio de enfrentamientos a media y a larga distancia."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_underpass.iwi"
+            },
             "mapname": "mp_underpass",
             "minimap": {
-                "name": "compass_map_mp_underpass"
+                "filename": "compass_map_mp_underpass.iwi"
             },
             "preview": {
-                "name": "preview_mp_underpass",
+                "filename": "preview_mp_underpass.iwi",
+                "md5": "6a71db23f15957430c529b3b2bc715f9",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_underpass.png"
             },
             "source": {
@@ -3070,8 +3483,8 @@
                 "english": "Underpass"
             },
             "waypoints": {
-                "count": 416,
-                "file": "mp_underpass_wp.csv",
+                "count": 415,
+                "filename": "mp_underpass_wp.csv",
                 "md5": "9ab47d3feb997aa0ae9100c16e0a1060",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underpass_wp.csv"
             }
@@ -3087,12 +3500,16 @@
                 "russian": "\u00c7\u00e0\u00e1\u00f0\u00ee\u00f8\u00e5\u00ed\u00ed\u00fb\u00e9 \u00ee\u00f4\u00e8\u00f1 \u00e2 \u00d0\u00ee\u00f1\u00f1\u00e8\u00e8. \u00cd\u00e0\u00ef\u00f0\u00ff\u00e6\u00e5\u00ed\u00ed\u00fb\u00e5 \u00e1\u00ee\u00e8 \u00e2 \u00ef\u00ee\u00ec\u00e5\u00f9\u00e5\u00ed\u00e8\u00e8.",
                 "spanish": "Oficina abandonada rusa. Luchas intensas en interiores."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_vacant.iwi"
+            },
             "mapname": "mp_vacant",
             "minimap": {
-                "name": "compass_map_mp_vacant"
+                "filename": "compass_map_mp_vacant.iwi"
             },
             "preview": {
-                "name": "preview_mp_vacant",
+                "filename": "preview_mp_vacant.iwi",
+                "md5": "e157cffd86516ca90d0cee047d491c6d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_vacant.png"
             },
             "source": {
@@ -3110,8 +3527,8 @@
                 "spanish": "Vacante"
             },
             "waypoints": {
-                "count": 259,
-                "file": "mp_vacant_wp.csv",
+                "count": 258,
+                "filename": "mp_vacant_wp.csv",
                 "md5": "f56bfd0e6774860975de4aac131c93cc",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_vacant_wp.csv"
             }
@@ -3121,12 +3538,16 @@
                 "_key": "MPUI_DESC_MAP_VILLAGE",
                 "english": "Large African village. Great for all game modes."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_village.iwi"
+            },
             "mapname": "mp_village",
             "minimap": {
-                "name": "compass_map_mp_village"
+                "filename": "compass_map_mp_village.iwi"
             },
             "preview": {
-                "name": "preview_mp_village",
+                "filename": "preview_mp_village.iwi",
+                "md5": "e0a4c8b37909871af87c4d04dee22568",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/mp_village.png"
             },
             "source": {
@@ -3138,8 +3559,8 @@
                 "english": "Village"
             },
             "waypoints": {
-                "count": 179,
-                "file": "mp_village_wp.csv",
+                "count": 178,
+                "filename": "mp_village_wp.csv",
                 "md5": "9223b245806d1ba431178387654bf4ae",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_village_wp.csv"
             }
@@ -3149,12 +3570,15 @@
                 "_key": "MPUI_DESC_MAP_WAW_CASTLE",
                 "english": "Waw Castle is a custom map."
             },
+            "loadscreen": {
+                "filename": "loadscreen_mp_waw_castle.iwi"
+            },
             "mapname": "mp_waw_castle",
             "minimap": {
-                "name": "compass_map_mp_waw_castle"
+                "filename": "compass_map_mp_waw_castle.iwi"
             },
             "preview": {
-                "name": "preview_mp_waw_castle"
+                "filename": "preview_mp_waw_castle.iwi"
             },
             "source": {
                 "name": "Custom Maps",
@@ -3165,8 +3589,8 @@
                 "english": "Waw Castle"
             },
             "waypoints": {
-                "count": 256,
-                "file": "mp_waw_castle_wp.csv",
+                "count": 255,
+                "filename": "mp_waw_castle_wp.csv",
                 "md5": "4d2d2819167091145f60e7d7f8d99853",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_waw_castle_wp.csv"
             }
@@ -3180,12 +3604,17 @@
                 "_key": "MPUI_DESC_MAP_OIL_RIG",
                 "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
             },
+            "index": 9,
+            "loadscreen": {
+                "filename": "loadscreen_oilrig.iwi"
+            },
             "mapname": "oilrig",
             "minimap": {
-                "name": "compass_map_oilrig"
+                "filename": "compass_map_oilrig.iwi"
             },
             "preview": {
-                "name": "preview_oilrig",
+                "filename": "preview_oilrig.iwi",
+                "md5": "04b02f188cb272c1d049759f3d2bddc0",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
             },
             "source": {
@@ -3203,8 +3632,8 @@
                 "spanish": "Plataforma petrol\u00edfera"
             },
             "waypoints": {
-                "count": 158,
-                "file": "oilrig_wp.csv",
+                "count": 157,
+                "filename": "oilrig_wp.csv",
                 "md5": "a9c98dd8ee5bf1956d8362930f05693f",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv"
             }
@@ -3214,12 +3643,17 @@
                 "_key": "MPUI_DESC_MAP_ROADKILL",
                 "english": "Search and destroy enemy forces in Afghanistan."
             },
+            "index": 2,
+            "loadscreen": {
+                "filename": "loadscreen_roadkill.iwi"
+            },
             "mapname": "roadkill",
             "minimap": {
-                "name": "compass_map_roadkill"
+                "filename": "compass_map_roadkill.iwi"
             },
             "preview": {
-                "name": "preview_roadkill",
+                "filename": "preview_roadkill.iwi",
+                "md5": "fc48f75a0ac44e84bee7ad0547508566",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/roadkill.png"
             },
             "source": {
@@ -3232,8 +3666,8 @@
             },
             "waypoints": {
                 "count": 268,
-                "file": "roadkill_wp.csv",
-                "md5": "53fc34ee528066bdda39c1e2dfa90104",
+                "filename": "roadkill_wp.csv",
+                "md5": "09bd85faba471082121de518d2b177e1",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/roadkill_wp.csv"
             }
         },
@@ -3246,12 +3680,16 @@
                 "_key": "MPUI_DESC_MAP_SO_BRIDGE",
                 "english": "Bridge is a map from the Special Ops mode."
             },
+            "loadscreen": {
+                "filename": "loadscreen_so_bridge.iwi"
+            },
             "mapname": "so_bridge",
             "minimap": {
-                "name": "compass_map_so_bridge"
+                "filename": "compass_map_so_bridge.iwi"
             },
             "preview": {
-                "name": "preview_so_bridge",
+                "filename": "preview_so_bridge.iwi",
+                "md5": "ca053b31666f292217fa53b39f4e2d34",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_bridge.png"
             },
             "source": {
@@ -3262,7 +3700,7 @@
                 "english": "Bridge"
             },
             "waypoints": {
-                "file": "so_bridge_wp.csv",
+                "filename": "so_bridge_wp.csv",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_bridge_wp.csv"
             }
         },
@@ -3274,12 +3712,16 @@
                 "_key": "MPUI_DESC_MAP_SO_GHILLIES",
                 "english": "So Ghillies is a map for Call of Duty: Modern Warfare 2."
             },
+            "loadscreen": {
+                "filename": "loadscreen_so_ghillies.iwi"
+            },
             "mapname": "so_ghillies",
             "minimap": {
-                "name": "compass_map_so_ghillies"
+                "filename": "compass_map_so_ghillies.iwi"
             },
             "preview": {
-                "name": "preview_so_ghillies",
+                "filename": "preview_so_ghillies.iwi",
+                "md5": "9a2a02d40e0bc4bedc2e8ce6c42fe97c",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_ghillies.png"
             },
             "source": {
@@ -3291,7 +3733,7 @@
             },
             "waypoints": {
                 "count": 120,
-                "file": "so_ghillies_wp.csv",
+                "filename": "so_ghillies_wp.csv",
                 "md5": "160e37606378170823adce27a38ffb64",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_ghillies_wp.csv"
             }
@@ -3304,12 +3746,17 @@
                 "_key": "MPUI_DESC_MAP_TRAINER",
                 "english": "Demonstrate proper fire control for the local trainees."
             },
+            "index": 1,
+            "loadscreen": {
+                "filename": "loadscreen_trainer.iwi"
+            },
             "mapname": "trainer",
             "minimap": {
-                "name": "compass_map_trainer"
+                "filename": "compass_map_trainer.iwi"
             },
             "preview": {
-                "name": "preview_trainer",
+                "filename": "preview_trainer.iwi",
+                "md5": "d19241c24b1c36cf16badb0dfc938463",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/trainer.png"
             },
             "source": {
@@ -3321,8 +3768,8 @@
                 "english": "S.S.D.D. (#1)"
             },
             "waypoints": {
-                "count": 108,
-                "file": "trainer_wp.csv",
+                "count": 107,
+                "filename": "trainer_wp.csv",
                 "md5": "c9fc21728686bd154883d4539cc8163d",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/trainer_wp.csv"
             }
