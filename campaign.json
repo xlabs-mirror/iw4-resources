@@ -1,290 +1,362 @@
 [
     {
-        "index": 1,
-        "name": {
-            "english": "Act 1",
-            "german": "Akt 1"
-        },
         "missions": [
             {
+                "date": "August 10, 2016",
+                "description": {
+                    "english": "Demonstrate proper fire control for the local trainees."
+                },
                 "index": 1,
-                "name": "S.S.D.D.",
-                "description": "Demonstrate proper fire control for the local trainees.",
                 "location": {
                     "country": "Afghanistan"
                 },
-                "date": "August 10, 2016",
+                "mapname": "trainer",
+                "title": {
+                    "english": "S.S.D.D."
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-ssdd.jpg"
-                },
-                "mapname": "trainer"
+                }
             },
             {
+                "date": "August 10, 2016",
+                "description": {
+                    "english": "Search and destroy enemy forces in Afghanistan."
+                },
                 "index": 2,
-                "name": "Team Player",
-                "description": "Search and destroy enemy forces in Afghanistan.",
                 "location": {
                     "country": "Afghanistan"
                 },
-                "date": "August 10, 2016",
+                "mapname": "roadkill",
+                "title": {
+                    "english": "Team Player"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-team-player.jpg"
-                },
-                "mapname": "roadkill"
+                }
             },
             {
-                "index": 3,
-                "name": "Cliffhanger",
-                "description": "Locate and retrieve the ACS module from a crashed satellite.",
-                "location": "Tian Shan Mountain Range",
                 "date": "August 11, 2016",
+                "description": {
+                    "english": "Locate and retrieve the ACS module from a crashed satellite."
+                },
+                "index": 3,
+                "location": "Tian Shan Mountain Range",
+                "mapname": "cliffhanger",
+                "title": {
+                    "english": "Cliffhanger"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-cliffhanger.jpg"
-                },
-                "mapname": "cliffhanger"
+                }
             },
             {
+                "date": "August 12, 2016",
+                "description": {
+                    "english": "Earn Makarov\u00e2\u20ac\u2122s trust."
+                },
                 "index": 4,
-                "name": "No Russian",
-                "description": "Earn Makarov\u00e2\u20ac\u2122s trust.",
                 "location": {
                     "country": "Russia",
-                    "city": "Moscow"
+                    "state": "Moscow"
                 },
-                "date": "August 12, 2016",
+                "mapname": "airport",
+                "title": {
+                    "english": "No Russian"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-no-russian.jpg"
-                },
-                "mapname": "airport"
+                }
             },
             {
-                "index": 5,
-                "name": "Takedown",
-                "description": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
-                "location": {
-                    "country": "Brazil",
-                    "state": "Rio de Janeiro"
-                },
                 "date": "August 13, 2016",
+                "description": {
+                    "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela."
+                },
+                "index": 5,
+                "location": {
+                    "city": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "mapname": "favela",
+                "title": {
+                    "english": "Takedown"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-takedown.jpg"
-                },
-                "mapname": "favela"
+                }
             }
-        ]
+        ],
+        "title": {
+            "english": "Act 1",
+            "german": "Akt 1"
+        }
     },
     {
-        "index": 2,
-        "name": {
-            "english": "Act 2",
-            "german": "Akt 2"
-        },
         "missions": [
             {
-                "index": 6,
-                "name": "Wolverines!",
-                "description": "Locate and protect codename Raptor during the beginning of the invasion.",
-                "location": {
-                    "country": "USA",
-                    "state": "Virginia"
-                },
                 "date": "August 13, 2016",
+                "description": {
+                    "english": "Locate and protect codename Raptor during the beginning of the invasion."
+                },
+                "index": 6,
+                "location": {
+                    "city": "Virginia",
+                    "country": "USA"
+                },
+                "mapname": "invasion",
+                "title": {
+                    "english": "Wolverines!"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-wolverines.jpg"
-                },
-                "mapname": "invasion"
+                }
             },
             {
-                "index": 7,
-                "name": "The Hornet\u00e2\u20ac\u2122s Nest",
-                "description": "Escape the favela.",
-                "location": {
-                    "country": "Brazil",
-                    "state": "Rio de Janeiro"
-                },
                 "date": "August 13, 2016",
+                "description": {
+                    "english": "Escape the favela."
+                },
+                "index": 7,
+                "location": {
+                    "city": "Rio de Janeiro",
+                    "country": "Brazil"
+                },
+                "mapname": "favela_escape",
+                "title": {
+                    "english": "The Hornet\u00e2\u20ac\u2122s Nest"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-hornets-nest.jpg"
-                },
-                "mapname": "favela_escape"
+                }
             },
             {
-                "index": 8,
-                "name": "Exodus",
-                "description": "Assist in the evacuation of civilians and key personnel in the suburbs.",
-                "location": {
-                    "country": "USA",
-                    "state": "Virginia"
-                },
                 "date": "August 13, 2016",
+                "description": {
+                    "english": "Assist in the evacuation of civilians and key personnel in the suburbs."
+                },
+                "index": 8,
+                "location": {
+                    "city": "Virginia",
+                    "country": "USA"
+                },
+                "mapname": "arcadia",
+                "title": {
+                    "english": "Exodus"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-exodus.jpg"
-                },
-                "mapname": "arcadia"
+                }
             },
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
+                },
                 "index": 9,
-                "name": "The Only Easy Day... Was Yesterday",
-                "description": "Board the oilrig, rescue the hostages, and clear the route to the gulag.",
                 "location": {
                     "country": "Russia"
                 },
-                "date": "August 14, 2016",
+                "mapname": "oilrig",
+                "title": {
+                    "english": "The Only Easy Day... Was Yesterday"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-only-easy-day-was-yesterday.jpg"
-                },
-                "mapname": "oilrig"
+                }
             },
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Rescue Prisoner #627."
+                },
                 "index": 10,
-                "name": "The Gulag",
-                "description": "Rescue Prisoner #627.",
                 "location": {
                     "country": "Russia"
                 },
-                "date": "August 14, 2016",
+                "mapname": "gulag",
+                "title": {
+                    "english": "The Gulag"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-gulag.jpg"
-                },
-                "mapname": "gulag"
+                }
             },
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Protect the evacuation site at the Washington Monument."
+                },
                 "index": 11,
-                "name": "Of Their Own Accord",
-                "description": "Protect the evacuation site at the Washington Monument.",
                 "location": {
                     "country": "USA",
-                    "city": "Washington, D.C."
+                    "state": "Washington, D.C."
                 },
-                "date": "August 14, 2016",
+                "mapname": "dcburning",
+                "title": {
+                    "english": "Of Their Own Accord"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-of-their-own-accord.jpg"
-                },
-                "mapname": "dcburning"
+                }
             }
-        ]
+        ],
+        "title": {
+            "english": "Act 2",
+            "german": "Akt 2"
+        }
     },
     {
-        "index": 3,
-        "name": {
-            "english": "Act 3",
-            "german": "Akt 3"
-        },
         "missions": [
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Help Captain Price reach the Russian submarine."
+                },
                 "index": 12,
-                "name": "Contingency",
-                "description": "Help Captain Price reach the Russian submarine.",
                 "location": {
                     "country": "Russia"
                 },
-                "date": "August 14, 2016",
+                "mapname": "contingency",
+                "title": {
+                    "english": "Contingency"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-contingency.jpg"
-                },
-                "mapname": "contingency"
+                }
             },
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Get to Whiskey Hotel."
+                },
                 "index": 13,
-                "name": "Second Sun",
-                "description": "Get to Whiskey Hotel.",
                 "location": {
                     "country": "USA",
-                    "city": "Washington, D.C."
+                    "state": "Washington, D.C."
                 },
-                "date": "August 14, 2016",
+                "mapname": "dcemp",
+                "title": {
+                    "english": "Second Sun"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-second-sun.jpg"
-                },
-                "mapname": "dcemp"
+                }
             },
             {
+                "date": "August 14, 2016",
+                "description": {
+                    "english": "Retake Whiskey Hotel."
+                },
                 "index": 14,
-                "name": "Whiskey Hotel",
-                "description": "Retake Whiskey Hotel.",
                 "location": {
                     "country": "USA",
-                    "city": "Washington, D.C."
+                    "state": "Washington, D.C."
                 },
-                "date": "August 14, 2016",
+                "mapname": "dc_whitehouse",
+                "title": {
+                    "english": "Whiskey Hotel"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-whiskey-hotel.jpg"
-                },
-                "mapname": "dc_whitehouse"
+                }
             },
             {
-                "index": 15,
-                "name": "Loose Ends",
-                "description": "Find and kill Makarov at his safe house on the Georgian-Russian border.",
-                "location": "Caucasus Mountains",
                 "date": "August 15, 2016",
+                "description": {
+                    "english": "Find and kill Makarov at his safe house on the Georgian-Russian border."
+                },
+                "index": 15,
+                "location": "Caucasus Mountains",
+                "mapname": "estate",
+                "title": {
+                    "english": "Loose Ends"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-loose-ends.jpg"
-                },
-                "mapname": "estate"
+                }
             },
             {
+                "date": "August 15, 2016",
+                "description": {
+                    "english": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard."
+                },
                 "index": 16,
-                "name": "The Enemy of My Enemy",
-                "description": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard.",
                 "location": {
                     "country": "Afghanistan"
                 },
-                "date": "August 15, 2016",
+                "mapname": "boneyard",
+                "title": {
+                    "english": "The Enemy of My Enemy"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-the-enemy-of-my-enemy.jpg"
-                },
-                "mapname": "boneyard"
+                }
             },
             {
+                "date": "August 16, 2016",
+                "description": {
+                    "english": "Search the Afghan cave network for General Shepherd."
+                },
                 "index": 17,
-                "name": "Just Like Old Times",
-                "description": "Search the Afghan cave network for General Shepherd.",
                 "location": {
                     "country": "Afghanistan"
                 },
-                "date": "August 16, 2016",
+                "mapname": "af_caves",
+                "title": {
+                    "english": "Just Like Old Times"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-just-like-old-times.jpg"
-                },
-                "mapname": "af_caves"
+                }
             },
             {
+                "date": "August 16, 2016",
+                "description": {
+                    "english": "Kill General Shepherd."
+                },
                 "index": 18,
-                "name": "Endgame",
-                "description": "Kill General Shepherd.",
                 "location": {
                     "country": "Afghanistan"
                 },
-                "date": "August 16, 2016",
+                "mapname": "af_chase",
+                "title": {
+                    "english": "Endgame"
+                },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-endgame.jpg"
-                },
-                "mapname": "af_chase"
+                }
             }
-        ]
+        ],
+        "title": {
+            "english": "Act 3",
+            "german": "Akt 3"
+        }
     },
     {
-        "index": 4,
-        "name": {
-            "english": "Credits",
-            "german": "Abspann"
-        },
         "missions": [
             {
+                "description": {
+                    "english": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don\u00e2\u20ac\u2122t Push Any Buttons!)"
+                },
                 "index": 19,
-                "name": "Museum",
-                "description": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don\u00e2\u20ac\u2122t Push Any Buttons!)",
                 "location": {
+                    "city": "California",
                     "country": "USA",
-                    "state": "California",
-                    "city": "Los Angeles"
+                    "state": "Los Angeles"
+                },
+                "mapname": "ending",
+                "title": {
+                    "english": "Museum"
                 },
                 "preview": {
                     "url": "https://callofdutymaps.com/wp-content/uploads/MW2-museum-info-1024x576.jpg"
-                },
-                "mapname": "ending"
+                }
             }
-        ]
+        ],
+        "title": {
+            "english": "Credits",
+            "german": "Abspann"
+        }
     }
 ]

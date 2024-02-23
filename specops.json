@@ -1,7 +1,7 @@
 [
     {
         "index": 1,
-        "name": {
+        "title": {
             "english": "Alpha"
         },
         "description": {
@@ -11,7 +11,7 @@
         "missions": [
             {
                 "index": 1,
-                "name": {
+                "title": {
                     "english": "The Pit",
                     "german": "Die Grube"
                 },
@@ -26,7 +26,7 @@
             },
             {
                 "index": 2,
-                "name": {
+                "title": {
                     "english": "Sniper Fi"
                 },
                 "description": {
@@ -40,7 +40,7 @@
             },
             {
                 "index": 3,
-                "name": {
+                "title": {
                     "english": "O Cristo Redentor"
                 },
                 "description": {
@@ -54,7 +54,7 @@
             },
             {
                 "index": 4,
-                "name": {
+                "title": {
                     "english": "Evasion"
                 },
                 "description": {
@@ -68,7 +68,7 @@
             },
             {
                 "index": 5,
-                "name": {
+                "title": {
                     "english": "Suspension"
                 },
                 "description": {
@@ -84,7 +84,7 @@
     },
     {
         "index": 2,
-        "name": {
+        "title": {
             "english": "Bravo"
         },
         "description": {
@@ -94,7 +94,7 @@
         "missions": [
             {
                 "index": 6,
-                "name": {
+                "title": {
                     "english": "Overwatch"
                 },
                 "description": {
@@ -109,7 +109,7 @@
             },
             {
                 "index": 7,
-                "name": {
+                "title": {
                     "english": "Body Count"
                 },
                 "description": {
@@ -123,7 +123,7 @@
             },
             {
                 "index": 8,
-                "name": {
+                "title": {
                     "english": "Bomb Squad"
                 },
                 "description": {
@@ -137,7 +137,7 @@
             },
             {
                 "index": 9,
-                "name": {
+                "title": {
                     "english": "Race"
                 },
                 "description": {
@@ -151,7 +151,7 @@
             },
             {
                 "index": 10,
-                "name": {
+                "title": {
                     "english": "Big Brother"
                 },
                 "description": {
@@ -168,7 +168,7 @@
     },
     {
         "index": 3,
-        "name": {
+        "title": {
             "english": "Charlie"
         },
         "description": {
@@ -178,7 +178,7 @@
         "missions": [
             {
                 "index": 11,
-                "name": {
+                "title": {
                     "english": "Hidden"
                 },
                 "description": {
@@ -192,7 +192,7 @@
             },
             {
                 "index": 12,
-                "name": {
+                "title": {
                     "english": "Breach & Clear"
                 },
                 "description": {
@@ -206,7 +206,7 @@
             },
             {
                 "index": 13,
-                "name": {
+                "title": {
                     "english": "Time Trial"
                 },
                 "description": {
@@ -220,7 +220,7 @@
             },
             {
                 "index": 14,
-                "name": {
+                "title": {
                     "english": "Homeland Security"
                 },
                 "description": {
@@ -234,7 +234,7 @@
             },
             {
                 "index": 15,
-                "name": {
+                "title": {
                     "english": "Snatch & Grab"
                 },
                 "description": {
@@ -250,7 +250,7 @@
     },
     {
         "index": 4,
-        "name": {
+        "title": {
             "english": "Delta"
         },
         "description": {
@@ -260,7 +260,7 @@
         "missions": [
             {
                 "index": 16,
-                "name": {
+                "title": {
                     "english": "Wardriving"
                 },
                 "description": {
@@ -274,7 +274,7 @@
             },
             {
                 "index": 17,
-                "name": {
+                "title": {
                     "english": "Wreckage"
                 },
                 "description": {
@@ -288,7 +288,7 @@
             },
             {
                 "index": 18,
-                "name": {
+                "title": {
                     "english": "Blizzard"
                 },
                 "description": {
@@ -302,7 +302,7 @@
             },
             {
                 "index": 19,
-                "name": {
+                "title": {
                     "english": "Airport"
                 },
                 "description": {
@@ -316,7 +316,7 @@
             },
             {
                 "index": 20,
-                "name": {
+                "title": {
                     "english": "Estate"
                 },
                 "description": {
