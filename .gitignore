@@ -34,3 +34,4 @@
 maps_out.json
 *_.csv
 *.pickle
+*.fixed
