@@ -5,47 +5,34 @@
                 "_key": "MPUI_DESC_MAP_AF_CAVES",
                 "english": "Search the Afghan cave network for General Shepherd."
             },
-            "index": 17,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_af_caves.iwi"
+                    "filename": "loadscreen_map_af_caves.iwi"
                 },
                 "png": {
-                    "filename": "af_caves.png"
+                    "filename": "loadscreen_map_af_caves.png"
                 }
             },
             "mapname": "af_caves",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_af_caves.iwi"
+                    "filename": "compass_af_caves.iwi"
                 },
                 "png": {
-                    "filename": "af_caves.png"
+                    "filename": "compass_af_caves.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_af_caves.iwi"
-                },
-                "png": {
-                    "filename": "af_caves.png",
-                    "md5": "7953e86cc92dd2790a26f9aad8e54c55",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_caves.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_AF_CAVES",
                 "english": "Just Like Old Times (#17)"
             },
             "waypoints": {
-                "count": 233,
-                "filename": "af_caves_wp.csv",
-                "md5": "b96f24466719c26db2f7a1989b63045a",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_caves_wp.csv"
+                "filename": "af_caves_wp.csv"
             }
         },
         "af_chase": {
@@ -53,253 +40,174 @@
                 "_key": "MPUI_DESC_MAP_AF_CHASE",
                 "english": "Kill General Shepherd."
             },
-            "index": 18,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_af_chase.iwi"
+                    "filename": "loadscreen_map_af_chase.iwi"
                 },
                 "png": {
-                    "filename": "af_chase.png"
+                    "filename": "loadscreen_map_af_chase.png"
                 }
             },
             "mapname": "af_chase",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_af_chase.iwi"
+                    "filename": "compass_af_chase.iwi"
                 },
                 "png": {
-                    "filename": "af_chase.png"
+                    "filename": "compass_af_chase.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_af_chase.iwi"
-                },
-                "png": {
-                    "filename": "af_chase.png",
-                    "md5": "ec4dabe583d9b5278e9505afbe31e3a7",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/af_chase.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_AF_CHASE",
                 "english": "Endgame (#18)"
             },
             "waypoints": {
-                "count": 88,
-                "filename": "af_chase_wp.csv",
-                "md5": "5ceac89ef46ca2a75f942b07cb90c113",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/af_chase_wp.csv"
+                "filename": "af_chase_wp.csv"
             }
         },
         "airport": {
-            "alternatives": {
-                "so_escape_airport": "Spec Ops Delta: Airport (#19)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AIRPORT",
-                "english": "Earn Makarov's trust."
+                "english": "Earn Makarov\u00e2\u20ac\u2122s trust."
             },
-            "index": 4,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_airport.iwi"
+                    "filename": "loadscreen_map_airport.iwi"
                 },
                 "png": {
-                    "filename": "airport.png"
+                    "filename": "loadscreen_map_airport.png"
                 }
             },
             "mapname": "airport",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_airport.iwi"
+                    "filename": "compass_airport.iwi"
                 },
                 "png": {
-                    "filename": "airport.png"
+                    "filename": "compass_airport.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_airport.iwi"
-                },
-                "png": {
-                    "filename": "airport.png",
-                    "md5": "81c7c5b256e6d8af8297106132187fde",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/airport.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_AIRPORT",
                 "english": "No Russian (#4)"
             },
             "waypoints": {
-                "count": 275,
-                "filename": "airport_wp.csv",
-                "md5": "59148528c2030071c5b31d897253304d",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/airport_wp.csv"
+                "filename": "airport_wp.csv"
             }
         },
         "arcadia": {
-            "alternatives": {
-                "so_download_arcadia": "Spec Ops Delta: Wardriving (#16)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARCADIA",
                 "english": "Assist in the evacuation of civilians and key personnel in the suburbs."
             },
-            "index": 8,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_arcadia.iwi"
+                    "filename": "loadscreen_map_arcadia.iwi"
                 },
                 "png": {
-                    "filename": "arcadia.png"
+                    "filename": "loadscreen_map_arcadia.png"
                 }
             },
             "mapname": "arcadia",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_arcadia.iwi"
+                    "filename": "compass_arcadia.iwi"
                 },
                 "png": {
-                    "filename": "arcadia.png"
+                    "filename": "compass_arcadia.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_arcadia.iwi"
-                },
-                "png": {
-                    "filename": "arcadia.png",
-                    "md5": "a2c7414a2e2dcc4aeb6ff726a0042ce9",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/arcadia.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_ARCADIA",
                 "english": "Exodus (#8)"
             },
             "waypoints": {
-                "count": 257,
-                "filename": "arcadia_wp.csv",
-                "md5": "891524c4a3a2f3e48baeb4f41b08d0d8",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/arcadia_wp.csv"
+                "filename": "arcadia_wp.csv"
             }
         },
         "boneyard": {
-            "alternatives": {
-                "so_intel_boneyard": "Spec Ops Charlie: Snatch & Grab (#15)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_SCRAPYARD",
-                "english": "Escape from General Shepherd's trap in the boneyard."
+                "_key": "MPUI_DESC_MAP_BONEYARD",
+                "english": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard."
             },
-            "index": 16,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_boneyard.iwi"
+                    "filename": "loadscreen_map_boneyard.iwi"
                 },
                 "png": {
-                    "filename": "boneyard.png"
+                    "filename": "loadscreen_map_boneyard.png"
                 }
             },
             "mapname": "boneyard",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_boneyard.iwi"
+                    "filename": "compass_boneyard.iwi"
                 },
                 "png": {
-                    "filename": "boneyard.png"
+                    "filename": "compass_boneyard.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_boneyard.iwi"
-                },
-                "png": {
-                    "filename": "boneyard.png",
-                    "md5": "ab1bcb82a6e3089f6efe1af57363d9b3",
-                    "url": "https://callofdutymaps.com/wp-content/uploads/boneyard1-1500x500.jpg"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_BONEYARD",
                 "english": "The Enemy of My Enemy (#16)"
             },
             "waypoints": {
-                "count": 276,
-                "filename": "boneyard_wp.csv",
-                "md5": "da143b52fc8950bc727b2f254fa861df",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv"
+                "filename": "boneyard_wp.csv"
             }
         },
         "cliffhanger": {
-            "alternatives": {
-                "so_sabotage_cliffhanger": "Spec Ops Delta: Blizzard (#18)",
-                "so_snowrace1_cliffhanger": "Spec Ops Bravo: Race (#9)",
-                "so_snowrace2_cliffhanger": "Spec Ops Charlie: Time Trial (#13)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CLIFFHANGER",
                 "english": "Locate and retrieve the ACS module from a crashed satellite."
             },
-            "index": 3,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_cliffhanger.iwi"
+                    "filename": "loadscreen_map_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "loadscreen_map_cliffhanger.png"
                 }
             },
             "mapname": "cliffhanger",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_cliffhanger.iwi"
+                    "filename": "compass_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "compass_cliffhanger.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_cliffhanger.iwi"
-                },
-                "png": {
-                    "filename": "cliffhanger.png",
-                    "md5": "8d152acd5d75b4550f2d9bdc5fe7a008",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_CLIFFHANGER",
                 "english": "Cliffhanger (#3)"
             },
             "waypoints": {
-                "count": 262,
-                "filename": "cliffhanger_wp.csv",
-                "md5": "139f31fb424c703a1ad47c1cf50d98dc",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv"
+                "filename": "cliffhanger_wp.csv"
             }
         },
         "co_hunted": {
@@ -352,55 +260,38 @@
             }
         },
         "contingency": {
-            "alternatives": {
-                "so_forest_contingency": "Spec Ops Alpha: Evasion (#4)",
-                "so_rooftop_contingency": "Spec Ops Alpha: Sniper Fi (#2)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CONTINGENCY",
                 "english": "Help Captain Price reach the Russian submarine."
             },
-            "index": 12,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_contingency.iwi"
+                    "filename": "loadscreen_map_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "loadscreen_map_contingency.png"
                 }
             },
             "mapname": "contingency",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_contingency.iwi"
+                    "filename": "compass_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "compass_contingency.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_contingency.iwi"
-                },
-                "png": {
-                    "filename": "contingency.png",
-                    "md5": "cbe1b9a7cd157eb2dfe9f78f44bc71e0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_CONTINGENCY",
                 "english": "Contingency (#12)"
             },
             "waypoints": {
-                "count": 166,
-                "filename": "contingency_wp.csv",
-                "md5": "833a3321486bb033b5b4237820d14a4b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv"
+                "filename": "contingency_wp.csv"
             }
         },
         "cube": {
@@ -462,39 +353,33 @@
         },
         "dc_whitehouse": {
             "description": {
+                "_key": "MPUI_DESC_MAP_DC_WHITEHOUSE",
                 "english": "Retake Whiskey Hotel."
             },
-            "index": 14,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_dc_whitehouse.iwi"
+                    "filename": "loadscreen_map_dc_whitehouse.iwi"
                 },
                 "png": {
-                    "filename": "dc_whitehouse.png"
+                    "filename": "loadscreen_map_dc_whitehouse.png"
                 }
             },
             "mapname": "dc_whitehouse",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_dc_whitehouse.iwi"
+                    "filename": "compass_dc_whitehouse.iwi"
                 },
                 "png": {
-                    "filename": "dc_whitehouse.png"
+                    "filename": "compass_dc_whitehouse.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_dc_whitehouse.iwi"
-                },
-                "png": {
-                    "filename": "dc_whitehouse.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
+                "_key": "MPUI_DC_WHITEHOUSE",
                 "english": "Whiskey Hotel (#14)"
             },
             "waypoints": {
@@ -506,47 +391,34 @@
                 "_key": "MPUI_DESC_MAP_DCBURNING",
                 "english": "Protect the evacuation site at the Washington Monument."
             },
-            "index": 11,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_dcburning.iwi"
+                    "filename": "loadscreen_map_dcburning.iwi"
                 },
                 "png": {
-                    "filename": "dcburning.png"
+                    "filename": "loadscreen_map_dcburning.png"
                 }
             },
             "mapname": "dcburning",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_dcburning.iwi"
+                    "filename": "compass_dcburning.iwi"
                 },
                 "png": {
-                    "filename": "dcburning.png"
+                    "filename": "compass_dcburning.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_dcburning.iwi"
-                },
-                "png": {
-                    "filename": "dcburning.png",
-                    "md5": "45ba8864ed8cfe9c83a66c32a4d7fc6e",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcburning.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_DCBURNING",
                 "english": "Of Their Own Accord (#11)"
             },
             "waypoints": {
-                "count": 468,
-                "filename": "dcburning_wp.csv",
-                "md5": "9414d2c8dea623b11898b0b12df3c2e6",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcburning_wp.csv"
+                "filename": "dcburning_wp.csv"
             }
         },
         "dcemp": {
@@ -554,369 +426,237 @@
                 "_key": "MPUI_DESC_MAP_DCEMP",
                 "english": "Get to Whiskey Hotel."
             },
-            "index": 13,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_dcemp.iwi"
+                    "filename": "loadscreen_map_dcemp.iwi"
                 },
                 "png": {
-                    "filename": "dcemp.png"
+                    "filename": "loadscreen_map_dcemp.png"
                 }
             },
             "mapname": "dcemp",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_dcemp.iwi"
+                    "filename": "compass_dcemp.iwi"
                 },
                 "png": {
-                    "filename": "dcemp.png"
+                    "filename": "compass_dcemp.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_dcemp.iwi"
-                },
-                "png": {
-                    "filename": "dcemp.png",
-                    "md5": "4608fc087544e952990ca9d1143080a5",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/dcemp.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_DCEMP",
                 "english": "Second Sun (#13)"
             },
             "waypoints": {
-                "count": 247,
-                "filename": "dcemp_wp.csv",
-                "md5": "5e5c7ce7eff07aacd75a96d90b116e39",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints//dcemp_wp.csv"
+                "filename": "dcemp_wp.csv"
             }
         },
         "ending": {
             "description": {
                 "_key": "MPUI_DESC_MAP_ENDING",
-                "english": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don't Push Any Buttons!)"
+                "english": "Walk around the Call of Duty: Modern Warfare 2 Campaign Gallery Exhibits at Encino, California, U.S.A. (Don\u00e2\u20ac\u2122t Push Any Buttons!)"
             },
-            "index": 19,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_ending.iwi"
+                    "filename": "loadscreen_map_ending.iwi"
                 },
                 "png": {
-                    "filename": "ending.png"
+                    "filename": "loadscreen_map_ending.png"
                 }
             },
             "mapname": "ending",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_ending.iwi"
+                    "filename": "compass_ending.iwi"
                 },
                 "png": {
-                    "filename": "ending.png"
+                    "filename": "compass_ending.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_ending.iwi"
-                },
-                "png": {
-                    "filename": "ending.png",
-                    "md5": "3c74581c6dc46647f9022253a695021e",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/ending.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Credits)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_ENDING",
                 "english": "Museum (#19)"
             },
             "waypoints": {
-                "count": 20,
-                "filename": "ending_wp.csv",
-                "md5": "aaea74a94d6a1d678b3901a798672b34",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/ending_wp.csv"
+                "filename": "ending_wp.csv"
             }
         },
         "estate": {
-            "alternatives": {
-                "so_takeover_estate": "Spec Ops Delta: Estate (#20)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE",
-                "english": "Find and kill Makarov at his safe house on the Georgian-Russian border.",
-                "french": "Cabane dans les bois. Des affrontements pour en prendre le contr\u00f4le.",
-                "german": "Waldh\u00fctte. K\u00e4mpfen Sie um die Kontrolle \u00fcber die H\u00fctte.",
-                "italian": "Casupola nella foresta. Combatti per il controllo della capanna.",
-                "polish": "Le\u009cna chata. Walka o jej opanowanie.",
-                "russian": "\u00cb\u00e5\u00f1\u00ed\u00ee\u00e9 \u00e4\u00ee\u00ec\u00e8\u00ea. \u00c1\u00ee\u00e9 \u00e7\u00e0 \u00ef\u00ee\u00eb\u00f3\u00f7\u00e5\u00ed\u00e8\u00e5 \u00ea\u00ee\u00ed\u00f2\u00f0\u00ee\u00eb\u00ff \u00ed\u00e0\u00e4 \u00f1\u00f2\u00f0\u00ee\u00e5\u00ed\u00e8\u00e5\u00ec.",
-                "spanish": "Una choza en los bosques. Se lucha por su control."
+                "english": "Find and kill Makarov at his safe house on the Georgian-Russian border."
             },
-            "index": 15,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_estate.iwi"
+                    "filename": "loadscreen_map_estate.iwi"
                 },
                 "png": {
-                    "filename": "estate.png"
+                    "filename": "loadscreen_map_estate.png"
                 }
             },
             "mapname": "estate",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_estate.iwi"
+                    "filename": "compass_estate.iwi"
                 },
                 "png": {
-                    "filename": "estate.png"
+                    "filename": "compass_estate.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_estate.iwi"
-                },
-                "png": {
-                    "filename": "estate.png",
-                    "md5": "af4deed92e8cac9ea0285b7c245d6a1c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/estate.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_ESTATE",
                 "english": "Loose Ends (#15)"
             },
             "waypoints": {
-                "count": 313,
-                "filename": "estate_wp.csv",
-                "md5": "877cfbd7ce41014bec99534192e41337"
+                "filename": "estate_wp.csv"
             }
         },
         "favela": {
-            "alternatives": {
-                "so_juggernauts_favela": "Singleplayer (Act 1): Takedown (#5) (#5)",
-                "so_killspree_favela": "Spec Ops Alpha: O Cristo Redentor (#3)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA",
-                "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
-                "french": "Ruelles br\u00e9siliennes. Niveau parfait pour tous les modes de jeux et n'importe quel nombre de joueurs.",
-                "german": "Brasilianische Gassen. Geeignet f\u00fcr alle Spielmodi und Gr\u00f6\u00dfen.",
-                "italian": "Strade brasiliane. Ottimo per tutte le modalit\u00e0 e dimensioni.",
-                "polish": "Brazylijskie alejki. \u008cwietne do wszystkich tryb\u00f3w i rozmiar\u00f3w gry.",
-                "russian": "\u00cb\u00e0\u00e1\u00e8\u00f0\u00e8\u00ed\u00f2 \u00e1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e8\u00f5 \u00f3\u00eb\u00ee\u00f7\u00e5\u00ea. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb \u00e8 \u00e4\u00eb\u00ff \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2 \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2.",
-                "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
+                "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela."
             },
-            "index": 5,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_favela.iwi"
+                    "filename": "loadscreen_map_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "loadscreen_map_favela.png"
                 }
             },
             "mapname": "favela",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_favela.iwi"
+                    "filename": "compass_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "compass_favela.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_favela.iwi"
-                },
-                "png": {
-                    "filename": "favela.png",
-                    "md5": "92981603a1fd9b8a719af788d6a81b7c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_FAVELA",
                 "english": "Takedown (#5)"
             },
             "waypoints": {
-                "count": 14,
-                "filename": "favela_wp.csv",
-                "md5": "730cef9689a99d612c000672149e799b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv"
+                "filename": "favela_wp.csv"
             }
         },
         "favela_escape": {
-            "alternatives": {
-                "so_defuse_favela_escape": "Spec Ops Bravo: Bomb Squad (#8)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
                 "english": "Escape the favela."
             },
-            "index": 7,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_favela_escape.iwi"
+                    "filename": "loadscreen_map_favela_escape.iwi"
                 },
                 "png": {
-                    "filename": "favela_escape.png"
+                    "filename": "loadscreen_map_favela_escape.png"
                 }
             },
             "mapname": "favela_escape",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_favela_escape.iwi"
+                    "filename": "compass_favela_escape.iwi"
                 },
                 "png": {
-                    "filename": "favela_escape.png"
+                    "filename": "compass_favela_escape.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_favela_escape.iwi"
-                },
-                "png": {
-                    "filename": "favela_escape.png",
-                    "md5": "6deb2cafd496b176220a71284e01daf6",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela_escape.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_FAVELA_ESCAPE",
                 "english": "The Hornet\u00e2\u20ac\u2122s Nest (#7)"
             },
             "waypoints": {
-                "count": 286,
-                "filename": "favela_escape_wp.csv",
-                "md5": "25402d4ed3920503f7d14221038168de",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_escape_wp.csv"
+                "filename": "favela_escape_wp.csv"
             }
         },
         "gulag": {
-            "alternatives": {
-                "so_showers_gulag": "Spec Ops Charlie: Breach & Clear (#12)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_GULAG",
-                "english": "Rescue Prisoner #627.",
-                "french": "Prison russe. Des affrontements d'envergure en pleine nuit.",
-                "german": "N\u00e4chtlicher Gef\u00e4ngniskampf. Gro\u00dfr\u00e4umige K\u00e4mpfe in russischem Gef\u00e4ngnis.",
-                "italian": "Combattimento in una grande prigione russa, notte.",
-                "polish": "Nocna walka w areszcie. Intensywne walki w rosyjskim areszcie.",
-                "russian": "\u00cd\u00ee\u00f7\u00ed\u00e0\u00ff \u00f1\u00f5\u00e2\u00e0\u00f2\u00ea\u00e0 \u00ed\u00e0 \u00f2\u00e5\u00f0\u00f0\u00e8\u00f2\u00ee\u00f0\u00e8\u00e8 \u00f2\u00fe\u00f0\u00fc\u00ec\u00fb. \u00d8\u00e8\u00f0\u00ee\u00ea\u00e8\u00e9 \u00f1\u00ef\u00e5\u00ea\u00f2\u00f0 \u00f0\u00f3\u00f1\u00f1\u00ea\u00e8\u00f5 \u00f2\u00fe\u00f0\u00e5\u00ec\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Pelea nocturna en una c\u00e1rcel. Luchas a gran escala en una prisi\u00f3n rusa."
+                "english": "Rescue Prisoner #627."
             },
-            "index": 10,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_gulag.iwi"
+                    "filename": "loadscreen_map_gulag.iwi"
                 },
                 "png": {
-                    "filename": "gulag.png"
+                    "filename": "loadscreen_map_gulag.png"
                 }
             },
             "mapname": "gulag",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_gulag.iwi"
+                    "filename": "compass_gulag.iwi"
                 },
                 "png": {
-                    "filename": "gulag.png"
+                    "filename": "compass_gulag.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_gulag.iwi"
-                },
-                "png": {
-                    "filename": "gulag.png",
-                    "md5": "852b4a676d684f942b2088fcd4acf214",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/gulag.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_GULAG",
-                "english": "The Gulag (#10)",
-                "french": "Goulag",
-                "polish": "Gu\u00b3ag",
-                "russian": "\u00ca\u00ee\u00eb\u00ee\u00ed\u00e8\u00ff"
+                "english": "The Gulag (#10)"
             },
             "waypoints": {
-                "count": 252,
-                "filename": "gulag_wp.csv",
-                "md5": "dcf71a0e3223e48bb722ca3697d44483",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/gulag_wp.csv"
+                "filename": "gulag_wp.csv"
             }
         },
         "invasion": {
-            "alternatives": {
-                "so_chopper_invasion": "Spec Ops Bravo: Big Brother (#10)",
-                "so_defense_invasion": "Spec Ops Charlie: Homeland Security (#14)",
-                "so_killspree_invasion": "Spec Ops Bravo: Body Count (#7)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_INVASION",
-                "english": "Locate and protect codename Raptor during the beginning of the invasion.",
-                "french": "Ville dans le d\u00e9sert. Des combats classiques dans les rues.",
-                "german": "Stadt in der W\u00fcste. Klassische Stra\u00dfenk\u00e4mpfe.",
-                "italian": "Citt\u00e0 nel deserto. Classiche sparatorie in strada.",
-                "polish": "Miasto na pustyni. Klasyczne walki uliczne.",
-                "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
+                "english": "Locate and protect codename Raptor during the beginning of the invasion."
             },
-            "index": 6,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_invasion.iwi"
+                    "filename": "loadscreen_map_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "loadscreen_map_invasion.png"
                 }
             },
             "mapname": "invasion",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_invasion.iwi"
+                    "filename": "compass_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "compass_invasion.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_invasion.iwi"
-                },
-                "png": {
-                    "filename": "invasion.png",
-                    "md5": "5a12cc65acf5bb3b671b52c5b02999f3",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_INVASION",
@@ -24851,61 +24591,38 @@
             }
         },
         "oilrig": {
-            "alternatives": {
-                "so_assault_oilrig": "Singleplayer (Act 2): The Only Easy Day... Was Yesterday (#9) (#9)",
-                "so_takeover_oilrig": "Singleplayer (Act 2): The Only Easy Day... Was Yesterday (#9) (#9)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_OIL_RIG",
+                "_key": "MPUI_DESC_MAP_OILRIG",
                 "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
             },
-            "index": 9,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_oilrig.iwi"
+                    "filename": "loadscreen_map_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "loadscreen_map_oilrig.png"
                 }
             },
             "mapname": "oilrig",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_oilrig.iwi"
+                    "filename": "compass_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "compass_oilrig.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_oilrig.iwi"
-                },
-                "png": {
-                    "filename": "oilrig.png",
-                    "md5": "04b02f188cb272c1d049759f3d2bddc0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_OILRIG",
-                "english": "The Only Easy Day... Was Yesterday (#9)",
-                "french": "Plate-forme p\u00e9troli\u00e8re",
-                "german": "Bohrinsel",
-                "italian": "Piattaforma petrolifera",
-                "polish": "Platforma wiertnicza",
-                "russian": "\u00c1\u00f3\u00f0\u00ee\u00e2\u00e0\u00ff \u00e2\u00fb\u00f8\u00ea\u00e0",
-                "spanish": "Plataforma petrol\u00edfera"
+                "english": "The Only Easy Day... Was Yesterday (#9)"
             },
             "waypoints": {
-                "count": 157,
-                "filename": "oilrig_wp.csv",
-                "md5": "a9c98dd8ee5bf1956d8362930f05693f",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv"
+                "filename": "oilrig_wp.csv"
             }
         },
         "roadkill": {
@@ -24913,96 +24630,76 @@
                 "_key": "MPUI_DESC_MAP_ROADKILL",
                 "english": "Search and destroy enemy forces in Afghanistan."
             },
-            "index": 2,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_roadkill.iwi"
+                    "filename": "loadscreen_map_roadkill.iwi"
                 },
                 "png": {
-                    "filename": "roadkill.png"
+                    "filename": "loadscreen_map_roadkill.png"
                 }
             },
             "mapname": "roadkill",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_roadkill.iwi"
+                    "filename": "compass_roadkill.iwi"
                 },
                 "png": {
-                    "filename": "roadkill.png"
+                    "filename": "compass_roadkill.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_roadkill.iwi"
-                },
-                "png": {
-                    "filename": "roadkill.png",
-                    "md5": "fc48f75a0ac44e84bee7ad0547508566",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/roadkill.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_ROADKILL",
                 "english": "Team Player (#2)"
             },
             "waypoints": {
-                "count": 268,
-                "filename": "roadkill_wp.csv",
-                "md5": "09bd85faba471082121de518d2b177e1",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/roadkill_wp.csv"
+                "filename": "roadkill_wp.csv"
             }
         },
         "so_ac130_co_hunted": {
-            "alternatives": {
-                "co_hunted": "Unknown: Village"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_VILLAGE",
-                "english": "Large African village. Great for all game modes."
+                "_key": "MPUI_DESC_MAP_SO_AC130_CO_HUNTED",
+                "english": "Rain death from above using an AC-130 gunship to protect your partner."
             },
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_co_hunted.iwi"
+                    "filename": "loadscreen_map_so_ac130_co_hunted.iwi"
                 },
                 "png": {
-                    "filename": "co_hunted.png"
+                    "filename": "loadscreen_map_so_ac130_co_hunted.png"
                 }
             },
             "mapname": "so_ac130_co_hunted",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_co_hunted.iwi"
+                    "filename": "compass_so_ac130_co_hunted.iwi"
                 },
                 "png": {
-                    "filename": "co_hunted.png"
+                    "filename": "compass_so_ac130_co_hunted.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_co_hunted.iwi"
+                    "filename": "preview_so_ac130_co_hunted.iwi"
                 },
                 "png": {
-                    "filename": "co_hunted.png",
-                    "md5": "21fc6518710355e956e98b369c0c232d",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/co_hunted.png"
+                    "filename": "preview_so_ac130_co_hunted.png"
                 }
             },
             "source": {
-                "name": "Unknown"
+                "name": "Spec Ops (Bravo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CO_HUNTED",
-                "english": "Village"
+                "_key": "MPUI_SO_AC130_CO_HUNTED",
+                "english": "Overwatch (#6)"
             },
             "waypoints": {
-                "count": 177,
-                "filename": "co_hunted_wp.csv",
-                "md5": "8acf7d0dafb20de4fde29b313af9da7f",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/co_hunted_wp.csv"
+                "filename": "so_ac130_co_hunted_wp.csv"
             }
         },
         "so_assault_oilrig": {
@@ -25112,416 +24809,339 @@
             }
         },
         "so_chopper_invasion": {
-            "alternatives": {
-                "invasion": "Campaign Act 2: Wolverines! (#6)",
-                "so_defense_invasion": "Spec Ops Charlie: Homeland Security (#14)",
-                "so_killspree_invasion": "Spec Ops Bravo: Body Count (#7)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_INVASION",
-                "english": "Locate and protect codename Raptor during the beginning of the invasion.",
-                "french": "Ville dans le d\u00e9sert. Des combats classiques dans les rues.",
-                "german": "Stadt in der W\u00fcste. Klassische Stra\u00dfenk\u00e4mpfe.",
-                "italian": "Citt\u00e0 nel deserto. Classiche sparatorie in strada.",
-                "polish": "Miasto na pustyni. Klasyczne walki uliczne.",
-                "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
+                "_key": "MPUI_DESC_MAP_SO_CHOPPER_INVASION",
+                "english": "Explosive ammunition, Vulcan Minigun, Blackhawk Helicopter. Clear the way."
             },
-            "index": 6,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_invasion.iwi"
+                    "filename": "loadscreen_map_so_chopper_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "loadscreen_map_so_chopper_invasion.png"
                 }
             },
             "mapname": "so_chopper_invasion",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_invasion.iwi"
+                    "filename": "compass_so_chopper_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "compass_so_chopper_invasion.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_invasion.iwi"
+                    "filename": "preview_so_chopper_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png",
-                    "md5": "5a12cc65acf5bb3b671b52c5b02999f3",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
+                    "filename": "preview_so_chopper_invasion.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Bravo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_INVASION",
-                "english": "Wolverines! (#6)"
+                "_key": "MPUI_SO_CHOPPER_INVASION",
+                "english": "Big Brother (#10)"
             },
             "waypoints": {
-                "filename": "invasion_wp.csv"
+                "filename": "so_chopper_invasion_wp.csv"
             }
         },
         "so_crossing_so_bridge": {
-            "alternatives": {
-                "so_bridge": "Special Ops (Bravo): Bridge",
-                "so_demo_so_bridge": "Spec Ops Delta: Wreckage (#17)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_SO_BRIDGE",
-                "english": "Bridge is a map from the Special Ops mode."
+                "_key": "MPUI_DESC_MAP_SO_CROSSING_SO_BRIDGE",
+                "english": "Push through the invading forces on the bridge to reach the safe zone."
             },
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_so_bridge.iwi"
+                    "filename": "loadscreen_map_so_crossing_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png"
+                    "filename": "loadscreen_map_so_crossing_so_bridge.png"
                 }
             },
             "mapname": "so_crossing_so_bridge",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_so_bridge.iwi"
+                    "filename": "compass_so_crossing_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png"
+                    "filename": "compass_so_crossing_so_bridge.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_so_bridge.iwi"
+                    "filename": "preview_so_crossing_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png",
-                    "md5": "ca053b31666f292217fa53b39f4e2d34",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_bridge.png"
+                    "filename": "preview_so_crossing_so_bridge.png"
                 }
             },
             "source": {
-                "name": "Special Ops (Bravo)"
+                "name": "Spec Ops (Alpha)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_SO_GHILLIES",
-                "english": "Bridge"
+                "_key": "MPUI_SO_CROSSING_SO_BRIDGE",
+                "english": "Suspension (#5)"
             },
             "waypoints": {
-                "filename": "so_bridge_wp.csv",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_bridge_wp.csv"
+                "filename": "so_crossing_so_bridge_wp.csv"
             }
         },
         "so_defense_invasion": {
-            "alternatives": {
-                "invasion": "Campaign Act 2: Wolverines! (#6)",
-                "so_chopper_invasion": "Spec Ops Bravo: Big Brother (#10)",
-                "so_killspree_invasion": "Spec Ops Bravo: Body Count (#7)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_INVASION",
-                "english": "Locate and protect codename Raptor during the beginning of the invasion.",
-                "french": "Ville dans le d\u00e9sert. Des combats classiques dans les rues.",
-                "german": "Stadt in der W\u00fcste. Klassische Stra\u00dfenk\u00e4mpfe.",
-                "italian": "Citt\u00e0 nel deserto. Classiche sparatorie in strada.",
-                "polish": "Miasto na pustyni. Klasyczne walki uliczne.",
-                "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
+                "_key": "MPUI_DESC_MAP_SO_DEFENSE_INVASION",
+                "english": "Sentry guns, Thermal sights, Rocket launchers and Claymores. Defend yourself from five difficult waves of attackers."
             },
-            "index": 6,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_invasion.iwi"
+                    "filename": "loadscreen_map_so_defense_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "loadscreen_map_so_defense_invasion.png"
                 }
             },
             "mapname": "so_defense_invasion",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_invasion.iwi"
+                    "filename": "compass_so_defense_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "compass_so_defense_invasion.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_invasion.iwi"
+                    "filename": "preview_so_defense_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png",
-                    "md5": "5a12cc65acf5bb3b671b52c5b02999f3",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
+                    "filename": "preview_so_defense_invasion.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Charlie)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_INVASION",
-                "english": "Wolverines! (#6)"
+                "_key": "MPUI_SO_DEFENSE_INVASION",
+                "english": "Homeland Security (#14)"
             },
             "waypoints": {
-                "filename": "invasion_wp.csv"
+                "filename": "so_defense_invasion_wp.csv"
             }
         },
         "so_defuse_favela_escape": {
-            "alternatives": {
-                "favela_escape": "Campaign Act 2: The Hornet\u00e2\u20ac\u2122s Nest (#7)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
-                "english": "Escape the favela."
+                "_key": "MPUI_DESC_MAP_SO_DEFUSE_FAVELA_ESCAPE",
+                "english": "Race through the Favela marketplace defusing the explosives before it's too late."
             },
-            "index": 7,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_favela_escape.iwi"
+                    "filename": "loadscreen_map_so_defuse_favela_escape.iwi"
                 },
                 "png": {
-                    "filename": "favela_escape.png"
+                    "filename": "loadscreen_map_so_defuse_favela_escape.png"
                 }
             },
             "mapname": "so_defuse_favela_escape",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_favela_escape.iwi"
+                    "filename": "compass_so_defuse_favela_escape.iwi"
                 },
                 "png": {
-                    "filename": "favela_escape.png"
+                    "filename": "compass_so_defuse_favela_escape.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_favela_escape.iwi"
+                    "filename": "preview_so_defuse_favela_escape.iwi"
                 },
                 "png": {
-                    "filename": "favela_escape.png",
-                    "md5": "6deb2cafd496b176220a71284e01daf6",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela_escape.png"
+                    "filename": "preview_so_defuse_favela_escape.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Bravo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_FAVELA_ESCAPE",
-                "english": "The Hornet\u00e2\u20ac\u2122s Nest (#7)"
+                "_key": "MPUI_SO_DEFUSE_FAVELA_ESCAPE",
+                "english": "Bomb Squad (#8)"
             },
             "waypoints": {
-                "count": 286,
-                "filename": "favela_escape_wp.csv",
-                "md5": "25402d4ed3920503f7d14221038168de",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_escape_wp.csv"
+                "filename": "so_defuse_favela_escape_wp.csv"
             }
         },
         "so_demo_so_bridge": {
-            "alternatives": {
-                "so_bridge": "Special Ops (Bravo): Bridge",
-                "so_crossing_so_bridge": "Spec Ops Alpha: Suspension (#5)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_SO_BRIDGE",
-                "english": "Bridge is a map from the Special Ops mode."
+                "_key": "MPUI_DESC_MAP_SO_DEMO_SO_BRIDGE",
+                "english": "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
             },
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_so_bridge.iwi"
+                    "filename": "loadscreen_map_so_demo_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png"
+                    "filename": "loadscreen_map_so_demo_so_bridge.png"
                 }
             },
             "mapname": "so_demo_so_bridge",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_so_bridge.iwi"
+                    "filename": "compass_so_demo_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png"
+                    "filename": "compass_so_demo_so_bridge.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_so_bridge.iwi"
+                    "filename": "preview_so_demo_so_bridge.iwi"
                 },
                 "png": {
-                    "filename": "so_bridge.png",
-                    "md5": "ca053b31666f292217fa53b39f4e2d34",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_bridge.png"
+                    "filename": "preview_so_demo_so_bridge.png"
                 }
             },
             "source": {
-                "name": "Special Ops (Bravo)"
+                "name": "Spec Ops (Delta)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_SO_GHILLIES",
-                "english": "Bridge"
+                "_key": "MPUI_SO_DEMO_SO_BRIDGE",
+                "english": "Wreckage (#17)"
             },
             "waypoints": {
-                "filename": "so_bridge_wp.csv",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_bridge_wp.csv"
+                "filename": "so_demo_so_bridge_wp.csv"
             }
         },
         "so_download_arcadia": {
-            "alternatives": {
-                "arcadia": "Campaign Act 2: Exodus (#8)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_ARCADIA",
-                "english": "Assist in the evacuation of civilians and key personnel in the suburbs."
+                "_key": "MPUI_DESC_MAP_SO_DOWNLOAD_ARCADIA",
+                "english": "Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room."
             },
-            "index": 8,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_arcadia.iwi"
+                    "filename": "loadscreen_map_so_download_arcadia.iwi"
                 },
                 "png": {
-                    "filename": "arcadia.png"
+                    "filename": "loadscreen_map_so_download_arcadia.png"
                 }
             },
             "mapname": "so_download_arcadia",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_arcadia.iwi"
+                    "filename": "compass_so_download_arcadia.iwi"
                 },
                 "png": {
-                    "filename": "arcadia.png"
+                    "filename": "compass_so_download_arcadia.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_arcadia.iwi"
+                    "filename": "preview_so_download_arcadia.iwi"
                 },
                 "png": {
-                    "filename": "arcadia.png",
-                    "md5": "a2c7414a2e2dcc4aeb6ff726a0042ce9",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/arcadia.png"
+                    "filename": "preview_so_download_arcadia.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Delta)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_ARCADIA",
-                "english": "Exodus (#8)"
+                "_key": "MPUI_SO_DOWNLOAD_ARCADIA",
+                "english": "Wardriving (#16)"
             },
             "waypoints": {
-                "count": 257,
-                "filename": "arcadia_wp.csv",
-                "md5": "891524c4a3a2f3e48baeb4f41b08d0d8",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/arcadia_wp.csv"
+                "filename": "so_download_arcadia_wp.csv"
             }
         },
         "so_escape_airport": {
-            "alternatives": {
-                "airport": "Campaign Act 1: No Russian (#4)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_AIRPORT",
-                "english": "Earn Makarov's trust."
+                "_key": "MPUI_DESC_MAP_SO_ESCAPE_AIRPORT",
+                "english": "Clear the airport of enemies. Use explosives to take down enemy vehicles and structures."
             },
-            "index": 4,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_airport.iwi"
+                    "filename": "loadscreen_map_so_escape_airport.iwi"
                 },
                 "png": {
-                    "filename": "airport.png"
+                    "filename": "loadscreen_map_so_escape_airport.png"
                 }
             },
             "mapname": "so_escape_airport",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_airport.iwi"
+                    "filename": "compass_so_escape_airport.iwi"
                 },
                 "png": {
-                    "filename": "airport.png"
+                    "filename": "compass_so_escape_airport.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_airport.iwi"
+                    "filename": "preview_so_escape_airport.iwi"
                 },
                 "png": {
-                    "filename": "airport.png",
-                    "md5": "81c7c5b256e6d8af8297106132187fde",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/airport.png"
+                    "filename": "preview_so_escape_airport.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Delta)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_AIRPORT",
-                "english": "No Russian (#4)"
+                "_key": "MPUI_SO_ESCAPE_AIRPORT",
+                "english": "Airport (#19)"
             },
             "waypoints": {
-                "count": 275,
-                "filename": "airport_wp.csv",
-                "md5": "59148528c2030071c5b31d897253304d",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/airport_wp.csv"
+                "filename": "so_escape_airport_wp.csv"
             }
         },
         "so_forest_contingency": {
-            "alternatives": {
-                "contingency": "Campaign Act 3: Contingency (#12)",
-                "so_rooftop_contingency": "Spec Ops Alpha: Sniper Fi (#2)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_CONTINGENCY",
-                "english": "Help Captain Price reach the Russian submarine."
+                "_key": "MPUI_DESC_MAP_SO_FOREST_CONTINGENCY",
+                "english": "Use silenced sniper rifles and cunning to slip past the enemy patrols."
             },
-            "index": 12,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_contingency.iwi"
+                    "filename": "loadscreen_map_so_forest_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "loadscreen_map_so_forest_contingency.png"
                 }
             },
             "mapname": "so_forest_contingency",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_contingency.iwi"
+                    "filename": "compass_so_forest_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "compass_so_forest_contingency.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_contingency.iwi"
+                    "filename": "preview_so_forest_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png",
-                    "md5": "cbe1b9a7cd157eb2dfe9f78f44bc71e0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
+                    "filename": "preview_so_forest_contingency.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Alpha)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CONTINGENCY",
-                "english": "Contingency (#12)"
+                "_key": "MPUI_SO_FOREST_CONTINGENCY",
+                "english": "Evasion (#4)"
             },
             "waypoints": {
-                "count": 166,
-                "filename": "contingency_wp.csv",
-                "md5": "833a3321486bb033b5b4237820d14a4b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv"
+                "filename": "so_forest_contingency_wp.csv"
             }
         },
         "so_ghillies": {
@@ -25575,104 +25195,87 @@
             }
         },
         "so_hidden_so_ghillies": {
-            "alternatives": {
-                "so_ghillies": "Unknown: So Ghillies"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_SO_GHILLIES",
-                "english": "So Ghillies is a map for Call of Duty: Modern Warfare 2."
+                "_key": "MPUI_DESC_MAP_SO_HIDDEN_SO_GHILLIES",
+                "english": "Evade enemy patrols and Ghillie Snipers near Chernobyl."
             },
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_so_ghillies.iwi"
+                    "filename": "loadscreen_map_so_hidden_so_ghillies.iwi"
                 },
                 "png": {
-                    "filename": "so_ghillies.png"
+                    "filename": "loadscreen_map_so_hidden_so_ghillies.png"
                 }
             },
             "mapname": "so_hidden_so_ghillies",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_so_ghillies.iwi"
+                    "filename": "compass_so_hidden_so_ghillies.iwi"
                 },
                 "png": {
-                    "filename": "so_ghillies.png"
+                    "filename": "compass_so_hidden_so_ghillies.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_so_ghillies.iwi"
+                    "filename": "preview_so_hidden_so_ghillies.iwi"
                 },
                 "png": {
-                    "filename": "so_ghillies.png",
-                    "md5": "9a2a02d40e0bc4bedc2e8ce6c42fe97c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/so_ghillies.png"
+                    "filename": "preview_so_hidden_so_ghillies.png"
                 }
             },
             "source": {
-                "name": "Custom Maps",
-                "url": "https://minopia.de/iw4/maps/?sources=Custom%20Maps"
+                "name": "Spec Ops (Charlie)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_SO_GHILLIES",
-                "english": "So Ghillies"
+                "_key": "MPUI_SO_HIDDEN_SO_GHILLIES",
+                "english": "Hidden (#11)"
             },
             "waypoints": {
-                "count": 120,
-                "filename": "so_ghillies_wp.csv",
-                "md5": "160e37606378170823adce27a38ffb64",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/so_ghillies_wp.csv"
+                "filename": "so_hidden_so_ghillies_wp.csv"
             }
         },
         "so_intel_boneyard": {
-            "alternatives": {
-                "boneyard": "Campaign Act 3: The Enemy of My Enemy (#16)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_SCRAPYARD",
-                "english": "Escape from General Shepherd's trap in the boneyard."
+                "_key": "MPUI_DESC_MAP_SO_INTEL_BONEYARD",
+                "english": "Battle Shadow Company and Juggernauts in the airplane graveyard. Grab the intel and escape to the extraction point."
             },
-            "index": 16,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_boneyard.iwi"
+                    "filename": "loadscreen_map_so_intel_boneyard.iwi"
                 },
                 "png": {
-                    "filename": "boneyard.png"
+                    "filename": "loadscreen_map_so_intel_boneyard.png"
                 }
             },
             "mapname": "so_intel_boneyard",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_boneyard.iwi"
+                    "filename": "compass_so_intel_boneyard.iwi"
                 },
                 "png": {
-                    "filename": "boneyard.png"
+                    "filename": "compass_so_intel_boneyard.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_boneyard.iwi"
+                    "filename": "preview_so_intel_boneyard.iwi"
                 },
                 "png": {
-                    "filename": "boneyard.png",
-                    "md5": "ab1bcb82a6e3089f6efe1af57363d9b3",
-                    "url": "https://callofdutymaps.com/wp-content/uploads/boneyard1-1500x500.jpg"
+                    "filename": "preview_so_intel_boneyard.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Charlie)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_BONEYARD",
-                "english": "The Enemy of My Enemy (#16)"
+                "_key": "MPUI_SO_INTEL_BONEYARD",
+                "english": "Snatch & Grab (#15)"
             },
             "waypoints": {
-                "count": 276,
-                "filename": "boneyard_wp.csv",
-                "md5": "da143b52fc8950bc727b2f254fa861df",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/boneyard_wp.csv"
+                "filename": "so_intel_boneyard_wp.csv"
             }
         },
         "so_juggernauts_favela": {
@@ -25734,495 +25337,381 @@
             }
         },
         "so_killspree_favela": {
-            "alternatives": {
-                "favela": "Campaign Act 1: Takedown (#5)",
-                "so_juggernauts_favela": "Singleplayer (Act 1): Takedown (#5) (#5)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_FAVELA",
-                "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
-                "french": "Ruelles br\u00e9siliennes. Niveau parfait pour tous les modes de jeux et n'importe quel nombre de joueurs.",
-                "german": "Brasilianische Gassen. Geeignet f\u00fcr alle Spielmodi und Gr\u00f6\u00dfen.",
-                "italian": "Strade brasiliane. Ottimo per tutte le modalit\u00e0 e dimensioni.",
-                "polish": "Brazylijskie alejki. \u008cwietne do wszystkich tryb\u00f3w i rozmiar\u00f3w gry.",
-                "russian": "\u00cb\u00e0\u00e1\u00e8\u00f0\u00e8\u00ed\u00f2 \u00e1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e8\u00f5 \u00f3\u00eb\u00ee\u00f7\u00e5\u00ea. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb \u00e8 \u00e4\u00eb\u00ff \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2 \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2.",
-                "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
+                "_key": "MPUI_DESC_MAP_SO_KILLSPREE_FAVELA",
+                "english": "Hunt down and eliminate the Favela gang. Minimize Civilian casualties."
             },
-            "index": 5,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_favela.iwi"
+                    "filename": "loadscreen_map_so_killspree_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "loadscreen_map_so_killspree_favela.png"
                 }
             },
             "mapname": "so_killspree_favela",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_favela.iwi"
+                    "filename": "compass_so_killspree_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "compass_so_killspree_favela.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_favela.iwi"
+                    "filename": "preview_so_killspree_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png",
-                    "md5": "92981603a1fd9b8a719af788d6a81b7c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
+                    "filename": "preview_so_killspree_favela.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Alpha)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_FAVELA",
-                "english": "Takedown (#5)"
+                "_key": "MPUI_SO_KILLSPREE_FAVELA",
+                "english": "O Cristo Redentor (#3)"
             },
             "waypoints": {
-                "count": 14,
-                "filename": "favela_wp.csv",
-                "md5": "730cef9689a99d612c000672149e799b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv"
+                "filename": "so_killspree_favela_wp.csv"
             }
         },
         "so_killspree_invasion": {
-            "alternatives": {
-                "invasion": "Campaign Act 2: Wolverines! (#6)",
-                "so_chopper_invasion": "Spec Ops Bravo: Big Brother (#10)",
-                "so_defense_invasion": "Spec Ops Charlie: Homeland Security (#14)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_INVASION",
-                "english": "Locate and protect codename Raptor during the beginning of the invasion.",
-                "french": "Ville dans le d\u00e9sert. Des combats classiques dans les rues.",
-                "german": "Stadt in der W\u00fcste. Klassische Stra\u00dfenk\u00e4mpfe.",
-                "italian": "Citt\u00e0 nel deserto. Classiche sparatorie in strada.",
-                "polish": "Miasto na pustyni. Klasyczne walki uliczne.",
-                "russian": "\u00c3\u00ee\u00f0\u00ee\u00e4 \u00e2 \u00ef\u00f3\u00f1\u00f2\u00fb\u00ed\u00ed\u00ee\u00e9 \u00ec\u00e5\u00f1\u00f2\u00ed\u00ee\u00f1\u00f2\u00e8. \u00ca\u00eb\u00e0\u00f1\u00f1\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00f3\u00f0\u00e1\u00e0\u00ed\u00e8\u00f1\u00f2\u00e8\u00f7\u00e5\u00f1\u00ea\u00e8\u00e9 \u00ef\u00e5\u00e9\u00e7\u00e0\u00e6 \u00e4\u00eb\u00ff \u00f3\u00eb\u00e8\u00f7\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Una ciudad del desierto. La lucha callejera m\u00e1s cl\u00e1sica."
+                "_key": "MPUI_DESC_MAP_SO_KILLSPREE_INVASION",
+                "english": "Rack up a large enough body count. Quick kills earn larger bonuses."
             },
-            "index": 6,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_invasion.iwi"
+                    "filename": "loadscreen_map_so_killspree_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "loadscreen_map_so_killspree_invasion.png"
                 }
             },
             "mapname": "so_killspree_invasion",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_invasion.iwi"
+                    "filename": "compass_so_killspree_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png"
+                    "filename": "compass_so_killspree_invasion.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_invasion.iwi"
+                    "filename": "preview_so_killspree_invasion.iwi"
                 },
                 "png": {
-                    "filename": "invasion.png",
-                    "md5": "5a12cc65acf5bb3b671b52c5b02999f3",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/invasion.png"
+                    "filename": "preview_so_killspree_invasion.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Bravo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_INVASION",
-                "english": "Wolverines! (#6)"
+                "_key": "MPUI_SO_KILLSPREE_INVASION",
+                "english": "Body Count (#7)"
             },
             "waypoints": {
-                "filename": "invasion_wp.csv"
+                "filename": "so_killspree_invasion_wp.csv"
             }
         },
         "so_killspree_trainer": {
-            "alternatives": {
-                "trainer": "Campaign Act 1: S.S.D.D. (#1)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_TRAINER",
-                "english": "Demonstrate proper fire control for the local trainees."
+                "_key": "MPUI_DESC_MAP_SO_KILLSPREE_TRAINER",
+                "english": "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting 3 stars."
             },
-            "index": 1,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_trainer.iwi"
+                    "filename": "loadscreen_map_so_killspree_trainer.iwi"
                 },
                 "png": {
-                    "filename": "trainer.png"
+                    "filename": "loadscreen_map_so_killspree_trainer.png"
                 }
             },
             "mapname": "so_killspree_trainer",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_trainer.iwi"
+                    "filename": "compass_so_killspree_trainer.iwi"
                 },
                 "png": {
-                    "filename": "trainer.png"
+                    "filename": "compass_so_killspree_trainer.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_trainer.iwi"
+                    "filename": "preview_so_killspree_trainer.iwi"
                 },
                 "png": {
-                    "filename": "trainer.png",
-                    "md5": "d19241c24b1c36cf16badb0dfc938463",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/trainer.png"
+                    "filename": "preview_so_killspree_trainer.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Alpha)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_TRAINER",
-                "english": "S.S.D.D. (#1)"
+                "_key": "MPUI_SO_KILLSPREE_TRAINER",
+                "english": "The Pit (#1)"
             },
             "waypoints": {
-                "count": 107,
-                "filename": "trainer_wp.csv",
-                "md5": "c9fc21728686bd154883d4539cc8163d",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/trainer_wp.csv"
+                "filename": "so_killspree_trainer_wp.csv"
             }
         },
         "so_rooftop_contingency": {
-            "alternatives": {
-                "contingency": "Campaign Act 3: Contingency (#12)",
-                "so_forest_contingency": "Spec Ops Alpha: Evasion (#4)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_CONTINGENCY",
-                "english": "Help Captain Price reach the Russian submarine."
+                "_key": "MPUI_DESC_MAP_SO_ROOFTOP_CONTINGENCY",
+                "english": "Use sniper rifles, claymores and Predator Drones to hold off waves of enemies."
             },
-            "index": 12,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_contingency.iwi"
+                    "filename": "loadscreen_map_so_rooftop_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "loadscreen_map_so_rooftop_contingency.png"
                 }
             },
             "mapname": "so_rooftop_contingency",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_contingency.iwi"
+                    "filename": "compass_so_rooftop_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png"
+                    "filename": "compass_so_rooftop_contingency.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_contingency.iwi"
+                    "filename": "preview_so_rooftop_contingency.iwi"
                 },
                 "png": {
-                    "filename": "contingency.png",
-                    "md5": "cbe1b9a7cd157eb2dfe9f78f44bc71e0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/contingency.png"
+                    "filename": "preview_so_rooftop_contingency.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Alpha)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CONTINGENCY",
-                "english": "Contingency (#12)"
+                "_key": "MPUI_SO_ROOFTOP_CONTINGENCY",
+                "english": "Sniper Fi (#2)"
             },
             "waypoints": {
-                "count": 166,
-                "filename": "contingency_wp.csv",
-                "md5": "833a3321486bb033b5b4237820d14a4b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/contingency_wp.csv"
+                "filename": "so_rooftop_contingency_wp.csv"
             }
         },
         "so_sabotage_cliffhanger": {
-            "alternatives": {
-                "cliffhanger": "Campaign Act 1: Cliffhanger (#3)",
-                "so_snowrace1_cliffhanger": "Spec Ops Bravo: Race (#9)",
-                "so_snowrace2_cliffhanger": "Spec Ops Charlie: Time Trial (#13)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_CLIFFHANGER",
-                "english": "Locate and retrieve the ACS module from a crashed satellite."
+                "_key": "MPUI_DESC_MAP_SO_SABOTAGE_CLIFFHANGER",
+                "english": "Navigate through the blizzard to reach the extraction point. Snowmobiles and dog sleds are your best friends."
             },
-            "index": 3,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_cliffhanger.iwi"
+                    "filename": "loadscreen_map_so_sabotage_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "loadscreen_map_so_sabotage_cliffhanger.png"
                 }
             },
             "mapname": "so_sabotage_cliffhanger",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_cliffhanger.iwi"
+                    "filename": "compass_so_sabotage_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "compass_so_sabotage_cliffhanger.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_cliffhanger.iwi"
+                    "filename": "preview_so_sabotage_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png",
-                    "md5": "8d152acd5d75b4550f2d9bdc5fe7a008",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
+                    "filename": "preview_so_sabotage_cliffhanger.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Delta)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CLIFFHANGER",
-                "english": "Cliffhanger (#3)"
+                "_key": "MPUI_SO_SABOTAGE_CLIFFHANGER",
+                "english": "Blizzard (#18)"
             },
             "waypoints": {
-                "count": 262,
-                "filename": "cliffhanger_wp.csv",
-                "md5": "139f31fb424c703a1ad47c1cf50d98dc",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv"
+                "filename": "so_sabotage_cliffhanger_wp.csv"
             }
         },
         "so_showers_gulag": {
-            "alternatives": {
-                "gulag": "Campaign Act 2: The Gulag (#10)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_GULAG",
-                "english": "Rescue Prisoner #627.",
-                "french": "Prison russe. Des affrontements d'envergure en pleine nuit.",
-                "german": "N\u00e4chtlicher Gef\u00e4ngniskampf. Gro\u00dfr\u00e4umige K\u00e4mpfe in russischem Gef\u00e4ngnis.",
-                "italian": "Combattimento in una grande prigione russa, notte.",
-                "polish": "Nocna walka w areszcie. Intensywne walki w rosyjskim areszcie.",
-                "russian": "\u00cd\u00ee\u00f7\u00ed\u00e0\u00ff \u00f1\u00f5\u00e2\u00e0\u00f2\u00ea\u00e0 \u00ed\u00e0 \u00f2\u00e5\u00f0\u00f0\u00e8\u00f2\u00ee\u00f0\u00e8\u00e8 \u00f2\u00fe\u00f0\u00fc\u00ec\u00fb. \u00d8\u00e8\u00f0\u00ee\u00ea\u00e8\u00e9 \u00f1\u00ef\u00e5\u00ea\u00f2\u00f0 \u00f0\u00f3\u00f1\u00f1\u00ea\u00e8\u00f5 \u00f2\u00fe\u00f0\u00e5\u00ec\u00ed\u00fb\u00f5 \u00e1\u00ee\u00e5\u00e2.",
-                "spanish": "Pelea nocturna en una c\u00e1rcel. Luchas a gran escala en una prisi\u00f3n rusa."
+                "_key": "MPUI_DESC_MAP_SO_SHOWERS_GULAG",
+                "english": "Smash through enemy defenses in the Gulag and escape."
             },
-            "index": 10,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_gulag.iwi"
+                    "filename": "loadscreen_map_so_showers_gulag.iwi"
                 },
                 "png": {
-                    "filename": "gulag.png"
+                    "filename": "loadscreen_map_so_showers_gulag.png"
                 }
             },
             "mapname": "so_showers_gulag",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_gulag.iwi"
+                    "filename": "compass_so_showers_gulag.iwi"
                 },
                 "png": {
-                    "filename": "gulag.png"
+                    "filename": "compass_so_showers_gulag.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_gulag.iwi"
+                    "filename": "preview_so_showers_gulag.iwi"
                 },
                 "png": {
-                    "filename": "gulag.png",
-                    "md5": "852b4a676d684f942b2088fcd4acf214",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/gulag.png"
+                    "filename": "preview_so_showers_gulag.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Charlie)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_GULAG",
-                "english": "The Gulag (#10)",
-                "french": "Goulag",
-                "polish": "Gu\u00b3ag",
-                "russian": "\u00ca\u00ee\u00eb\u00ee\u00ed\u00e8\u00ff"
+                "_key": "MPUI_SO_SHOWERS_GULAG",
+                "english": "Breach & Clear (#12)"
             },
             "waypoints": {
-                "count": 252,
-                "filename": "gulag_wp.csv",
-                "md5": "dcf71a0e3223e48bb722ca3697d44483",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/gulag_wp.csv"
+                "filename": "so_showers_gulag_wp.csv"
             }
         },
         "so_snowrace1_cliffhanger": {
-            "alternatives": {
-                "cliffhanger": "Campaign Act 1: Cliffhanger (#3)",
-                "so_sabotage_cliffhanger": "Spec Ops Delta: Blizzard (#18)",
-                "so_snowrace2_cliffhanger": "Spec Ops Charlie: Time Trial (#13)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_CLIFFHANGER",
-                "english": "Locate and retrieve the ACS module from a crashed satellite."
+                "_key": "MPUI_DESC_MAP_SO_SNOWRACE1_CLIFFHANGER",
+                "english": "Speed your snowmobile down the mountain, dodging trees, rocks, and thousand foot drops."
             },
-            "index": 3,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_cliffhanger.iwi"
+                    "filename": "loadscreen_map_so_snowrace1_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "loadscreen_map_so_snowrace1_cliffhanger.png"
                 }
             },
             "mapname": "so_snowrace1_cliffhanger",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_cliffhanger.iwi"
+                    "filename": "compass_so_snowrace1_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "compass_so_snowrace1_cliffhanger.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_cliffhanger.iwi"
+                    "filename": "preview_so_snowrace1_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png",
-                    "md5": "8d152acd5d75b4550f2d9bdc5fe7a008",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
+                    "filename": "preview_so_snowrace1_cliffhanger.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Bravo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CLIFFHANGER",
-                "english": "Cliffhanger (#3)"
+                "_key": "MPUI_SO_SNOWRACE1_CLIFFHANGER",
+                "english": "Race (#9)"
             },
             "waypoints": {
-                "count": 262,
-                "filename": "cliffhanger_wp.csv",
-                "md5": "139f31fb424c703a1ad47c1cf50d98dc",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv"
+                "filename": "so_snowrace1_cliffhanger_wp.csv"
             }
         },
         "so_snowrace2_cliffhanger": {
-            "alternatives": {
-                "cliffhanger": "Campaign Act 1: Cliffhanger (#3)",
-                "so_sabotage_cliffhanger": "Spec Ops Delta: Blizzard (#18)",
-                "so_snowrace1_cliffhanger": "Spec Ops Bravo: Race (#9)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_CLIFFHANGER",
-                "english": "Locate and retrieve the ACS module from a crashed satellite."
+                "_key": "MPUI_DESC_MAP_SO_SNOWRACE2_CLIFFHANGER",
+                "english": "Launch your snowmobile across the chasm before time runs out. Hit the flag gates to get extra time."
             },
-            "index": 3,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_cliffhanger.iwi"
+                    "filename": "loadscreen_map_so_snowrace2_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "loadscreen_map_so_snowrace2_cliffhanger.png"
                 }
             },
             "mapname": "so_snowrace2_cliffhanger",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_cliffhanger.iwi"
+                    "filename": "compass_so_snowrace2_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png"
+                    "filename": "compass_so_snowrace2_cliffhanger.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_cliffhanger.iwi"
+                    "filename": "preview_so_snowrace2_cliffhanger.iwi"
                 },
                 "png": {
-                    "filename": "cliffhanger.png",
-                    "md5": "8d152acd5d75b4550f2d9bdc5fe7a008",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/cliffhanger.png"
+                    "filename": "preview_so_snowrace2_cliffhanger.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Charlie)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_CLIFFHANGER",
-                "english": "Cliffhanger (#3)"
+                "_key": "MPUI_SO_SNOWRACE2_CLIFFHANGER",
+                "english": "Time Trial (#13)"
             },
             "waypoints": {
-                "count": 262,
-                "filename": "cliffhanger_wp.csv",
-                "md5": "139f31fb424c703a1ad47c1cf50d98dc",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/cliffhanger_wp.csv"
+                "filename": "so_snowrace2_cliffhanger_wp.csv"
             }
         },
         "so_takeover_estate": {
-            "alternatives": {
-                "estate": "Campaign Act 3: Loose Ends (#15)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_ESTATE",
-                "english": "Find and kill Makarov at his safe house on the Georgian-Russian border.",
-                "french": "Cabane dans les bois. Des affrontements pour en prendre le contr\u00f4le.",
-                "german": "Waldh\u00fctte. K\u00e4mpfen Sie um die Kontrolle \u00fcber die H\u00fctte.",
-                "italian": "Casupola nella foresta. Combatti per il controllo della capanna.",
-                "polish": "Le\u009cna chata. Walka o jej opanowanie.",
-                "russian": "\u00cb\u00e5\u00f1\u00ed\u00ee\u00e9 \u00e4\u00ee\u00ec\u00e8\u00ea. \u00c1\u00ee\u00e9 \u00e7\u00e0 \u00ef\u00ee\u00eb\u00f3\u00f7\u00e5\u00ed\u00e8\u00e5 \u00ea\u00ee\u00ed\u00f2\u00f0\u00ee\u00eb\u00ff \u00ed\u00e0\u00e4 \u00f1\u00f2\u00f0\u00ee\u00e5\u00ed\u00e8\u00e5\u00ec.",
-                "spanish": "Una choza en los bosques. Se lucha por su control."
+                "_key": "MPUI_DESC_MAP_SO_TAKEOVER_ESTATE",
+                "english": "Infiltrate the estate, taking out the guards and securing the hostages. Use stealth to avoid detection."
             },
-            "index": 15,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_estate.iwi"
+                    "filename": "loadscreen_map_so_takeover_estate.iwi"
                 },
                 "png": {
-                    "filename": "estate.png"
+                    "filename": "loadscreen_map_so_takeover_estate.png"
                 }
             },
             "mapname": "so_takeover_estate",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_estate.iwi"
+                    "filename": "compass_so_takeover_estate.iwi"
                 },
                 "png": {
-                    "filename": "estate.png"
+                    "filename": "compass_so_takeover_estate.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_estate.iwi"
+                    "filename": "preview_so_takeover_estate.iwi"
                 },
                 "png": {
-                    "filename": "estate.png",
-                    "md5": "af4deed92e8cac9ea0285b7c245d6a1c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/estate.png"
+                    "filename": "preview_so_takeover_estate.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 3)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Delta)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_ESTATE",
-                "english": "Loose Ends (#15)"
+                "_key": "MPUI_SO_TAKEOVER_ESTATE",
+                "english": "Estate (#20)"
             },
             "waypoints": {
-                "count": 313,
-                "filename": "estate_wp.csv",
-                "md5": "877cfbd7ce41014bec99534192e41337"
+                "filename": "so_takeover_estate_wp.csv"
             }
         },
         "so_takeover_oilrig": {
@@ -26284,54 +25773,38 @@
             }
         },
         "trainer": {
-            "alternatives": {
-                "so_killspree_trainer": "Spec Ops Alpha: The Pit (#1)"
-            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TRAINER",
                 "english": "Demonstrate proper fire control for the local trainees."
             },
-            "index": 1,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_trainer.iwi"
+                    "filename": "loadscreen_map_trainer.iwi"
                 },
                 "png": {
-                    "filename": "trainer.png"
+                    "filename": "loadscreen_map_trainer.png"
                 }
             },
             "mapname": "trainer",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_trainer.iwi"
+                    "filename": "compass_trainer.iwi"
                 },
                 "png": {
-                    "filename": "trainer.png"
+                    "filename": "compass_trainer.png"
                 }
             },
-            "preview": {
-                "iwi": {
-                    "filename": "preview_trainer.iwi"
-                },
-                "png": {
-                    "filename": "trainer.png",
-                    "md5": "d19241c24b1c36cf16badb0dfc938463",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/trainer.png"
-                }
-            },
+            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
             },
             "title": {
                 "_key": "MPUI_TRAINER",
                 "english": "S.S.D.D. (#1)"
             },
             "waypoints": {
-                "count": 107,
-                "filename": "trainer_wp.csv",
-                "md5": "c9fc21728686bd154883d4539cc8163d",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/trainer_wp.csv"
+                "filename": "trainer_wp.csv"
             }
         }
     }
