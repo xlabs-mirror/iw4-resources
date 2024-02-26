@@ -540,9 +540,6 @@
         },
         "favela": {
             "alternatives": {
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "mp_favela": "Favela (mp_favela)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
                 "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
@@ -581,11 +578,7 @@
         },
         "favela_escape": {
             "alternatives": {
-                "favela": "Takedown (#5) (favela)",
-                "mp_favela": "Favela (mp_favela)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
@@ -659,7 +652,6 @@
         },
         "invasion": {
             "alternatives": {
-                "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
                 "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
@@ -15245,13 +15237,8 @@
         },
         "mp_modern_rust": {
             "alternatives": {
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
                 "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
                 "mp_rust": "Rust (mp_rust)",
                 "mp_rust_long": "Rust: Long (mp_rust_long)"
@@ -15599,18 +15586,8 @@
         },
         "mp_mw2_quarry": {
             "alternatives": {
-                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
                 "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
-                "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
-                "mp_underpass": "Underpass (mp_underpass)"
+                "mp_quarry": "Quarry (mp_quarry)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_QUARRY",
@@ -15670,18 +15647,8 @@
         },
         "mp_mw2_quarry_night": {
             "alternatives": {
-                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
                 "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
-                "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
-                "mp_underpass": "Underpass (mp_underpass)"
+                "mp_quarry": "Quarry (mp_quarry)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_QUARRY_NIGHT",
@@ -15742,17 +15709,10 @@
         "mp_mw2_rust": {
             "alternatives": {
                 "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
                 "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
-                "mp_underpass": "Underpass (mp_underpass)"
+                "mp_rust_long": "Rust: Long (mp_rust_long)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_RUST",
@@ -15813,17 +15773,10 @@
         "mp_mw2_rust_night": {
             "alternatives": {
                 "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
                 "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
-                "mp_underpass": "Underpass (mp_underpass)"
+                "mp_rust_long": "Rust: Long (mp_rust_long)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_RUST_NIGHT",
@@ -15954,17 +15907,7 @@
         },
         "mp_mw2_underpass": {
             "alternatives": {
-                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
                 "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
-                "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
                 "mp_underpass": "Underpass (mp_underpass)"
             },
             "description": {
@@ -16025,17 +15968,7 @@
         },
         "mp_mw2_underpass_night": {
             "alternatives": {
-                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
                 "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-                "mp_quarry": "Quarry (mp_quarry)",
-                "mp_rust": "Rust (mp_rust)",
-                "mp_rust_long": "Rust: Long (mp_rust_long)",
                 "mp_underpass": "Underpass (mp_underpass)"
             },
             "description": {
@@ -18447,13 +18380,8 @@
         "mp_osg_tropical_rust": {
             "alternatives": {
                 "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
                 "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_rust": "Rust (mp_rust)",
                 "mp_rust_long": "Rust: Long (mp_rust_long)"
             },
@@ -19884,12 +19812,7 @@
         "mp_quarry": {
             "alternatives": {
                 "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_QUARRY",
@@ -20925,13 +20848,8 @@
         "mp_rust": {
             "alternatives": {
                 "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
                 "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
                 "mp_rust_long": "Rust: Long (mp_rust_long)"
             },
@@ -20989,13 +20907,8 @@
         "mp_rust_long": {
             "alternatives": {
                 "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
                 "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
                 "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
                 "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
                 "mp_rust": "Rust (mp_rust)"
             },
@@ -24035,11 +23948,6 @@
         },
         "mp_underpass": {
             "alternatives": {
-                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
                 "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
                 "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
             },
@@ -25587,7 +25495,6 @@
         "so_chopper_invasion": {
             "alternatives": {
                 "invasion": "Wolverines! (#6) (invasion)",
-                "mp_invasion": "Invasion (mp_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
                 "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
@@ -25682,7 +25589,6 @@
         "so_defense_invasion": {
             "alternatives": {
                 "invasion": "Wolverines! (#6) (invasion)",
-                "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
                 "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
@@ -25729,11 +25635,7 @@
         },
         "so_defuse_favela_escape": {
             "alternatives": {
-                "favela": "Takedown (#5) (favela)",
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "mp_favela": "Favela (mp_favela)",
-                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
+                "favela_escape": "The Hornet's Nest (#7) (favela_escape)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEFUSE_FAVELA_ESCAPE",
@@ -26103,9 +26005,6 @@
         "so_juggernauts_favela": {
             "alternatives": {
                 "favela": "Takedown (#5) (favela)",
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "mp_favela": "Favela (mp_favela)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
@@ -26152,9 +26051,6 @@
         "so_killspree_favela": {
             "alternatives": {
                 "favela": "Takedown (#5) (favela)",
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "mp_favela": "Favela (mp_favela)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)"
             },
             "description": {
@@ -26201,7 +26097,6 @@
         "so_killspree_invasion": {
             "alternatives": {
                 "invasion": "Wolverines! (#6) (invasion)",
-                "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)"
             },
