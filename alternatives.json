@@ -39,7 +39,7 @@
         "mp_favela": "Favela (mp_favela)",
         "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
         "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-        "so_juggernauts_favela": "Takedown (#5) (so_juggernauts_favela)"
+        "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)"
     },
     {
         "gulag": "The Gulag (#10) (gulag)",
@@ -158,7 +158,7 @@
         "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
     },
     {
-        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
+        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
         "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)"
     },
     {
@@ -388,15 +388,15 @@
         "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
     },
     {
-        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
-        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
+        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
         "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)"
     },
     {
         "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
         "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
-        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)"
+        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
+        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)"
     },
     {
         "so_ghillies": "So Ghillies (so_ghillies)",
@@ -407,7 +407,7 @@
         "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
         "mp_favela": "Favela (mp_favela)",
         "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-        "so_juggernauts_favela": "Takedown (#5) (so_juggernauts_favela)",
+        "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
         "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
         "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
         "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
@@ -431,14 +431,14 @@
         "estate": "Loose Ends (#15) (estate)",
         "mp_estate": "Estate (mp_estate)",
         "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
-        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
+        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
         "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
     },
     {
         "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
+        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
         "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)"
+        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
     },
     {
         "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
