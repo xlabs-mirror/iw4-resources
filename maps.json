@@ -503,8 +503,7 @@
             "alternatives": {
                 "mp_estate": "Estate (mp_estate)",
                 "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE",
@@ -545,9 +544,7 @@
                 "mp_favela": "Favela (mp_favela)",
                 "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA",
@@ -588,9 +585,7 @@
                 "mp_favela": "Favela (mp_favela)",
                 "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
@@ -667,9 +662,7 @@
                 "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_INVASION",
@@ -10439,8 +10432,7 @@
             "alternatives": {
                 "estate": "Loose Ends (#15) (estate)",
                 "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE",
@@ -10497,8 +10489,7 @@
             "alternatives": {
                 "estate": "Loose Ends (#15) (estate)",
                 "mp_estate": "Estate (mp_estate)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE:_TROPICAL",
@@ -10949,9 +10940,7 @@
                 "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
                 "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA",
@@ -13060,9 +13049,7 @@
                 "invasion": "Wolverines! (#6) (invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_INVASION",
@@ -25387,9 +25374,7 @@
         },
         "oilrig": {
             "alternatives": {
-                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
                 "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
                 "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
             },
             "description": {
@@ -25506,9 +25491,7 @@
         },
         "so_assault_oilrig": {
             "alternatives": {
-                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
                 "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
                 "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
             },
             "description": {
@@ -25606,9 +25589,7 @@
                 "invasion": "Wolverines! (#6) (invasion)",
                 "mp_invasion": "Invasion (mp_invasion)",
                 "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_CHOPPER_INVASION",
@@ -25703,9 +25684,7 @@
                 "invasion": "Wolverines! (#6) (invasion)",
                 "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEFENSE_INVASION",
@@ -25754,9 +25733,7 @@
                 "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
                 "mp_favela": "Favela (mp_favela)",
                 "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEFUSE_FAVELA_ESCAPE",
@@ -26129,9 +26106,7 @@
                 "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
                 "mp_favela": "Favela (mp_favela)",
                 "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_JUGGERNAUTS_FAVELA",
@@ -26178,16 +26153,9 @@
             "alternatives": {
                 "favela": "Takedown (#5) (favela)",
                 "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "invasion": "Wolverines! (#6) (invasion)",
                 "mp_favela": "Favela (mp_favela)",
-                "mp_invasion": "Invasion (mp_invasion)",
-                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
                 "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
-                "trainer": "S.S.D.D. (#1) (trainer)"
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_KILLSPREE_FAVELA",
@@ -26232,18 +26200,10 @@
         },
         "so_killspree_invasion": {
             "alternatives": {
-                "favela": "Takedown (#5) (favela)",
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
                 "invasion": "Wolverines! (#6) (invasion)",
-                "mp_favela": "Favela (mp_favela)",
                 "mp_invasion": "Invasion (mp_invasion)",
                 "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
-                "trainer": "S.S.D.D. (#1) (trainer)"
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_KILLSPREE_INVASION",
@@ -26288,17 +26248,6 @@
         },
         "so_killspree_trainer": {
             "alternatives": {
-                "favela": "Takedown (#5) (favela)",
-                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-                "invasion": "Wolverines! (#6) (invasion)",
-                "mp_favela": "Favela (mp_favela)",
-                "mp_invasion": "Invasion (mp_invasion)",
-                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
                 "trainer": "S.S.D.D. (#1) (trainer)"
             },
             "description": {
@@ -26578,10 +26527,7 @@
             "alternatives": {
                 "estate": "Loose Ends (#15) (estate)",
                 "mp_estate": "Estate (mp_estate)",
-                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
-                "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_TAKEOVER_ESTATE",
@@ -26626,13 +26572,8 @@
         },
         "so_takeover_oilrig": {
             "alternatives": {
-                "estate": "Loose Ends (#15) (estate)",
-                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
-                "mp_estate": "Estate (mp_estate)",
-                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
                 "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-                "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
+                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_TAKEOVER_OILRIG",
@@ -26677,8 +26618,6 @@
         },
         "trainer": {
             "alternatives": {
-                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
                 "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
             },
             "description": {
