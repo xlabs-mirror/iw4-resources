@@ -222,45 +222,13 @@
     },
     {
         "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-        "mp_quarry": "Quarry (mp_quarry)",
-        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)"
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+        "mp_quarry": "Quarry (mp_quarry)"
     },
     {
-        "mp_modern_rust": "Modern Rust (mp_modern_rust)",
-        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
         "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
         "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-        "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
-        "mp_rust": "Rust (mp_rust)",
-        "mp_rust_long": "Rust: Long (mp_rust_long)",
-        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)"
-    },
-    {
-        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-        "mp_mw2_term": "Mw2 Term (mp_mw2_term)"
-    },
-    {
-        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
-        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
-        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
-        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-        "mp_underpass": "Underpass (mp_underpass)",
-        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
+        "mp_underpass": "Underpass (mp_underpass)"
     },
     {
         "mp_naout": "Naout (mp_naout)",
@@ -307,11 +275,6 @@
         "mp_psycho_day": "Psycho Day (mp_psycho_day)"
     },
     {
-        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
-        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
-        "mp_quarry": "Quarry (mp_quarry)"
-    },
-    {
         "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)",
         "mp_rasalem": "Rasalem (mp_rasalem)"
     },
@@ -354,11 +317,6 @@
         "mp_toujane": "Toujane (mp_toujane)",
         "mp_toujane_snow": "Toujane Snow (mp_toujane_snow)",
         "mp_toujane_v2": "Toujane V2 (mp_toujane_v2)"
-    },
-    {
-        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
-        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
-        "mp_underpass": "Underpass (mp_underpass)"
     },
     {
         "mp_village": "Village (mp_village)",
