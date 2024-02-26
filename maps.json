@@ -24703,61 +24703,45 @@
             }
         },
         "so_assault_oilrig": {
-            "alternatives": {
-                "oilrig": "Campaign Act 2: The Only Easy Day... Was Yesterday (#9)",
-                "so_takeover_oilrig": "Singleplayer (Act 2): The Only Easy Day... Was Yesterday (#9) (#9)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_OIL_RIG",
-                "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
+                "_key": "MPUI_DESC_MAP_SO_ASSAULT_OILRIG",
+                "english": "Breach and clear two deadly rooms full of enemies and hostages to capture the oil rig."
             },
-            "index": 9,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_oilrig.iwi"
+                    "filename": "loadscreen_map_so_assault_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "loadscreen_map_so_assault_oilrig.png"
                 }
             },
             "mapname": "so_assault_oilrig",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_oilrig.iwi"
+                    "filename": "compass_so_assault_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "compass_so_assault_oilrig.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_oilrig.iwi"
+                    "filename": "preview_so_assault_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png",
-                    "md5": "04b02f188cb272c1d049759f3d2bddc0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
+                    "filename": "preview_so_assault_oilrig.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Echo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_OILRIG",
-                "english": "The Only Easy Day... Was Yesterday (#9)",
-                "french": "Plate-forme p\u00e9troli\u00e8re",
-                "german": "Bohrinsel",
-                "italian": "Piattaforma petrolifera",
-                "polish": "Platforma wiertnicza",
-                "russian": "\u00c1\u00f3\u00f0\u00ee\u00e2\u00e0\u00ff \u00e2\u00fb\u00f8\u00ea\u00e0",
-                "spanish": "Plataforma petrol\u00edfera"
+                "_key": "MPUI_SO_ASSAULT_OILRIG",
+                "english": "Wetwork (#21)"
             },
             "waypoints": {
-                "count": 157,
-                "filename": "oilrig_wp.csv",
-                "md5": "a9c98dd8ee5bf1956d8362930f05693f",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv"
+                "filename": "so_assault_oilrig_wp.csv"
             }
         },
         "so_bridge": {
@@ -25279,61 +25263,45 @@
             }
         },
         "so_juggernauts_favela": {
-            "alternatives": {
-                "favela": "Campaign Act 1: Takedown (#5)",
-                "so_killspree_favela": "Spec Ops Alpha: O Cristo Redentor (#3)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_FAVELA",
-                "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela.",
-                "french": "Ruelles br\u00e9siliennes. Niveau parfait pour tous les modes de jeux et n'importe quel nombre de joueurs.",
-                "german": "Brasilianische Gassen. Geeignet f\u00fcr alle Spielmodi und Gr\u00f6\u00dfen.",
-                "italian": "Strade brasiliane. Ottimo per tutte le modalit\u00e0 e dimensioni.",
-                "polish": "Brazylijskie alejki. \u008cwietne do wszystkich tryb\u00f3w i rozmiar\u00f3w gry.",
-                "russian": "\u00cb\u00e0\u00e1\u00e8\u00f0\u00e8\u00ed\u00f2 \u00e1\u00f0\u00e0\u00e7\u00e8\u00eb\u00fc\u00f1\u00ea\u00e8\u00f5 \u00f3\u00eb\u00ee\u00f7\u00e5\u00ea. \u00cf\u00ee\u00e4\u00f5\u00ee\u00e4\u00e8\u00f2 \u00e4\u00eb\u00ff \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e5\u00e6\u00e8\u00ec\u00ee\u00e2 \u00e8\u00e3\u00f0\u00fb \u00e8 \u00e4\u00eb\u00ff \u00ee\u00f2\u00f0\u00ff\u00e4\u00ee\u00e2 \u00e2\u00f1\u00e5\u00f5 \u00f0\u00e0\u00e7\u00ec\u00e5\u00f0\u00ee\u00e2.",
-                "spanish": "Las calles de Brasil. Ideal para partidas de todos los tipos y tama\u00f1os."
+                "_key": "MPUI_DESC_MAP_SO_JUGGERNAUTS_FAVELA",
+                "english": "Kill all ten Juggernauts using only explosives and a knife."
             },
-            "index": 5,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_favela.iwi"
+                    "filename": "loadscreen_map_so_juggernauts_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "loadscreen_map_so_juggernauts_favela.png"
                 }
             },
             "mapname": "so_juggernauts_favela",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_favela.iwi"
+                    "filename": "compass_so_juggernauts_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png"
+                    "filename": "compass_so_juggernauts_favela.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_favela.iwi"
+                    "filename": "preview_so_juggernauts_favela.iwi"
                 },
                 "png": {
-                    "filename": "favela.png",
-                    "md5": "92981603a1fd9b8a719af788d6a81b7c",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/favela.png"
+                    "filename": "preview_so_juggernauts_favela.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 1)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Echo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_FAVELA",
-                "english": "Takedown (#5)"
+                "_key": "MPUI_SO_JUGGERNAUTS_FAVELA",
+                "english": "Slow-mo Breach (#22)"
             },
             "waypoints": {
-                "count": 14,
-                "filename": "favela_wp.csv",
-                "md5": "730cef9689a99d612c000672149e799b",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/favela_wp.csv"
+                "filename": "so_juggernauts_favela_wp.csv"
             }
         },
         "so_killspree_favela": {
@@ -25715,61 +25683,45 @@
             }
         },
         "so_takeover_oilrig": {
-            "alternatives": {
-                "oilrig": "Campaign Act 2: The Only Easy Day... Was Yesterday (#9)",
-                "so_assault_oilrig": "Singleplayer (Act 2): The Only Easy Day... Was Yesterday (#9) (#9)"
-            },
             "description": {
-                "_key": "MPUI_DESC_MAP_OIL_RIG",
-                "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
+                "_key": "MPUI_DESC_MAP_SO_TAKEOVER_OILRIG",
+                "english": "Kill all fifteen Juggernauts on the oil rig."
             },
-            "index": 9,
             "loadscreen": {
                 "iwi": {
-                    "filename": "loadscreen_oilrig.iwi"
+                    "filename": "loadscreen_map_so_takeover_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "loadscreen_map_so_takeover_oilrig.png"
                 }
             },
             "mapname": "so_takeover_oilrig",
             "minimap": {
                 "iwi": {
-                    "filename": "compass_map_oilrig.iwi"
+                    "filename": "compass_so_takeover_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png"
+                    "filename": "compass_so_takeover_oilrig.png"
                 }
             },
             "preview": {
                 "iwi": {
-                    "filename": "preview_oilrig.iwi"
+                    "filename": "preview_so_takeover_oilrig.iwi"
                 },
                 "png": {
-                    "filename": "oilrig.png",
-                    "md5": "04b02f188cb272c1d049759f3d2bddc0",
-                    "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/preview/oilrig.png"
+                    "filename": "preview_so_takeover_oilrig.png"
                 }
             },
             "source": {
-                "name": "Singleplayer (Act 2)",
-                "url": "https://steamcommunity.com/groups/IW4X/discussions/0/1470841715980056455"
+                "name": "Spec Ops (Echo)",
+                "url": "https://minopia.de/iw4/maps/?sources=Spec%20Ops"
             },
             "title": {
-                "_key": "MPUI_OILRIG",
-                "english": "The Only Easy Day... Was Yesterday (#9)",
-                "french": "Plate-forme p\u00e9troli\u00e8re",
-                "german": "Bohrinsel",
-                "italian": "Piattaforma petrolifera",
-                "polish": "Platforma wiertnicza",
-                "russian": "\u00c1\u00f3\u00f0\u00ee\u00e2\u00e0\u00ff \u00e2\u00fb\u00f8\u00ea\u00e0",
-                "spanish": "Plataforma petrol\u00edfera"
+                "_key": "MPUI_SO_TAKEOVER_OILRIG",
+                "english": "Armor Piercing (#23)"
             },
             "waypoints": {
-                "count": 157,
-                "filename": "oilrig_wp.csv",
-                "md5": "a9c98dd8ee5bf1956d8362930f05693f",
-                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/oilrig_wp.csv"
+                "filename": "so_takeover_oilrig_wp.csv"
             }
         },
         "trainer": {
