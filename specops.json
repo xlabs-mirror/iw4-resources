@@ -251,82 +251,54 @@
     {
         "index": 4,
         "title": {
-            "english": "Delta"
+            "english": "Echo"
         },
         "description": {
-            "english": "Blizzards, airports, estates and bridges. Five challenging Ops."
+            "english": "An oil rig and a favela full of Juggernauts. These Ops are fast and brutal."
         },
-        "required_stars": 20,
+        "required_stars": 40,
         "missions": [
             {
-                "index": 16,
+                "index": 21,
                 "title": {
-                    "english": "Wardriving"
+                    "english": "Wetwork"
                 },
                 "description": {
-                    "english": "Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room."
+                    "english": "Breach and clear two deadly rooms full of enemies and hostages to capture the oil rig."
                 },
-                "opposition": "Heavy",
-                "classification": "Assault & Defend",
-                "estimated_time": "9:00.00",
-                "iw_best_time": "3:25.25",
-                "mapname": "so_download_arcadia"
-            },
-            {
-                "index": 17,
-                "title": {
-                    "english": "Wreckage"
-                },
-                "description": {
-                    "english": "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
-                },
-                "opposition": "Heavy",
+                "opposition": "Massive",
                 "classification": "Assault",
-                "estimated_time": "1:30.00",
-                "iw_best_time": "00:44.65",
-                "mapname": "so_demo_so_bridge"
+                "estimated_time": "5:00.00",
+                "iw_best_time": "03:10.30",
+                "mapname": "?"
             },
             {
-                "index": 18,
+                "index": 22,
                 "title": {
-                    "english": "Blizzard"
+                    "english": "Slow-mo Breach"
                 },
                 "description": {
-                    "english": "Navigate through the blizzard to reach the extraction point. Snowmobiles and dog sleds are your best friends."
+                    "english": "Kill all ten Juggernauts using only explosives and a knife."
                 },
-                "opposition": "Medium",
-                "classification": "Driving",
-                "estimated_time": "2:30.00",
-                "iw_best_time": "01:55.50",
-                "mapname": "so_sabotage_cliffhanger"
-            },
-            {
-                "index": 19,
-                "title": {
-                    "english": "Airport"
-                },
-                "description": {
-                    "english": "Clear the airport of enemies. Use explosives to take down enemy vehicles and structures."
-                },
-                "opposition": "Heavy",
-                "classification": "Assault",
-                "estimated_time": "4:00.00",
-                "iw_best_time": "02:45.20",
-                "mapname": "so_escape_airport"
-            },
-            {
-                "index": 20,
-                "title": {
-                    "english": "Estate"
-                },
-                "description": {
-                    "english": "Infiltrate the estate, taking out the guards and securing the hostages. Use stealth to avoid detection."
-                },
-                "opposition": "Medium",
+                "opposition": "Massive",
                 "classification": "Elimination",
-                "estimated_time": "3:30.00",
-                "iw_best_time": "01:23.40",
-                "mapname": "so_takeover_estate"
+                "estimated_time": "6:00.00",
+                "iw_best_time": "02:47.70",
+                "mapname": "?"
+            },
+            {
+                "index": 23,
+                "title": {
+                    "english": "Armor Piercing"
+                },
+                "description": {
+                    "english": "Kill all fifteen Juggernauts on the oil rig."
+                },
+                "opposition": "Massive",
+                "classification": "Elimination",
+                "estimated_time": "7:00.00",
+                "iw_best_time": "04:12.25",
+                "mapname": "?"
             }
         ]
     }

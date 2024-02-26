@@ -1,55 +1,471 @@
-{
-    "airport": [
-        "so_escape_airport"
-    ],
-    "arcadia": [
-        "so_download_arcadia"
-    ],
-    "boneyard": [
-        "so_intel_boneyard"
-    ],
-    "cliffhanger": [
-        "so_sabotage_cliffhanger",
-        "so_snowrace1_cliffhanger",
-        "so_snowrace2_cliffhanger"
-    ],
-    "contingency": [
-        "so_forest_contingency",
-        "so_rooftop_contingency"
-    ],
-    "estate": [
-        "so_takeover_estate"
-    ],
-    "favela": [
-        "so_juggernauts_favela",
-        "so_killspree_favela"
-    ],
-    "favela_escape": [
-        "so_defuse_favela_escape"
-    ],
-    "gulag": [
-        "so_showers_gulag"
-    ],
-    "invasion": [
-        "so_chopper_invasion",
-        "so_defense_invasion",
-        "so_killspree_invasion"
-    ],
-    "oilrig": [
-        "so_assault_oilrig",
-        "so_takeover_oilrig"
-    ],
-    "so_ghillies": [
-        "so_hidden_so_ghillies"
-    ],
-    "co_hunted": [
-        "so_ac130_co_hunted"
-    ],
-    "so_bridge": [
-        "so_crossing_so_bridge",
-        "so_demo_so_bridge"
-    ],
-    "trainer": [
-        "so_killspree_trainer"
-    ]
-}
+[
+    {
+        "airport": "No Russian (#4) (airport)",
+        "so_escape_airport": "Airport (#19) (so_escape_airport)"
+    },
+    {
+        "arcadia": "Exodus (#8) (arcadia)",
+        "so_download_arcadia": "Wardriving (#16) (so_download_arcadia)"
+    },
+    {
+        "boneyard": "The Enemy of My Enemy (#16) (boneyard)",
+        "mp_boneyard": "Scrapyard (mp_boneyard)",
+        "so_intel_boneyard": "Snatch & Grab (#15) (so_intel_boneyard)"
+    },
+    {
+        "cliffhanger": "Cliffhanger (#3) (cliffhanger)",
+        "so_sabotage_cliffhanger": "Blizzard (#18) (so_sabotage_cliffhanger)",
+        "so_snowrace1_cliffhanger": "Race (#9) (so_snowrace1_cliffhanger)",
+        "so_snowrace2_cliffhanger": "Time Trial (#13) (so_snowrace2_cliffhanger)"
+    },
+    {
+        "co_hunted": "Village (co_hunted)",
+        "so_ac130_co_hunted": "Overwatch (#6) (so_ac130_co_hunted)"
+    },
+    {
+        "contingency": "Contingency (#12) (contingency)",
+        "so_forest_contingency": "Evasion (#4) (so_forest_contingency)",
+        "so_rooftop_contingency": "Sniper Fi (#2) (so_rooftop_contingency)"
+    },
+    {
+        "estate": "Loose Ends (#15) (estate)",
+        "mp_estate": "Estate (mp_estate)",
+        "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+        "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)"
+    },
+    {
+        "favela": "Takedown (#5) (favela)",
+        "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+        "mp_favela": "Favela (mp_favela)",
+        "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+        "so_juggernauts_favela": "Takedown (#5) (so_juggernauts_favela)"
+    },
+    {
+        "gulag": "The Gulag (#10) (gulag)",
+        "so_showers_gulag": "Breach & Clear (#12) (so_showers_gulag)"
+    },
+    {
+        "invasion": "Wolverines! (#6) (invasion)",
+        "mp_invasion": "Invasion (mp_invasion)",
+        "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+        "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)"
+    },
+    {
+        "mp_4t4scrap": "4T4Scrap (mp_4t4scrap)",
+        "mp_4t4scrap_r": "4T4Scrap R (mp_4t4scrap_r)",
+        "mp_4t4scrap_s": "4T4Scrap S (mp_4t4scrap_s)"
+    },
+    {
+        "mp_82ab_bazaar": "82Ab Bazaar (mp_82ab_bazaar)",
+        "mp_82ab_villa": "82Ab Villa (mp_82ab_villa)"
+    },
+    {
+        "mp_ad_bo2frost": "Ad Bo2Frost (mp_ad_bo2frost)",
+        "mp_bo2frost": "Bo2Frost (mp_bo2frost)"
+    },
+    {
+        "mp_after_tchernobyl": "After Tchernobyl (mp_after_tchernobyl)",
+        "mp_tchernobyl": "Tchernobyl (mp_tchernobyl)"
+    },
+    {
+        "mp_agx_cz": "Agx Cz (mp_agx_cz)",
+        "mp_agx_nightmare": "Agx Nightmare (mp_agx_nightmare)"
+    },
+    {
+        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
+        "mp_alpha": "Alpha (mp_alpha)"
+    },
+    {
+        "mp_ancient": "Ancient (mp_ancient)",
+        "mp_ancient_ultimate": "Ancient Ultimate (mp_ancient_ultimate)"
+    },
+    {
+        "mp_arbor": "Arbor (mp_arbor)",
+        "mp_arbor_day": "Arbor Day (mp_arbor_day)"
+    },
+    {
+        "mp_ardennes": "Ardennes (mp_ardennes)",
+        "mp_ardennes_night": "Ardennes Night (mp_ardennes_night)"
+    },
+    {
+        "mp_asylum": "Asylum (mp_asylum)",
+        "mp_ava_asylum": "Ava Asylum (mp_ava_asylum)"
+    },
+    {
+        "mp_aztec": "Aztec (mp_aztec)",
+        "mp_de_aztec": "De Aztec (mp_de_aztec)"
+    },
+    {
+        "mp_backlot": "Backlot (mp_backlot)",
+        "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+        "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+        "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+        "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+        "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+        "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+        "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+    },
+    {
+        "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)",
+        "mp_bakaara": "Bakaara (mp_bakaara)"
+    },
+    {
+        "mp_bjwifi_aim": "Bjwifi Aim (mp_bjwifi_aim)",
+        "mp_bjwifi_port": "Bjwifi Port (mp_bjwifi_port)"
+    },
+    {
+        "mp_bloc": "Bloc (mp_bloc)",
+        "mp_bloc_sh": "Forgotten City (mp_bloc_sh)"
+    },
+    {
+        "mp_bo2standoff": "Bo2Standoff (mp_bo2standoff)",
+        "mp_bo2standoff_ex": "Bo2Standoff Ex (mp_bo2standoff_ex)"
+    },
+    {
+        "mp_bog": "Bog (mp_bog)",
+        "mp_bog_sh": "Bog (mp_bog_sh)",
+        "mp_cgc_bog": "Cgc Bog (mp_cgc_bog)"
+    },
+    {
+        "mp_brecourt": "Brecourt (mp_brecourt)",
+        "mp_brecourt_manor": "Brecourt Manor (mp_brecourt_manor)",
+        "mp_brecourt_v2": "Brecourt V2 (mp_brecourt_v2)"
+    },
+    {
+        "mp_bridge": "Bridge (mp_bridge)",
+        "so_bridge": "Bridge (so_bridge)",
+        "so_crossing_so_bridge": "Suspension (#5) (so_crossing_so_bridge)",
+        "so_demo_so_bridge": "Wreckage (#17) (so_demo_so_bridge)"
+    },
+    {
+        "mp_burg": "Burg (mp_burg)",
+        "mp_burg_b1": "Burg B1 (mp_burg_b1)"
+    },
+    {
+        "mp_carentan": "Chinatown (mp_carentan)",
+        "mp_carentan_2": "Carentan 2 (mp_carentan_2)"
+    },
+    {
+        "mp_cargoship": "Wet Work (mp_cargoship)",
+        "mp_cargoship_sh": "Freighter (mp_cargoship_sh)"
+    },
+    {
+        "mp_castle": "Castle (mp_castle)",
+        "mp_castle_v1": "Castle V1 (mp_castle_v1)",
+        "mp_waw_castle": "Waw Castle (mp_waw_castle)",
+        "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
+    },
+    {
+        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
+        "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)"
+    },
+    {
+        "mp_crash": "Crash (mp_crash)",
+        "mp_crash_snow": "Winter Crash (mp_crash_snow)",
+        "mp_crash_tropical": "Crash: Tropical (mp_crash_tropical)"
+    },
+    {
+        "mp_desfarm": "Desfarm (mp_desfarm)",
+        "mp_desfarm_night": "Desfarm Night (mp_desfarm_night)"
+    },
+    {
+        "mp_docks": "Docks (mp_docks)",
+        "mp_docks_n": "Docks N (mp_docks_n)"
+    },
+    {
+        "mp_dome": "Dome (mp_dome)",
+        "mp_dome_v2": "Dome V2 (mp_dome_v2)"
+    },
+    {
+        "mp_dust2": "Dust2 (mp_dust2)",
+        "mp_dust2_classic": "Dust2 Classic (mp_dust2_classic)"
+    },
+    {
+        "mp_fallen": "Fallen (mp_fallen)",
+        "mp_fallen_n": "Fallen N (mp_fallen_n)"
+    },
+    {
+        "mp_fav": "Fav (mp_fav)",
+        "mp_fav_tropical": "Favela: Tropical (mp_fav_tropical)"
+    },
+    {
+        "mp_firingrange": "Firing Range (mp_firingrange)",
+        "mp_firingrange_v2": "Firingrange V2 (mp_firingrange_v2)"
+    },
+    {
+        "mp_gob_aim_snow": "Gob Aim Snow (mp_gob_aim_snow)",
+        "mp_gob_aim_v2": "Gob Aim V2 (mp_gob_aim_v2)"
+    },
+    {
+        "mp_hardhat": "Hardhat (mp_hardhat)",
+        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
+        "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)"
+    },
+    {
+        "mp_iclan": "Iclan (mp_iclan)",
+        "mp_iclan_night": "Iclan Night (mp_iclan_night)"
+    },
+    {
+        "mp_lagoa_rain": "Lagoa Rain (mp_lagoa_rain)",
+        "mp_lagoa_snow": "Lagoa Snow (mp_lagoa_snow)"
+    },
+    {
+        "mp_makin": "Makin (mp_makin)",
+        "mp_makin_day": "Makin Day (mp_makin_day)"
+    },
+    {
+        "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+        "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+        "mp_rust": "Rust (mp_rust)",
+        "mp_rust_long": "Rust: Long (mp_rust_long)"
+    },
+    {
+        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+        "mp_quarry": "Quarry (mp_quarry)",
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)"
+    },
+    {
+        "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+        "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+        "mp_rust": "Rust (mp_rust)",
+        "mp_rust_long": "Rust: Long (mp_rust_long)",
+        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)"
+    },
+    {
+        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+        "mp_mw2_term": "Mw2 Term (mp_mw2_term)"
+    },
+    {
+        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+        "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+        "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+        "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+        "mp_underpass": "Underpass (mp_underpass)",
+        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
+    },
+    {
+        "mp_alpha": "Alpha (mp_alpha)",
+        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
+        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
+        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)",
+        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)"
+    },
+    {
+        "mp_hardhat": "Hardhat (mp_hardhat)",
+        "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
+        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
+        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
+        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)",
+        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
+    },
+    {
+        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
+        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
+        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
+        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)"
+    },
+    {
+        "mp_naout": "Naout (mp_naout)",
+        "mp_naout_n": "Naout N (mp_naout_n)"
+    },
+    {
+        "mp_ngbc": "Ngbc (mp_ngbc)",
+        "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+        "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+        "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)"
+    },
+    {
+        "mp_ngbc": "Ngbc (mp_ngbc)",
+        "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+        "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+        "mp_shipment": "Shipment (mp_shipment)",
+        "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+        "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+        "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)",
+        "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)"
+    },
+    {
+        "mp_nuked": "Nuketown (mp_nuked)",
+        "mp_nuked_shaders": "Nuked Shaders (mp_nuked_shaders)"
+    },
+    {
+        "mp_osg_mirage": "Osg Mirage (mp_osg_mirage)",
+        "mp_osg_mirage_n": "Osg Mirage N (mp_osg_mirage_n)"
+    },
+    {
+        "mp_osg_raid": "Osg Raid (mp_osg_raid)",
+        "mp_osg_raid_d": "Osg Raid D (mp_osg_raid_d)"
+    },
+    {
+        "mp_osg_yemen": "Osg Yemen (mp_osg_yemen)",
+        "mp_osg_yemen_n": "Osg Yemen N (mp_osg_yemen_n)"
+    },
+    {
+        "mp_poolday": "Poolday (mp_poolday)",
+        "mp_poolday_reunion": "Poolday Reunion (mp_poolday_reunion)"
+    },
+    {
+        "mp_psycho": "Psycho (mp_psycho)",
+        "mp_psycho_day": "Psycho Day (mp_psycho_day)"
+    },
+    {
+        "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+        "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+        "mp_quarry": "Quarry (mp_quarry)"
+    },
+    {
+        "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)",
+        "mp_rasalem": "Rasalem (mp_rasalem)"
+    },
+    {
+        "mp_roof": "Roof (mp_roof)",
+        "mp_roof_n": "Roof N (mp_roof_n)"
+    },
+    {
+        "mp_roundup": "Roundup (mp_roundup)",
+        "mp_roundup_day": "Roundup Day (mp_roundup_day)"
+    },
+    {
+        "mp_seatown": "Seatown (mp_seatown)",
+        "mp_seatown_snow": "Seatown Snow (mp_seatown_snow)",
+        "mp_seatown_v2": "Seatown V2 (mp_seatown_v2)"
+    },
+    {
+        "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+        "mp_shipment": "Shipment (mp_shipment)",
+        "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+        "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+        "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+    },
+    {
+        "mp_storm": "Storm (mp_storm)",
+        "mp_storm_b": "Storm B (mp_storm_b)",
+        "mp_storm_spring": "Chemical Plant (mp_storm_spring)"
+    },
+    {
+        "mp_strike": "Strike (mp_strike)",
+        "mp_strike_2": "Strike 2 (mp_strike_2)",
+        "mp_strike_at_karkand_v2": "Strike At Karkand V2 (mp_strike_at_karkand_v2)"
+    },
+    {
+        "mp_struggle": "Struggle (mp_struggle)",
+        "mp_struggle_dawn": "Struggle Dawn (mp_struggle_dawn)",
+        "mp_struggle_night": "Struggle Night (mp_struggle_night)"
+    },
+    {
+        "mp_toujane": "Toujane (mp_toujane)",
+        "mp_toujane_snow": "Toujane Snow (mp_toujane_snow)",
+        "mp_toujane_v2": "Toujane V2 (mp_toujane_v2)"
+    },
+    {
+        "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+        "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+        "mp_underpass": "Underpass (mp_underpass)"
+    },
+    {
+        "mp_village": "Village (mp_village)",
+        "mp_village_night": "Village Night (mp_village_night)",
+        "mp_village_s": "Village S (mp_village_s)"
+    },
+    {
+        "mp_vukovar": "Vukovar (mp_vukovar)",
+        "mp_vukovar_n": "Vukovar N (mp_vukovar_n)"
+    },
+    {
+        "mp_warehouse": "Warehouse (mp_warehouse)",
+        "mp_warehouse_13": "Warehouse 13 (mp_warehouse_13)"
+    },
+    {
+        "mp_bakaara": "Bakaara (mp_bakaara)",
+        "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)",
+        "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)"
+    },
+    {
+        "mp_rasalem": "Rasalem (mp_rasalem)",
+        "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)",
+        "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
+    },
+    {
+        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
+        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
+        "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)"
+    },
+    {
+        "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
+        "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
+        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)"
+    },
+    {
+        "so_ghillies": "So Ghillies (so_ghillies)",
+        "so_hidden_so_ghillies": "Hidden (#11) (so_hidden_so_ghillies)"
+    },
+    {
+        "favela": "Takedown (#5) (favela)",
+        "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+        "mp_favela": "Favela (mp_favela)",
+        "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+        "so_juggernauts_favela": "Takedown (#5) (so_juggernauts_favela)",
+        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
+        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
+    },
+    {
+        "invasion": "Wolverines! (#6) (invasion)",
+        "mp_invasion": "Invasion (mp_invasion)",
+        "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+        "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
+        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
+    },
+    {
+        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+        "trainer": "S.S.D.D. (#1) (trainer)",
+        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+    },
+    {
+        "estate": "Loose Ends (#15) (estate)",
+        "mp_estate": "Estate (mp_estate)",
+        "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)",
+        "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
+    },
+    {
+        "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+        "so_assault_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_assault_oilrig)",
+        "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+        "so_takeover_oilrig": "The Only Easy Day... Was Yesterday (#9) (so_takeover_oilrig)"
+    },
+    {
+        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
+        "trainer": "S.S.D.D. (#1) (trainer)"
+    }
+]
