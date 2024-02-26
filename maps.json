@@ -1000,6 +1000,47 @@
                 "filename": "mp_abandonff_wp.csv"
             }
         },
+        "mp_ad_bo2frost": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_AD_BO2FROST",
+                "english": "Ad Bo2Frost is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_ad_bo2frost.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_ad_bo2frost.png"
+                }
+            },
+            "mapname": "mp_ad_bo2frost",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_ad_bo2frost.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_ad_bo2frost.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_ad_bo2frost.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_ad_bo2frost.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_AD_BO2FROST",
+                "english": "Ad Bo2Frost"
+            },
+            "waypoints": {
+                "count": 175,
+                "filename": "mp_ad_bo2frost_wp.csv",
+                "md5": "97e25df0613a96b98c278b4628fa09de",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_ad_bo2frost_wp.csv"
+            }
+        },
         "mp_afghan": {
             "description": {
                 "_key": "MPUI_DESC_MAP_AFGHAN",
@@ -1139,6 +1180,44 @@
                 "filename": "mp_alpha_wp.csv",
                 "md5": "db0f20cab77d19b456b67026e8a02863",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_alpha_wp.csv"
+            }
+        },
+        "mp_ambush_sh": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_AMBUSH_SH",
+                "english": "Ambush Sh is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_ambush_sh.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_ambush_sh.png"
+                }
+            },
+            "mapname": "mp_ambush_sh",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_ambush_sh.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_ambush_sh.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_ambush_sh.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_ambush_sh.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_AMBUSH_SH",
+                "english": "Ambush Sh"
+            },
+            "waypoints": {
+                "filename": "mp_ambush_sh_wp.csv"
             }
         },
         "mp_ancient": {
@@ -1614,6 +1693,47 @@
                 "filename": "mp_bo2paintball_wp.csv",
                 "md5": "968d019a72d55ce45dd1943f085f9be4",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2paintball_wp.csv"
+            }
+        },
+        "mp_bo2plaza": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_BO2PLAZA",
+                "english": "Bo2Plaza is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_bo2plaza.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_bo2plaza.png"
+                }
+            },
+            "mapname": "mp_bo2plaza",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_bo2plaza.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_bo2plaza.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_bo2plaza.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_bo2plaza.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_BO2PLAZA",
+                "english": "Bo2Plaza"
+            },
+            "waypoints": {
+                "count": 161,
+                "filename": "mp_bo2plaza_wp.csv",
+                "md5": "4f2a2875bc880d51a046012f1e5ce38f",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_bo2plaza_wp.csv"
             }
         },
         "mp_bo2yemen": {
@@ -2869,6 +2989,47 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_cross_fire_wp.csv"
             }
         },
+        "mp_csgo_monastery": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_CSGO_MONASTERY",
+                "english": "Csgo Monastery is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_csgo_monastery.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_csgo_monastery.png"
+                }
+            },
+            "mapname": "mp_csgo_monastery",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_csgo_monastery.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_csgo_monastery.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_csgo_monastery.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_csgo_monastery.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_CSGO_MONASTERY",
+                "english": "Csgo Monastery"
+            },
+            "waypoints": {
+                "count": 108,
+                "filename": "mp_csgo_monastery_wp.csv",
+                "md5": "2839b8300ab49748bb65afe00c7fdea6",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_csgo_monastery_wp.csv"
+            }
+        },
         "mp_derail": {
             "description": {
                 "_key": "MPUI_DESC_MAP_DERAIL",
@@ -4051,6 +4212,47 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_quarry_wp.csv"
             }
         },
+        "mp_rasalem": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_RASALEM",
+                "english": "Rasalem is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_rasalem.png"
+                }
+            },
+            "mapname": "mp_rasalem",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_rasalem.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_rasalem.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_RASALEM",
+                "english": "Rasalem"
+            },
+            "waypoints": {
+                "count": 319,
+                "filename": "mp_rasalem_wp.csv",
+                "md5": "ccb5e3c9d80d7ab67f47e2df6f569906",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_rasalem_wp.csv"
+            }
+        },
         "mp_rundown": {
             "description": {
                 "_key": "MPUI_DESC_MAP_RUNDOWN",
@@ -4249,6 +4451,47 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_seatown_wp.csv"
             }
         },
+        "mp_seatown_snow": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_SEATOWN_SNOW",
+                "english": "Seatown Snow is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_seatown_snow.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_seatown_snow.png"
+                }
+            },
+            "mapname": "mp_seatown_snow",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_seatown_snow.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_seatown_snow.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_seatown_snow.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_seatown_snow.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_SEATOWN_SNOW",
+                "english": "Seatown Snow"
+            },
+            "waypoints": {
+                "count": 284,
+                "filename": "mp_seatown_snow_wp.csv",
+                "md5": "94e7e3edd0db04051f86f8e8f64f7f30",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_seatown_snow_wp.csv"
+            }
+        },
         "mp_shipment": {
             "description": {
                 "_key": "MPUI_DESC_MAP_SHIPMENT",
@@ -4353,6 +4596,47 @@
                 "filename": "mp_shipment_long_wp.csv",
                 "md5": "29dc45742396486d781915a75c2e6a40",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_long_wp.csv"
+            }
+        },
+        "mp_shipment_snow": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_SHIPMENT_SNOW",
+                "english": "Shipment Snow is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_shipment_snow.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_shipment_snow.png"
+                }
+            },
+            "mapname": "mp_shipment_snow",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_shipment_snow.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_shipment_snow.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_shipment_snow.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_shipment_snow.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_SHIPMENT_SNOW",
+                "english": "Shipment Snow"
+            },
+            "waypoints": {
+                "count": 95,
+                "filename": "mp_shipment_snow_wp.csv",
+                "md5": "12309f3656150976d424fd00a977a93b",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_shipment_snow_wp.csv"
             }
         },
         "mp_showdown": {
@@ -5034,6 +5318,47 @@
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_underpass_wp.csv"
             }
         },
+        "mp_vac_2_snow": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_VAC_2_SNOW",
+                "english": "Vac 2 Snow is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_vac_2_snow.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_vac_2_snow.png"
+                }
+            },
+            "mapname": "mp_vac_2_snow",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_vac_2_snow.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_vac_2_snow.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_vac_2_snow.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_vac_2_snow.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_VAC_2_SNOW",
+                "english": "Vac 2 Snow"
+            },
+            "waypoints": {
+                "count": 229,
+                "filename": "mp_vac_2_snow_wp.csv",
+                "md5": "47083ff3fec23af1d7e254ab32fe4ddf",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_vac_2_snow_wp.csv"
+            }
+        },
         "mp_vacant": {
             "description": {
                 "_key": "MPUI_DESC_MAP_VACANT",
@@ -5183,6 +5508,88 @@
                 "filename": "mp_waw_castle_wp.csv",
                 "md5": "4d2d2819167091145f60e7d7f8d99853",
                 "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_waw_castle_wp.csv"
+            }
+        },
+        "mp_winter_bakaara": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_WINTER_BAKAARA",
+                "english": "Winter Bakaara is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_winter_bakaara.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_winter_bakaara.png"
+                }
+            },
+            "mapname": "mp_winter_bakaara",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_winter_bakaara.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_winter_bakaara.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_winter_bakaara.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_winter_bakaara.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_WINTER_BAKAARA",
+                "english": "Winter Bakaara"
+            },
+            "waypoints": {
+                "count": 171,
+                "filename": "mp_winter_bakaara_wp.csv",
+                "md5": "11f175be80eaa94c6319ab6993300748",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_winter_bakaara_wp.csv"
+            }
+        },
+        "mp_winter_rasalem": {
+            "description": {
+                "_key": "MPUI_DESC_MAP_WINTER_RASALEM",
+                "english": "Winter Rasalem is a map for Call of Duty: Modern Warfare 2."
+            },
+            "loadscreen": {
+                "iwi": {
+                    "filename": "loadscreen_map_mp_winter_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "loadscreen_map_mp_winter_rasalem.png"
+                }
+            },
+            "mapname": "mp_winter_rasalem",
+            "minimap": {
+                "iwi": {
+                    "filename": "compass_mp_winter_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "compass_mp_winter_rasalem.png"
+                }
+            },
+            "preview": {
+                "iwi": {
+                    "filename": "preview_mp_winter_rasalem.iwi"
+                },
+                "png": {
+                    "filename": "preview_mp_winter_rasalem.png"
+                }
+            },
+            "title": {
+                "_key": "MPUI_WINTER_RASALEM",
+                "english": "Winter Rasalem"
+            },
+            "waypoints": {
+                "count": 319,
+                "filename": "mp_winter_rasalem_wp.csv",
+                "md5": "ccb5e3c9d80d7ab67f47e2df6f569906",
+                "url": "https://raw.githubusercontent.com/xlabs-mirror/iw4-resources/main/waypoints/mp_winter_rasalem_wp.csv"
             }
         },
         "oilrig": {
