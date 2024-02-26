@@ -251,6 +251,88 @@
     {
         "index": 4,
         "title": {
+            "english": "Delta"
+        },
+        "description": {
+            "english": "Blizzards, airports, estates and bridges. Five challenging Ops."
+        },
+        "required_stars": 20,
+        "missions": [
+            {
+                "index": 16,
+                "title": {
+                    "english": "Wardriving"
+                },
+                "description": {
+                    "english": "Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room."
+                },
+                "opposition": "Heavy",
+                "classification": "Assault & Defend",
+                "estimated_time": "9:00.00",
+                "iw_best_time": "3:25.25",
+                "mapname": "so_download_arcadia"
+            },
+            {
+                "index": 17,
+                "title": {
+                    "english": "Wreckage"
+                },
+                "description": {
+                    "english": "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
+                },
+                "opposition": "Heavy",
+                "classification": "Assault",
+                "estimated_time": "1:30.00",
+                "iw_best_time": "00:44.65",
+                "mapname": "so_demo_so_bridge"
+            },
+            {
+                "index": 18,
+                "title": {
+                    "english": "Blizzard"
+                },
+                "description": {
+                    "english": "Navigate through the blizzard to reach the extraction point. Snowmobiles and dog sleds are your best friends."
+                },
+                "opposition": "Medium",
+                "classification": "Driving",
+                "estimated_time": "2:30.00",
+                "iw_best_time": "01:55.50",
+                "mapname": "so_sabotage_cliffhanger"
+            },
+            {
+                "index": 19,
+                "title": {
+                    "english": "Airport"
+                },
+                "description": {
+                    "english": "Clear the airport of enemies. Use explosives to take down enemy vehicles and structures."
+                },
+                "opposition": "Heavy",
+                "classification": "Assault",
+                "estimated_time": "4:00.00",
+                "iw_best_time": "02:45.20",
+                "mapname": "so_escape_airport"
+            },
+            {
+                "index": 20,
+                "title": {
+                    "english": "Estate"
+                },
+                "description": {
+                    "english": "Infiltrate the estate, taking out the guards and securing the hostages. Use stealth to avoid detection."
+                },
+                "opposition": "Medium",
+                "classification": "Elimination",
+                "estimated_time": "3:30.00",
+                "iw_best_time": "01:23.40",
+                "mapname": "so_takeover_estate"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "title": {
             "english": "Echo"
         },
         "description": {
