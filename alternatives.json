@@ -30,16 +30,16 @@
     {
         "estate": "Loose Ends (#15) (estate)",
         "mp_estate": "Estate (mp_estate)",
-        "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-        "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)"
+        "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+        "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
     },
     {
         "favela": "Takedown (#5) (favela)",
         "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
         "mp_favela": "Favela (mp_favela)",
         "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-        "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)"
+        "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
     },
     {
         "gulag": "The Gulag (#10) (gulag)",
@@ -49,8 +49,8 @@
         "invasion": "Wolverines! (#6) (invasion)",
         "mp_invasion": "Invasion (mp_invasion)",
         "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-        "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)"
+        "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
     },
     {
         "mp_4t4scrap": "4T4Scrap (mp_4t4scrap)",
@@ -156,10 +156,6 @@
         "mp_castle_v1": "Castle V1 (mp_castle_v1)",
         "mp_waw_castle": "Waw Castle (mp_waw_castle)",
         "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
-    },
-    {
-        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-        "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)"
     },
     {
         "mp_crash": "Crash (mp_crash)",
@@ -388,57 +384,13 @@
         "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
     },
     {
-        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
-        "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)"
-    },
-    {
-        "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
         "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
-        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)"
+        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
     },
     {
         "so_ghillies": "So Ghillies (so_ghillies)",
         "so_hidden_so_ghillies": "Hidden (#11) (so_hidden_so_ghillies)"
-    },
-    {
-        "favela": "Takedown (#5) (favela)",
-        "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-        "mp_favela": "Favela (mp_favela)",
-        "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
-        "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
-        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
-        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
-    },
-    {
-        "invasion": "Wolverines! (#6) (invasion)",
-        "mp_invasion": "Invasion (mp_invasion)",
-        "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
-        "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
-        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
-        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
-    },
-    {
-        "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
-        "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
-        "trainer": "S.S.D.D. (#1) (trainer)",
-        "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
-    },
-    {
-        "estate": "Loose Ends (#15) (estate)",
-        "mp_estate": "Estate (mp_estate)",
-        "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
-        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)",
-        "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
-    },
-    {
-        "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
-        "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
-        "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
-        "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
     },
     {
         "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
