@@ -22,7 +22,6 @@
                     "filename": "compass_af_caves.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -57,7 +56,6 @@
                     "filename": "compass_af_chase.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -71,6 +69,9 @@
             }
         },
         "airport": {
+            "alternatives": {
+                "so_escape_airport": "Airport (#19) (so_escape_airport)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AIRPORT",
                 "english": "Earn Makarov\u00e2\u20ac\u2122s trust."
@@ -92,7 +93,6 @@
                     "filename": "compass_airport.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -106,6 +106,9 @@
             }
         },
         "arcadia": {
+            "alternatives": {
+                "so_download_arcadia": "Wardriving (#16) (so_download_arcadia)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARCADIA",
                 "english": "Assist in the evacuation of civilians and key personnel in the suburbs."
@@ -127,7 +130,6 @@
                     "filename": "compass_arcadia.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -141,6 +143,10 @@
             }
         },
         "boneyard": {
+            "alternatives": {
+                "mp_boneyard": "Scrapyard (mp_boneyard)",
+                "so_intel_boneyard": "Snatch & Grab (#15) (so_intel_boneyard)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BONEYARD",
                 "english": "Escape from General Shepherd\u00e2\u20ac\u2122s trap in the boneyard."
@@ -162,7 +168,6 @@
                     "filename": "compass_boneyard.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -176,6 +181,11 @@
             }
         },
         "cliffhanger": {
+            "alternatives": {
+                "so_sabotage_cliffhanger": "Blizzard (#18) (so_sabotage_cliffhanger)",
+                "so_snowrace1_cliffhanger": "Race (#9) (so_snowrace1_cliffhanger)",
+                "so_snowrace2_cliffhanger": "Time Trial (#13) (so_snowrace2_cliffhanger)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CLIFFHANGER",
                 "english": "Locate and retrieve the ACS module from a crashed satellite."
@@ -197,7 +207,6 @@
                     "filename": "compass_cliffhanger.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -212,7 +221,7 @@
         },
         "co_hunted": {
             "alternatives": {
-                "so_ac130_co_hunted": "Spec Ops Bravo: Overwatch (#6)"
+                "so_ac130_co_hunted": "Overwatch (#6) (so_ac130_co_hunted)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_VILLAGE",
@@ -260,6 +269,10 @@
             }
         },
         "contingency": {
+            "alternatives": {
+                "so_forest_contingency": "Evasion (#4) (so_forest_contingency)",
+                "so_rooftop_contingency": "Sniper Fi (#2) (so_rooftop_contingency)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CONTINGENCY",
                 "english": "Help Captain Price reach the Russian submarine."
@@ -281,7 +294,6 @@
                     "filename": "compass_contingency.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -373,7 +385,6 @@
                     "filename": "compass_dc_whitehouse.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -408,7 +419,6 @@
                     "filename": "compass_dcburning.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -443,7 +453,6 @@
                     "filename": "compass_dcemp.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -478,7 +487,6 @@
                     "filename": "compass_ending.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Credits)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -492,6 +500,12 @@
             }
         },
         "estate": {
+            "alternatives": {
+                "mp_estate": "Estate (mp_estate)",
+                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE",
                 "english": "Find and kill Makarov at his safe house on the Georgian-Russian border."
@@ -513,7 +527,6 @@
                     "filename": "compass_estate.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 3)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -527,6 +540,15 @@
             }
         },
         "favela": {
+            "alternatives": {
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "mp_favela": "Favela (mp_favela)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA",
                 "english": "Find and capture arms-dealer Alejandro Rojas, hiding somewhere in the favela."
@@ -548,7 +570,6 @@
                     "filename": "compass_favela.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -562,6 +583,15 @@
             }
         },
         "favela_escape": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "mp_favela": "Favela (mp_favela)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA_ESCAPE",
                 "english": "Escape the favela."
@@ -583,7 +613,6 @@
                     "filename": "compass_favela_escape.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -597,6 +626,9 @@
             }
         },
         "gulag": {
+            "alternatives": {
+                "so_showers_gulag": "Breach & Clear (#12) (so_showers_gulag)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_GULAG",
                 "english": "Rescue Prisoner #627."
@@ -618,7 +650,6 @@
                     "filename": "compass_gulag.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -632,6 +663,14 @@
             }
         },
         "invasion": {
+            "alternatives": {
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_INVASION",
                 "english": "Locate and protect codename Raptor during the beginning of the invasion."
@@ -653,7 +692,6 @@
                     "filename": "compass_invasion.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -996,6 +1034,10 @@
             }
         },
         "mp_4t4scrap": {
+            "alternatives": {
+                "mp_4t4scrap_r": "4T4Scrap R (mp_4t4scrap_r)",
+                "mp_4t4scrap_s": "4T4Scrap S (mp_4t4scrap_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_4T4SCRAP",
                 "english": "4T4Scrap is a map for Call of Duty: Modern Warfare 2."
@@ -1053,6 +1095,10 @@
             }
         },
         "mp_4t4scrap_r": {
+            "alternatives": {
+                "mp_4t4scrap": "4T4Scrap (mp_4t4scrap)",
+                "mp_4t4scrap_s": "4T4Scrap S (mp_4t4scrap_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_4T4SCRAP_R",
                 "english": "4T4Scrap R is a map for Call of Duty: Modern Warfare 2."
@@ -1110,6 +1156,10 @@
             }
         },
         "mp_4t4scrap_s": {
+            "alternatives": {
+                "mp_4t4scrap": "4T4Scrap (mp_4t4scrap)",
+                "mp_4t4scrap_r": "4T4Scrap R (mp_4t4scrap_r)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_4T4SCRAP_S",
                 "english": "4T4Scrap S is a map for Call of Duty: Modern Warfare 2."
@@ -1224,6 +1274,9 @@
             }
         },
         "mp_82ab_bazaar": {
+            "alternatives": {
+                "mp_82ab_villa": "82Ab Villa (mp_82ab_villa)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_82AB_BAZAAR",
                 "english": "82Ab Bazaar is a map for Call of Duty: Modern Warfare 2."
@@ -1281,6 +1334,9 @@
             }
         },
         "mp_82ab_villa": {
+            "alternatives": {
+                "mp_82ab_bazaar": "82Ab Bazaar (mp_82ab_bazaar)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_82AB_VILLA",
                 "english": "82Ab Villa is a map for Call of Duty: Modern Warfare 2."
@@ -1427,6 +1483,9 @@
             }
         },
         "mp_ad_bo2frost": {
+            "alternatives": {
+                "mp_bo2frost": "Bo2Frost (mp_bo2frost)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AD_BO2FROST",
                 "english": "Ad Bo2Frost is a map for Call of Duty: Modern Warfare 2."
@@ -1593,6 +1652,9 @@
             }
         },
         "mp_after_tchernobyl": {
+            "alternatives": {
+                "mp_tchernobyl": "Tchernobyl (mp_tchernobyl)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AFTER_TCHERNOBYL",
                 "english": "After Tchernobyl is a custom map."
@@ -1635,6 +1697,9 @@
             }
         },
         "mp_agx_cz": {
+            "alternatives": {
+                "mp_agx_nightmare": "Agx Nightmare (mp_agx_nightmare)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AGX_CZ",
                 "english": "Agx Cz is a map for Call of Duty: Modern Warfare 2."
@@ -1692,6 +1757,9 @@
             }
         },
         "mp_agx_nightmare": {
+            "alternatives": {
+                "mp_agx_cz": "Agx Cz (mp_agx_cz)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AGX_NIGHTMARE",
                 "english": "Agx Nightmare is a map for Call of Duty: Modern Warfare 2."
@@ -1977,6 +2045,9 @@
             }
         },
         "mp_alpha": {
+            "alternatives": {
+                "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ALPHA",
                 "english": "Alpha is a map from IW4x Call of Duty: Modern Warfare 3 DLC."
@@ -2192,6 +2263,9 @@
             }
         },
         "mp_ancient": {
+            "alternatives": {
+                "mp_ancient_ultimate": "Ancient Ultimate (mp_ancient_ultimate)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ANCIENT",
                 "english": "Ancient is a custom map."
@@ -2234,6 +2308,9 @@
             }
         },
         "mp_ancient_ultimate": {
+            "alternatives": {
+                "mp_ancient": "Ancient (mp_ancient)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ANCIENT_ULTIMATE",
                 "english": "Ancient Ultimate is a map for Call of Duty: Modern Warfare 2."
@@ -2405,6 +2482,9 @@
             }
         },
         "mp_arbor": {
+            "alternatives": {
+                "mp_arbor_day": "Arbor Day (mp_arbor_day)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARBOR",
                 "english": "Arbor is a custom map."
@@ -2447,6 +2527,9 @@
             }
         },
         "mp_arbor_day": {
+            "alternatives": {
+                "mp_arbor": "Arbor (mp_arbor)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARBOR_DAY",
                 "english": "Arbor Day is a map for Call of Duty: Modern Warfare 2."
@@ -2504,6 +2587,9 @@
             }
         },
         "mp_ardennes": {
+            "alternatives": {
+                "mp_ardennes_night": "Ardennes Night (mp_ardennes_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARDENNES",
                 "english": "Ardennes is a map for Call of Duty: Modern Warfare 2."
@@ -2561,6 +2647,9 @@
             }
         },
         "mp_ardennes_night": {
+            "alternatives": {
+                "mp_ardennes": "Ardennes (mp_ardennes)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ARDENNES_NIGHT",
                 "english": "Ardennes Night is a map for Call of Duty: Modern Warfare 2."
@@ -2903,6 +2992,9 @@
             }
         },
         "mp_asylum": {
+            "alternatives": {
+                "mp_ava_asylum": "Ava Asylum (mp_ava_asylum)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ASYLUM",
                 "english": "Asylum is a map for Call of Duty: Modern Warfare 2."
@@ -3074,6 +3166,9 @@
             }
         },
         "mp_ava_asylum": {
+            "alternatives": {
+                "mp_asylum": "Asylum (mp_asylum)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AVA_ASYLUM",
                 "english": "Ava Asylum is a map for Call of Duty: Modern Warfare 2."
@@ -3245,6 +3340,9 @@
             }
         },
         "mp_aztec": {
+            "alternatives": {
+                "mp_de_aztec": "De Aztec (mp_de_aztec)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_AZTEC",
                 "english": "Aztec is a map for Call of Duty: Modern Warfare 2."
@@ -3359,6 +3457,15 @@
             }
         },
         "mp_backlot": {
+            "alternatives": {
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BACKLOT",
                 "english": "Medium sized construction site.  Great level for any mode.",
@@ -3418,6 +3525,15 @@
             }
         },
         "mp_backlot_2": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BACKLOT_2",
                 "english": "Backlot 2 is a map for Call of Duty: Modern Warfare 2."
@@ -3475,6 +3591,15 @@
             }
         },
         "mp_backlot_lt": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BACKLOT_LT",
                 "english": "Backlot Lt is a map for Call of Duty: Modern Warfare 2."
@@ -3532,6 +3657,15 @@
             }
         },
         "mp_backlot_night": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BACKLOT_NIGHT",
                 "english": "Backlot Night is a map for Call of Duty: Modern Warfare 2."
@@ -3589,6 +3723,15 @@
             }
         },
         "mp_backlot_snow": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BACKLOT_SNOW",
                 "english": "Backlot Snow is a custom map."
@@ -3691,6 +3834,10 @@
             }
         },
         "mp_bakaara": {
+            "alternatives": {
+                "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)",
+                "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BAKAARA",
                 "english": "Bakaara is a custom map."
@@ -3966,6 +4113,9 @@
             }
         },
         "mp_bjwifi_aim": {
+            "alternatives": {
+                "mp_bjwifi_port": "Bjwifi Port (mp_bjwifi_port)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BJWIFI_AIM",
                 "english": "Bjwifi Aim is a custom map."
@@ -4011,6 +4161,9 @@
             }
         },
         "mp_bjwifi_port": {
+            "alternatives": {
+                "mp_bjwifi_aim": "Bjwifi Aim (mp_bjwifi_aim)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BJWIFI_PORT",
                 "english": "Bjwifi Port is a map for Call of Duty: Modern Warfare 2."
@@ -4068,6 +4221,9 @@
             }
         },
         "mp_bloc": {
+            "alternatives": {
+                "mp_bloc_sh": "Forgotten City (mp_bloc_sh)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BLOC",
                 "english": "Large Russian apartment bloc.  Intense Domination matches.",
@@ -4126,6 +4282,9 @@
             }
         },
         "mp_bloc_sh": {
+            "alternatives": {
+                "mp_bloc": "Bloc (mp_bloc)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FORGOTTEN_CITY",
                 "english": "Forgotten City is a map from IW4x Call of Duty: Online DLC."
@@ -4560,6 +4719,9 @@
             }
         },
         "mp_bo2frost": {
+            "alternatives": {
+                "mp_ad_bo2frost": "Ad Bo2Frost (mp_ad_bo2frost)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BO2FROST",
                 "english": "Bo2Frost is a map for Call of Duty: Modern Warfare 2."
@@ -5403,6 +5565,9 @@
             }
         },
         "mp_bo2standoff": {
+            "alternatives": {
+                "mp_bo2standoff_ex": "Bo2Standoff Ex (mp_bo2standoff_ex)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BO2STANDOFF",
                 "english": "Bo2Standoff is a map for Call of Duty: Modern Warfare 2."
@@ -5460,6 +5625,9 @@
             }
         },
         "mp_bo2standoff_ex": {
+            "alternatives": {
+                "mp_bo2standoff": "Bo2Standoff (mp_bo2standoff)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BO2STANDOFF_EX",
                 "english": "Bo2Standoff Ex is a map for Call of Duty: Modern Warfare 2."
@@ -5619,6 +5787,10 @@
             }
         },
         "mp_bog": {
+            "alternatives": {
+                "mp_bog_sh": "Bog (mp_bog_sh)",
+                "mp_cgc_bog": "Cgc Bog (mp_cgc_bog)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BOG",
                 "english": "Bog is a map for Call of Duty: Modern Warfare 2."
@@ -5676,6 +5848,10 @@
             }
         },
         "mp_bog_sh": {
+            "alternatives": {
+                "mp_bog": "Bog (mp_bog)",
+                "mp_cgc_bog": "Cgc Bog (mp_cgc_bog)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BOG",
                 "english": "Small desert bog.  Open level, excellent for smaller groups.",
@@ -5729,6 +5905,10 @@
             }
         },
         "mp_boneyard": {
+            "alternatives": {
+                "boneyard": "The Enemy of My Enemy (#16) (boneyard)",
+                "so_intel_boneyard": "Snatch & Grab (#15) (so_intel_boneyard)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SCRAPYARD",
                 "english": "Scrapyard is a map from Call of Duty: Modern Warfare 2."
@@ -6152,6 +6332,10 @@
             }
         },
         "mp_brecourt": {
+            "alternatives": {
+                "mp_brecourt_manor": "Brecourt Manor (mp_brecourt_manor)",
+                "mp_brecourt_v2": "Brecourt V2 (mp_brecourt_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BRECOURT",
                 "english": "Chernobyl in the open.  Great for snipers and long range firefights.",
@@ -6204,6 +6388,10 @@
             }
         },
         "mp_brecourt_manor": {
+            "alternatives": {
+                "mp_brecourt": "Brecourt (mp_brecourt)",
+                "mp_brecourt_v2": "Brecourt V2 (mp_brecourt_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BRECOURT_MANOR",
                 "english": "Brecourt Manor is a map for Call of Duty: Modern Warfare 2."
@@ -6261,6 +6449,10 @@
             }
         },
         "mp_brecourt_v2": {
+            "alternatives": {
+                "mp_brecourt": "Brecourt (mp_brecourt)",
+                "mp_brecourt_manor": "Brecourt Manor (mp_brecourt_manor)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BRECOURT_V2",
                 "english": "Brecourt V2 is a map for Call of Duty: Modern Warfare 2."
@@ -6318,6 +6510,11 @@
             }
         },
         "mp_bridge": {
+            "alternatives": {
+                "so_bridge": "Bridge (so_bridge)",
+                "so_crossing_so_bridge": "Suspension (#5) (so_crossing_so_bridge)",
+                "so_demo_so_bridge": "Wreckage (#17) (so_demo_so_bridge)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BRIDGE",
                 "english": "Bridge is a map for Call of Duty: Modern Warfare 2."
@@ -6588,6 +6785,9 @@
             }
         },
         "mp_burg": {
+            "alternatives": {
+                "mp_burg_b1": "Burg B1 (mp_burg_b1)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BURG",
                 "english": "Burg is a custom map."
@@ -6630,6 +6830,9 @@
             }
         },
         "mp_burg_b1": {
+            "alternatives": {
+                "mp_burg": "Burg (mp_burg)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_BURG_B1",
                 "english": "Burg B1 is a map for Call of Duty: Modern Warfare 2."
@@ -6900,6 +7103,9 @@
             }
         },
         "mp_carentan": {
+            "alternatives": {
+                "mp_carentan_2": "Carentan 2 (mp_carentan_2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CHINATOWN",
                 "english": "Chinatown is a custom map."
@@ -7004,6 +7210,9 @@
             }
         },
         "mp_carentan_2": {
+            "alternatives": {
+                "mp_carentan": "Chinatown (mp_carentan)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CARENTAN_2",
                 "english": "Carentan 2 is a custom map."
@@ -7049,6 +7258,9 @@
             }
         },
         "mp_cargoship": {
+            "alternatives": {
+                "mp_cargoship_sh": "Freighter (mp_cargoship_sh)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WET_WORK",
                 "english": "Wet Work is a map from IW4x Call of Duty: Online DLC."
@@ -7102,6 +7314,9 @@
             }
         },
         "mp_cargoship_sh": {
+            "alternatives": {
+                "mp_cargoship": "Wet Work (mp_cargoship)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FREIGHTER",
                 "english": "Freighter is a map from IW4x Call of Duty: Online DLC."
@@ -7149,6 +7364,11 @@
             }
         },
         "mp_castle": {
+            "alternatives": {
+                "mp_castle_v1": "Castle V1 (mp_castle_v1)",
+                "mp_waw_castle": "Waw Castle (mp_waw_castle)",
+                "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CASTLE",
                 "english": "Castle is a map for Call of Duty: Modern Warfare 2."
@@ -7206,6 +7426,11 @@
             }
         },
         "mp_castle_v1": {
+            "alternatives": {
+                "mp_castle": "Castle (mp_castle)",
+                "mp_waw_castle": "Waw Castle (mp_waw_castle)",
+                "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CASTLE_V1",
                 "english": "Castle V1 is a map for Call of Duty: Modern Warfare 2."
@@ -7305,6 +7530,10 @@
             }
         },
         "mp_cgc_bog": {
+            "alternatives": {
+                "mp_bog": "Bog (mp_bog)",
+                "mp_bog_sh": "Bog (mp_bog_sh)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CGC_BOG",
                 "english": "Cgc Bog is a map for Call of Duty: Modern Warfare 2."
@@ -7804,6 +8033,11 @@
             }
         },
         "mp_cod4_assault": {
+            "alternatives": {
+                "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_COD4_ASSAULT",
                 "english": "Cod4 Assault is a map for Call of Duty: Modern Warfare 2."
@@ -8237,6 +8471,10 @@
             }
         },
         "mp_crash": {
+            "alternatives": {
+                "mp_crash_snow": "Winter Crash (mp_crash_snow)",
+                "mp_crash_tropical": "Crash: Tropical (mp_crash_tropical)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CRASH",
                 "english": "Downed Sea Knight in a desert town.  Fantastic team games.",
@@ -8352,6 +8590,10 @@
             }
         },
         "mp_crash_snow": {
+            "alternatives": {
+                "mp_crash": "Crash (mp_crash)",
+                "mp_crash_tropical": "Crash: Tropical (mp_crash_tropical)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WINTER_CRASH",
                 "english": "Winter Crash is a custom map."
@@ -8399,6 +8641,10 @@
             }
         },
         "mp_crash_tropical": {
+            "alternatives": {
+                "mp_crash": "Crash (mp_crash)",
+                "mp_crash_snow": "Winter Crash (mp_crash_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CRASH:_TROPICAL",
                 "english": "Crash: Tropical is a map from IW4x Call of Duty: Online DLC."
@@ -8993,6 +9239,9 @@
             }
         },
         "mp_de_aztec": {
+            "alternatives": {
+                "mp_aztec": "Aztec (mp_aztec)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DE_AZTEC",
                 "english": "De Aztec is a map for Call of Duty: Modern Warfare 2."
@@ -9216,6 +9465,9 @@
             }
         },
         "mp_desfarm": {
+            "alternatives": {
+                "mp_desfarm_night": "Desfarm Night (mp_desfarm_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DESFARM",
                 "english": "Desfarm is a map for Call of Duty: Modern Warfare 2."
@@ -9273,6 +9525,9 @@
             }
         },
         "mp_desfarm_night": {
+            "alternatives": {
+                "mp_desfarm": "Desfarm (mp_desfarm)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DESFARM_NIGHT",
                 "english": "Desfarm Night is a map for Call of Duty: Modern Warfare 2."
@@ -9444,6 +9699,9 @@
             }
         },
         "mp_docks": {
+            "alternatives": {
+                "mp_docks_n": "Docks N (mp_docks_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DOCKS",
                 "english": "Docks is a map for Call of Duty: Modern Warfare 2."
@@ -9501,6 +9759,9 @@
             }
         },
         "mp_docks_n": {
+            "alternatives": {
+                "mp_docks": "Docks (mp_docks)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DOCKS_N",
                 "english": "Docks N is a map for Call of Duty: Modern Warfare 2."
@@ -9558,6 +9819,9 @@
             }
         },
         "mp_dome": {
+            "alternatives": {
+                "mp_dome_v2": "Dome V2 (mp_dome_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DOME",
                 "english": "Small outpost in the desert. Fast and frantic action."
@@ -9605,6 +9869,9 @@
             }
         },
         "mp_dome_v2": {
+            "alternatives": {
+                "mp_dome": "Dome (mp_dome)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DOME_V2",
                 "english": "Dome V2 is a map for Call of Duty: Modern Warfare 2."
@@ -9890,6 +10157,9 @@
             }
         },
         "mp_dust2": {
+            "alternatives": {
+                "mp_dust2_classic": "Dust2 Classic (mp_dust2_classic)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DUST2",
                 "english": "Dust2 is a custom map."
@@ -9935,6 +10205,9 @@
             }
         },
         "mp_dust2_classic": {
+            "alternatives": {
+                "mp_dust2": "Dust2 (mp_dust2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_DUST2_CLASSIC",
                 "english": "Dust2 Classic is a map for Call of Duty: Modern Warfare 2."
@@ -10163,6 +10436,12 @@
             }
         },
         "mp_estate": {
+            "alternatives": {
+                "estate": "Loose Ends (#15) (estate)",
+                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE",
                 "english": "Cabin in the woods.  Fight for control of the cabin.",
@@ -10215,6 +10494,12 @@
             }
         },
         "mp_estate_tropical": {
+            "alternatives": {
+                "estate": "Loose Ends (#15) (estate)",
+                "mp_estate": "Estate (mp_estate)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ESTATE:_TROPICAL",
                 "english": "Estate: Tropical is a map from IW4x Call of Duty: Online DLC."
@@ -10319,6 +10604,9 @@
             }
         },
         "mp_fallen": {
+            "alternatives": {
+                "mp_fallen_n": "Fallen N (mp_fallen_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FALLEN",
                 "english": "Fallen is a map for Call of Duty: Modern Warfare 2."
@@ -10376,6 +10664,9 @@
             }
         },
         "mp_fallen_n": {
+            "alternatives": {
+                "mp_fallen": "Fallen (mp_fallen)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FALLEN_N",
                 "english": "Fallen N is a map for Call of Duty: Modern Warfare 2."
@@ -10543,6 +10834,9 @@
             }
         },
         "mp_fav": {
+            "alternatives": {
+                "mp_fav_tropical": "Favela: Tropical (mp_fav_tropical)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAV",
                 "english": "Fav is a map for Call of Duty: Modern Warfare 2."
@@ -10600,6 +10894,9 @@
             }
         },
         "mp_fav_tropical": {
+            "alternatives": {
+                "mp_fav": "Fav (mp_fav)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA:_TROPICAL",
                 "english": "Favela: Tropical is a map from IW4x Call of Duty: Online DLC."
@@ -10647,6 +10944,15 @@
             }
         },
         "mp_favela": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FAVELA",
                 "english": "Alleyways of Brazil.  Great for all game modes and all sizes.",
@@ -10699,6 +11005,9 @@
             }
         },
         "mp_firingrange": {
+            "alternatives": {
+                "mp_firingrange_v2": "Firingrange V2 (mp_firingrange_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FIRING_RANGE",
                 "english": "Firing Range is a map from IW4x Call of Duty: Online DLC."
@@ -10752,6 +11061,9 @@
             }
         },
         "mp_firingrange_v2": {
+            "alternatives": {
+                "mp_firingrange": "Firing Range (mp_firingrange)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_FIRINGRANGE_V2",
                 "english": "Firingrange V2 is a map for Call of Duty: Modern Warfare 2."
@@ -11369,6 +11681,9 @@
             }
         },
         "mp_gob_aim_snow": {
+            "alternatives": {
+                "mp_gob_aim_v2": "Gob Aim V2 (mp_gob_aim_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_GOB_AIM_SNOW",
                 "english": "Gob Aim Snow is a map for Call of Duty: Modern Warfare 2."
@@ -11426,6 +11741,9 @@
             }
         },
         "mp_gob_aim_v2": {
+            "alternatives": {
+                "mp_gob_aim_snow": "Gob Aim Snow (mp_gob_aim_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_GOB_AIM_V2",
                 "english": "Gob Aim V2 is a map for Call of Duty: Modern Warfare 2."
@@ -11597,6 +11915,11 @@
             }
         },
         "mp_hardhat": {
+            "alternatives": {
+                "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
+                "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+                "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_HARDHAT",
                 "english": "A small construction site. Fast paced, close quarter action."
@@ -11644,6 +11967,11 @@
             }
         },
         "mp_hardhat_v2": {
+            "alternatives": {
+                "mp_hardhat": "Hardhat (mp_hardhat)",
+                "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
+                "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_HARDHAT_V2",
                 "english": "Hardhat V2 is a map for Call of Duty: Modern Warfare 2."
@@ -12380,6 +12708,9 @@
             }
         },
         "mp_iclan": {
+            "alternatives": {
+                "mp_iclan_night": "Iclan Night (mp_iclan_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ICLAN",
                 "english": "Iclan is a map for Call of Duty: Modern Warfare 2."
@@ -12437,6 +12768,9 @@
             }
         },
         "mp_iclan_night": {
+            "alternatives": {
+                "mp_iclan": "Iclan (mp_iclan)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ICLAN_NIGHT",
                 "english": "Iclan Night is a map for Call of Duty: Modern Warfare 2."
@@ -12722,6 +13056,14 @@
             }
         },
         "mp_invasion": {
+            "alternatives": {
+                "invasion": "Wolverines! (#6) (invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_INVASION",
                 "english": "City in the desert.  Classic street to street firefights.",
@@ -13790,6 +14132,9 @@
             }
         },
         "mp_lagoa_rain": {
+            "alternatives": {
+                "mp_lagoa_snow": "Lagoa Snow (mp_lagoa_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_LAGOA_RAIN",
                 "english": "Lagoa Rain is a map for Call of Duty: Modern Warfare 2."
@@ -13847,6 +14192,9 @@
             }
         },
         "mp_lagoa_snow": {
+            "alternatives": {
+                "mp_lagoa_rain": "Lagoa Rain (mp_lagoa_rain)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_LAGOA_SNOW",
                 "english": "Lagoa Snow is a map for Call of Duty: Modern Warfare 2."
@@ -14447,6 +14795,9 @@
             }
         },
         "mp_makin": {
+            "alternatives": {
+                "mp_makin_day": "Makin Day (mp_makin_day)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MAKIN",
                 "english": "Makin is a map for Call of Duty: Modern Warfare 2."
@@ -14504,6 +14855,9 @@
             }
         },
         "mp_makin_day": {
+            "alternatives": {
+                "mp_makin": "Makin (mp_makin)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MAKIN_DAY",
                 "english": "Makin Day is a map for Call of Duty: Modern Warfare 2."
@@ -14903,6 +15257,18 @@
             }
         },
         "mp_modern_rust": {
+            "alternatives": {
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MODERN_RUST",
                 "english": "Modern Rust is a map for Call of Duty: Modern Warfare 2."
@@ -15245,6 +15611,20 @@
             }
         },
         "mp_mw2_quarry": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_QUARRY",
                 "english": "Mw2 Quarry is a map for Call of Duty: Modern Warfare 2."
@@ -15302,6 +15682,20 @@
             }
         },
         "mp_mw2_quarry_night": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_QUARRY_NIGHT",
                 "english": "Mw2 Quarry Night is a map for Call of Duty: Modern Warfare 2."
@@ -15359,6 +15753,20 @@
             }
         },
         "mp_mw2_rust": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_RUST",
                 "english": "Mw2 Rust is a map for Call of Duty: Modern Warfare 2."
@@ -15416,6 +15824,20 @@
             }
         },
         "mp_mw2_rust_night": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_RUST_NIGHT",
                 "english": "Mw2 Rust Night is a map for Call of Duty: Modern Warfare 2."
@@ -15473,6 +15895,20 @@
             }
         },
         "mp_mw2_term": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_TERM",
                 "english": "Mw2 Term is a map for Call of Duty: Modern Warfare 2."
@@ -15530,6 +15966,20 @@
             }
         },
         "mp_mw2_underpass": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_UNDERPASS",
                 "english": "Mw2 Underpass is a map for Call of Duty: Modern Warfare 2."
@@ -15587,6 +16037,20 @@
             }
         },
         "mp_mw2_underpass_night": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_quarry": "Quarry (mp_quarry)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)",
+                "mp_underpass": "Underpass (mp_underpass)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW2_UNDERPASS_NIGHT",
                 "english": "Mw2 Underpass Night is a map for Call of Duty: Modern Warfare 2."
@@ -15644,6 +16108,9 @@
             }
         },
         "mp_mw3_alpha": {
+            "alternatives": {
+                "mp_alpha": "Alpha (mp_alpha)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW3_ALPHA",
                 "english": "Mw3 Alpha is a map for Call of Duty: Modern Warfare 2."
@@ -15701,6 +16168,11 @@
             }
         },
         "mp_mw3_hardhat": {
+            "alternatives": {
+                "mp_hardhat": "Hardhat (mp_hardhat)",
+                "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
+                "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW3_HARDHAT",
                 "english": "Mw3 Hardhat is a map for Call of Duty: Modern Warfare 2."
@@ -15758,6 +16230,11 @@
             }
         },
         "mp_mw3_hardhat_night": {
+            "alternatives": {
+                "mp_hardhat": "Hardhat (mp_hardhat)",
+                "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
+                "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_MW3_HARDHAT_NIGHT",
                 "english": "Mw3 Hardhat Night is a map for Call of Duty: Modern Warfare 2."
@@ -16100,6 +16577,9 @@
             }
         },
         "mp_naout": {
+            "alternatives": {
+                "mp_naout_n": "Naout N (mp_naout_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NAOUT",
                 "english": "Naout is a map for Call of Duty: Modern Warfare 2."
@@ -16157,6 +16637,9 @@
             }
         },
         "mp_naout_n": {
+            "alternatives": {
+                "mp_naout": "Naout (mp_naout)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NAOUT_N",
                 "english": "Naout N is a map for Call of Duty: Modern Warfare 2."
@@ -16271,6 +16754,15 @@
             }
         },
         "mp_ngbc": {
+            "alternatives": {
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NGBC",
                 "english": "Ngbc is a map for Call of Duty: Modern Warfare 2."
@@ -16328,6 +16820,15 @@
             }
         },
         "mp_ngbc_day": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NGBC_DAY",
                 "english": "Ngbc Day is a map for Call of Duty: Modern Warfare 2."
@@ -16385,6 +16886,15 @@
             }
         },
         "mp_ngbc_shipment": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NGBC_SHIPMENT",
                 "english": "Ngbc Shipment is a map for Call of Duty: Modern Warfare 2."
@@ -16442,6 +16952,15 @@
             }
         },
         "mp_ngbc_shipmentw": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NGBC_SHIPMENTW",
                 "english": "Ngbc Shipmentw is a map for Call of Duty: Modern Warfare 2."
@@ -16665,6 +17184,9 @@
             }
         },
         "mp_nuked": {
+            "alternatives": {
+                "mp_nuked_shaders": "Nuked Shaders (mp_nuked_shaders)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NUKETOWN",
                 "english": "Nuketown is a map from IW4x Call of Duty: Online DLC."
@@ -16712,6 +17234,9 @@
             }
         },
         "mp_nuked_shaders": {
+            "alternatives": {
+                "mp_nuked": "Nuketown (mp_nuked)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_NUKED_SHADERS",
                 "english": "Nuked Shaders is a map for Call of Duty: Modern Warfare 2."
@@ -17039,6 +17564,15 @@
             }
         },
         "mp_osg_backlot": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_BACKLOT",
                 "english": "Osg Backlot is a map for Call of Duty: Modern Warfare 2."
@@ -17096,6 +17630,15 @@
             }
         },
         "mp_osg_backlot_n": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_s": "Osg Backlot S (mp_osg_backlot_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_BACKLOT_N",
                 "english": "Osg Backlot N is a map for Call of Duty: Modern Warfare 2."
@@ -17153,6 +17696,15 @@
             }
         },
         "mp_osg_backlot_s": {
+            "alternatives": {
+                "mp_backlot": "Backlot (mp_backlot)",
+                "mp_backlot_2": "Backlot 2 (mp_backlot_2)",
+                "mp_backlot_lt": "Backlot Lt (mp_backlot_lt)",
+                "mp_backlot_night": "Backlot Night (mp_backlot_night)",
+                "mp_backlot_snow": "Backlot Snow (mp_backlot_snow)",
+                "mp_osg_backlot": "Osg Backlot (mp_osg_backlot)",
+                "mp_osg_backlot_n": "Osg Backlot N (mp_osg_backlot_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_BACKLOT_S",
                 "english": "Osg Backlot S is a map for Call of Duty: Modern Warfare 2."
@@ -17495,6 +18047,9 @@
             }
         },
         "mp_osg_mirage": {
+            "alternatives": {
+                "mp_osg_mirage_n": "Osg Mirage N (mp_osg_mirage_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_MIRAGE",
                 "english": "Osg Mirage is a map for Call of Duty: Modern Warfare 2."
@@ -17552,6 +18107,9 @@
             }
         },
         "mp_osg_mirage_n": {
+            "alternatives": {
+                "mp_osg_mirage": "Osg Mirage (mp_osg_mirage)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_MIRAGE_N",
                 "english": "Osg Mirage N is a map for Call of Duty: Modern Warfare 2."
@@ -17609,6 +18167,9 @@
             }
         },
         "mp_osg_raid": {
+            "alternatives": {
+                "mp_osg_raid_d": "Osg Raid D (mp_osg_raid_d)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_RAID",
                 "english": "Osg Raid is a map for Call of Duty: Modern Warfare 2."
@@ -17666,6 +18227,9 @@
             }
         },
         "mp_osg_raid_d": {
+            "alternatives": {
+                "mp_osg_raid": "Osg Raid (mp_osg_raid)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_RAID_D",
                 "english": "Osg Raid D is a map for Call of Duty: Modern Warfare 2."
@@ -17894,6 +18458,18 @@
             }
         },
         "mp_osg_tropical_rust": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_rust": "Rust (mp_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_TROPICAL_RUST",
                 "english": "Osg Tropical Rust is a map for Call of Duty: Modern Warfare 2."
@@ -17951,6 +18527,9 @@
             }
         },
         "mp_osg_yemen": {
+            "alternatives": {
+                "mp_osg_yemen_n": "Osg Yemen N (mp_osg_yemen_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_YEMEN",
                 "english": "Osg Yemen is a map for Call of Duty: Modern Warfare 2."
@@ -18008,6 +18587,9 @@
             }
         },
         "mp_osg_yemen_n": {
+            "alternatives": {
+                "mp_osg_yemen": "Osg Yemen (mp_osg_yemen)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OSG_YEMEN_N",
                 "english": "Osg Yemen N is a map for Call of Duty: Modern Warfare 2."
@@ -18674,6 +19256,9 @@
             }
         },
         "mp_poolday": {
+            "alternatives": {
+                "mp_poolday_reunion": "Poolday Reunion (mp_poolday_reunion)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_POOLDAY",
                 "english": "Poolday is a map for Call of Duty: Modern Warfare 2."
@@ -18731,6 +19316,9 @@
             }
         },
         "mp_poolday_reunion": {
+            "alternatives": {
+                "mp_poolday": "Poolday (mp_poolday)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_POOLDAY_REUNION",
                 "english": "Poolday Reunion is a map for Call of Duty: Modern Warfare 2."
@@ -19130,6 +19718,9 @@
             }
         },
         "mp_psycho": {
+            "alternatives": {
+                "mp_psycho_day": "Psycho Day (mp_psycho_day)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_PSYCHO",
                 "english": "Psycho is a map for Call of Duty: Modern Warfare 2."
@@ -19187,6 +19778,9 @@
             }
         },
         "mp_psycho_day": {
+            "alternatives": {
+                "mp_psycho": "Psycho (mp_psycho)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_PSYCHO_DAY",
                 "english": "Psycho Day is a map for Call of Duty: Modern Warfare 2."
@@ -19301,6 +19895,15 @@
             }
         },
         "mp_quarry": {
+            "alternatives": {
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_QUARRY",
                 "english": "Medium-sized quarry.  Intense Capture the Flag matches.",
@@ -19353,6 +19956,10 @@
             }
         },
         "mp_rasalem": {
+            "alternatives": {
+                "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)",
+                "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_RASALEM",
                 "english": "Rasalem is a map for Call of Duty: Modern Warfare 2."
@@ -19923,6 +20530,9 @@
             }
         },
         "mp_roof": {
+            "alternatives": {
+                "mp_roof_n": "Roof N (mp_roof_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ROOF",
                 "english": "Roof is a map for Call of Duty: Modern Warfare 2."
@@ -19980,6 +20590,9 @@
             }
         },
         "mp_roof_n": {
+            "alternatives": {
+                "mp_roof": "Roof (mp_roof)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ROOF_N",
                 "english": "Roof N is a map for Call of Duty: Modern Warfare 2."
@@ -20094,6 +20707,9 @@
             }
         },
         "mp_roundup": {
+            "alternatives": {
+                "mp_roundup_day": "Roundup Day (mp_roundup_day)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ROUNDUP",
                 "english": "Roundup is a map for Call of Duty: Modern Warfare 2."
@@ -20151,6 +20767,9 @@
             }
         },
         "mp_roundup_day": {
+            "alternatives": {
+                "mp_roundup": "Roundup (mp_roundup)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_ROUNDUP_DAY",
                 "english": "Roundup Day is a map for Call of Duty: Modern Warfare 2."
@@ -20317,6 +20936,18 @@
             }
         },
         "mp_rust": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_rust_long": "Rust: Long (mp_rust_long)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_RUST",
                 "english": "Tiny desert sandstorm.  Fast-paced action on a small map.",
@@ -20369,6 +21000,18 @@
             }
         },
         "mp_rust_long": {
+            "alternatives": {
+                "mp_modern_rust": "Modern Rust (mp_modern_rust)",
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)",
+                "mp_osg_tropical_rust": "Osg Tropical Rust (mp_osg_tropical_rust)",
+                "mp_rust": "Rust (mp_rust)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_RUST:_LONG",
                 "english": "Rust: Long is a map from IW4x Call of Duty: Online DLC."
@@ -20587,6 +21230,10 @@
             }
         },
         "mp_seatown": {
+            "alternatives": {
+                "mp_seatown_snow": "Seatown Snow (mp_seatown_snow)",
+                "mp_seatown_v2": "Seatown V2 (mp_seatown_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SEATOWN",
                 "english": "A coastal town.  Narrow streets bring hectic, close encounters."
@@ -20634,6 +21281,10 @@
             }
         },
         "mp_seatown_snow": {
+            "alternatives": {
+                "mp_seatown": "Seatown (mp_seatown)",
+                "mp_seatown_v2": "Seatown V2 (mp_seatown_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SEATOWN_SNOW",
                 "english": "Seatown Snow is a map for Call of Duty: Modern Warfare 2."
@@ -20691,6 +21342,10 @@
             }
         },
         "mp_seatown_v2": {
+            "alternatives": {
+                "mp_seatown": "Seatown (mp_seatown)",
+                "mp_seatown_snow": "Seatown Snow (mp_seatown_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SEATOWN_V2",
                 "english": "Seatown V2 is a map for Call of Duty: Modern Warfare 2."
@@ -20919,6 +21574,15 @@
             }
         },
         "mp_shipment": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SHIPMENT",
                 "english": "Tiny Russian shipyard.  Fast paced action with no hiding.",
@@ -21035,6 +21699,15 @@
             }
         },
         "mp_shipment_island": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SHIPMENT_ISLAND",
                 "english": "Shipment Island is a map for Call of Duty: Modern Warfare 2."
@@ -21092,6 +21765,15 @@
             }
         },
         "mp_shipment_long": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_snow": "Shipment Snow (mp_shipment_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SHIPMENT:_LONG",
                 "english": "Shipment: Long is a map from IW4x Call of Duty: Online DLC."
@@ -21139,6 +21821,15 @@
             }
         },
         "mp_shipment_snow": {
+            "alternatives": {
+                "mp_ngbc": "Ngbc (mp_ngbc)",
+                "mp_ngbc_day": "Ngbc Day (mp_ngbc_day)",
+                "mp_ngbc_shipment": "Ngbc Shipment (mp_ngbc_shipment)",
+                "mp_ngbc_shipmentw": "Ngbc Shipmentw (mp_ngbc_shipmentw)",
+                "mp_shipment": "Shipment (mp_shipment)",
+                "mp_shipment_island": "Shipment Island (mp_shipment_island)",
+                "mp_shipment_long": "Shipment: Long (mp_shipment_long)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SHIPMENT_SNOW",
                 "english": "Shipment Snow is a map for Call of Duty: Modern Warfare 2."
@@ -21653,6 +22344,10 @@
             }
         },
         "mp_storm": {
+            "alternatives": {
+                "mp_storm_b": "Storm B (mp_storm_b)",
+                "mp_storm_spring": "Chemical Plant (mp_storm_spring)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STORM",
                 "english": "Storm is a map from Stimulus DLC."
@@ -21700,6 +22395,10 @@
             }
         },
         "mp_storm_b": {
+            "alternatives": {
+                "mp_storm": "Storm (mp_storm)",
+                "mp_storm_spring": "Chemical Plant (mp_storm_spring)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STORM_B",
                 "english": "Storm B is a map for Call of Duty: Modern Warfare 2."
@@ -21757,6 +22456,10 @@
             }
         },
         "mp_storm_spring": {
+            "alternatives": {
+                "mp_storm": "Storm (mp_storm)",
+                "mp_storm_b": "Storm B (mp_storm_b)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_CHEMICAL_PLANT",
                 "english": "Chemical Plant is a map from IW4x Call of Duty: Online DLC."
@@ -21849,6 +22552,10 @@
             }
         },
         "mp_strike": {
+            "alternatives": {
+                "mp_strike_2": "Strike 2 (mp_strike_2)",
+                "mp_strike_at_karkand_v2": "Strike At Karkand V2 (mp_strike_at_karkand_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRIKE",
                 "english": "Large urban desert town.  Excellent team games.",
@@ -21908,6 +22615,10 @@
             }
         },
         "mp_strike_2": {
+            "alternatives": {
+                "mp_strike": "Strike (mp_strike)",
+                "mp_strike_at_karkand_v2": "Strike At Karkand V2 (mp_strike_at_karkand_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRIKE_2",
                 "english": "Strike 2 is a map for Call of Duty: Modern Warfare 2."
@@ -21965,6 +22676,10 @@
             }
         },
         "mp_strike_at_karkand_v2": {
+            "alternatives": {
+                "mp_strike": "Strike (mp_strike)",
+                "mp_strike_2": "Strike 2 (mp_strike_2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRIKE_AT_KARKAND_V2",
                 "english": "Strike At Karkand V2 is a map for Call of Duty: Modern Warfare 2."
@@ -22022,6 +22737,10 @@
             }
         },
         "mp_struggle": {
+            "alternatives": {
+                "mp_struggle_dawn": "Struggle Dawn (mp_struggle_dawn)",
+                "mp_struggle_night": "Struggle Night (mp_struggle_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRUGGLE",
                 "english": "Struggle is a map for Call of Duty: Modern Warfare 2."
@@ -22079,6 +22798,10 @@
             }
         },
         "mp_struggle_dawn": {
+            "alternatives": {
+                "mp_struggle": "Struggle (mp_struggle)",
+                "mp_struggle_night": "Struggle Night (mp_struggle_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRUGGLE_DAWN",
                 "english": "Struggle Dawn is a map for Call of Duty: Modern Warfare 2."
@@ -22136,6 +22859,10 @@
             }
         },
         "mp_struggle_night": {
+            "alternatives": {
+                "mp_struggle": "Struggle (mp_struggle)",
+                "mp_struggle_dawn": "Struggle Dawn (mp_struggle_dawn)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_STRUGGLE_NIGHT",
                 "english": "Struggle Night is a map for Call of Duty: Modern Warfare 2."
@@ -22445,6 +23172,9 @@
             }
         },
         "mp_tchernobyl": {
+            "alternatives": {
+                "mp_after_tchernobyl": "After Tchernobyl (mp_after_tchernobyl)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TCHERNOBYL",
                 "english": "Tchernobyl is a map for Call of Duty: Modern Warfare 2."
@@ -22725,6 +23455,10 @@
             }
         },
         "mp_toujane": {
+            "alternatives": {
+                "mp_toujane_snow": "Toujane Snow (mp_toujane_snow)",
+                "mp_toujane_v2": "Toujane V2 (mp_toujane_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TOUJANE",
                 "english": "Toujane is a map for Call of Duty: Modern Warfare 2."
@@ -22782,6 +23516,10 @@
             }
         },
         "mp_toujane_snow": {
+            "alternatives": {
+                "mp_toujane": "Toujane (mp_toujane)",
+                "mp_toujane_v2": "Toujane V2 (mp_toujane_v2)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TOUJANE_SNOW",
                 "english": "Toujane Snow is a map for Call of Duty: Modern Warfare 2."
@@ -22839,6 +23577,10 @@
             }
         },
         "mp_toujane_v2": {
+            "alternatives": {
+                "mp_toujane": "Toujane (mp_toujane)",
+                "mp_toujane_snow": "Toujane Snow (mp_toujane_snow)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TOUJANE_V2",
                 "english": "Toujane V2 is a custom map."
@@ -23305,6 +24047,15 @@
             }
         },
         "mp_underpass": {
+            "alternatives": {
+                "mp_mw2_quarry": "Mw2 Quarry (mp_mw2_quarry)",
+                "mp_mw2_quarry_night": "Mw2 Quarry Night (mp_mw2_quarry_night)",
+                "mp_mw2_rust": "Mw2 Rust (mp_mw2_rust)",
+                "mp_mw2_rust_night": "Mw2 Rust Night (mp_mw2_rust_night)",
+                "mp_mw2_term": "Mw2 Term (mp_mw2_term)",
+                "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
+                "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_UNDERPASS",
                 "english": "Rainy underpass.  Good balance of medium to long range fighting.",
@@ -23644,6 +24395,10 @@
             }
         },
         "mp_village": {
+            "alternatives": {
+                "mp_village_night": "Village Night (mp_village_night)",
+                "mp_village_s": "Village S (mp_village_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_VILLAGE",
                 "english": "Large African village. Great for all game modes."
@@ -23691,6 +24446,10 @@
             }
         },
         "mp_village_night": {
+            "alternatives": {
+                "mp_village": "Village (mp_village)",
+                "mp_village_s": "Village S (mp_village_s)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_VILLAGE_NIGHT",
                 "english": "Village Night is a map for Call of Duty: Modern Warfare 2."
@@ -23748,6 +24507,10 @@
             }
         },
         "mp_village_s": {
+            "alternatives": {
+                "mp_village": "Village (mp_village)",
+                "mp_village_night": "Village Night (mp_village_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_VILLAGE_S",
                 "english": "Village S is a map for Call of Duty: Modern Warfare 2."
@@ -23862,6 +24625,9 @@
             }
         },
         "mp_vukovar": {
+            "alternatives": {
+                "mp_vukovar_n": "Vukovar N (mp_vukovar_n)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_VUKOVAR",
                 "english": "Vukovar is a map for Call of Duty: Modern Warfare 2."
@@ -23919,6 +24685,9 @@
             }
         },
         "mp_vukovar_n": {
+            "alternatives": {
+                "mp_vukovar": "Vukovar (mp_vukovar)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_VUKOVAR_N",
                 "english": "Vukovar N is a map for Call of Duty: Modern Warfare 2."
@@ -23976,6 +24745,9 @@
             }
         },
         "mp_warehouse": {
+            "alternatives": {
+                "mp_warehouse_13": "Warehouse 13 (mp_warehouse_13)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WAREHOUSE",
                 "english": "Warehouse is a map for Call of Duty: Modern Warfare 2."
@@ -24033,6 +24805,9 @@
             }
         },
         "mp_warehouse_13": {
+            "alternatives": {
+                "mp_warehouse": "Warehouse (mp_warehouse)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WAREHOUSE_13",
                 "english": "Warehouse 13 is a map for Call of Duty: Modern Warfare 2."
@@ -24147,6 +24922,11 @@
             }
         },
         "mp_waw_castle": {
+            "alternatives": {
+                "mp_castle": "Castle (mp_castle)",
+                "mp_castle_v1": "Castle V1 (mp_castle_v1)",
+                "mp_waw_castle_night": "Waw Castle Night (mp_waw_castle_night)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WAW_CASTLE",
                 "english": "Waw Castle is a custom map."
@@ -24192,6 +24972,11 @@
             }
         },
         "mp_waw_castle_night": {
+            "alternatives": {
+                "mp_castle": "Castle (mp_castle)",
+                "mp_castle_v1": "Castle V1 (mp_castle_v1)",
+                "mp_waw_castle": "Waw Castle (mp_waw_castle)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WAW_CASTLE_NIGHT",
                 "english": "Waw Castle Night is a map for Call of Duty: Modern Warfare 2."
@@ -24306,6 +25091,11 @@
             }
         },
         "mp_winter_bakaara": {
+            "alternatives": {
+                "mp_bakaara": "Bakaara (mp_bakaara)",
+                "mp_rasalem": "Rasalem (mp_rasalem)",
+                "mp_winter_rasalem": "Winter Rasalem (mp_winter_rasalem)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WINTER_BAKAARA",
                 "english": "Winter Bakaara is a map for Call of Duty: Modern Warfare 2."
@@ -24363,6 +25153,11 @@
             }
         },
         "mp_winter_rasalem": {
+            "alternatives": {
+                "mp_bakaara": "Bakaara (mp_bakaara)",
+                "mp_rasalem": "Rasalem (mp_rasalem)",
+                "mp_winter_bakaara": "Winter Bakaara (mp_winter_bakaara)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_WINTER_RASALEM",
                 "english": "Winter Rasalem is a map for Call of Duty: Modern Warfare 2."
@@ -24591,6 +25386,12 @@
             }
         },
         "oilrig": {
+            "alternatives": {
+                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
+                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_OILRIG",
                 "english": "Board the oilrig, rescue the hostages, and clear the route to the gulag."
@@ -24612,7 +25413,6 @@
                     "filename": "compass_oilrig.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 2)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -24647,7 +25447,6 @@
                     "filename": "compass_roadkill.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
@@ -24661,6 +25460,9 @@
             }
         },
         "so_ac130_co_hunted": {
+            "alternatives": {
+                "co_hunted": "Village (co_hunted)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_AC130_CO_HUNTED",
                 "english": "Rain death from above using an AC-130 gunship to protect your partner."
@@ -24703,6 +25505,12 @@
             }
         },
         "so_assault_oilrig": {
+            "alternatives": {
+                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
+                "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_ASSAULT_OILRIG",
                 "english": "Breach and clear two deadly rooms full of enemies and hostages to capture the oil rig."
@@ -24746,8 +25554,9 @@
         },
         "so_bridge": {
             "alternatives": {
-                "so_crossing_so_bridge": "Spec Ops Alpha: Suspension (#5)",
-                "so_demo_so_bridge": "Spec Ops Delta: Wreckage (#17)"
+                "mp_bridge": "Bridge (mp_bridge)",
+                "so_crossing_so_bridge": "Suspension (#5) (so_crossing_so_bridge)",
+                "so_demo_so_bridge": "Wreckage (#17) (so_demo_so_bridge)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_BRIDGE",
@@ -24793,6 +25602,14 @@
             }
         },
         "so_chopper_invasion": {
+            "alternatives": {
+                "invasion": "Wolverines! (#6) (invasion)",
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_CHOPPER_INVASION",
                 "english": "Explosive ammunition, Vulcan Minigun, Blackhawk Helicopter. Clear the way."
@@ -24835,6 +25652,11 @@
             }
         },
         "so_crossing_so_bridge": {
+            "alternatives": {
+                "mp_bridge": "Bridge (mp_bridge)",
+                "so_bridge": "Bridge (so_bridge)",
+                "so_demo_so_bridge": "Wreckage (#17) (so_demo_so_bridge)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_CROSSING_SO_BRIDGE",
                 "english": "Push through the invading forces on the bridge to reach the safe zone."
@@ -24877,6 +25699,14 @@
             }
         },
         "so_defense_invasion": {
+            "alternatives": {
+                "invasion": "Wolverines! (#6) (invasion)",
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEFENSE_INVASION",
                 "english": "Sentry guns, Thermal sights, Rocket launchers and Claymores. Defend yourself from five difficult waves of attackers."
@@ -24919,6 +25749,15 @@
             }
         },
         "so_defuse_favela_escape": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "mp_favela": "Favela (mp_favela)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEFUSE_FAVELA_ESCAPE",
                 "english": "Race through the Favela marketplace defusing the explosives before it's too late."
@@ -24961,6 +25800,11 @@
             }
         },
         "so_demo_so_bridge": {
+            "alternatives": {
+                "mp_bridge": "Bridge (mp_bridge)",
+                "so_bridge": "Bridge (so_bridge)",
+                "so_crossing_so_bridge": "Suspension (#5) (so_crossing_so_bridge)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DEMO_SO_BRIDGE",
                 "english": "Use C4, grenade launchers, RPGs, sentry guns, semtex and more to destroy every vehicle on the bridge."
@@ -25003,6 +25847,9 @@
             }
         },
         "so_download_arcadia": {
+            "alternatives": {
+                "arcadia": "Exodus (#8) (arcadia)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_DOWNLOAD_ARCADIA",
                 "english": "Laze targets for the Stryker armored vehicle. Battle in the 'burbs house to house, room to room."
@@ -25045,6 +25892,9 @@
             }
         },
         "so_escape_airport": {
+            "alternatives": {
+                "airport": "No Russian (#4) (airport)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_ESCAPE_AIRPORT",
                 "english": "Clear the airport of enemies. Use explosives to take down enemy vehicles and structures."
@@ -25087,6 +25937,10 @@
             }
         },
         "so_forest_contingency": {
+            "alternatives": {
+                "contingency": "Contingency (#12) (contingency)",
+                "so_rooftop_contingency": "Sniper Fi (#2) (so_rooftop_contingency)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_FOREST_CONTINGENCY",
                 "english": "Use silenced sniper rifles and cunning to slip past the enemy patrols."
@@ -25130,7 +25984,7 @@
         },
         "so_ghillies": {
             "alternatives": {
-                "so_hidden_so_ghillies": "Spec Ops Charlie: Hidden (#11)"
+                "so_hidden_so_ghillies": "Hidden (#11) (so_hidden_so_ghillies)"
             },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_GHILLIES",
@@ -25179,6 +26033,9 @@
             }
         },
         "so_hidden_so_ghillies": {
+            "alternatives": {
+                "so_ghillies": "So Ghillies (so_ghillies)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_HIDDEN_SO_GHILLIES",
                 "english": "Evade enemy patrols and Ghillie Snipers near Chernobyl."
@@ -25221,6 +26078,10 @@
             }
         },
         "so_intel_boneyard": {
+            "alternatives": {
+                "boneyard": "The Enemy of My Enemy (#16) (boneyard)",
+                "mp_boneyard": "Scrapyard (mp_boneyard)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_INTEL_BONEYARD",
                 "english": "Battle Shadow Company and Juggernauts in the airplane graveyard. Grab the intel and escape to the extraction point."
@@ -25263,6 +26124,15 @@
             }
         },
         "so_juggernauts_favela": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "mp_favela": "Favela (mp_favela)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_JUGGERNAUTS_FAVELA",
                 "english": "Kill all ten Juggernauts using only explosives and a knife."
@@ -25305,6 +26175,20 @@
             }
         },
         "so_killspree_favela": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "invasion": "Wolverines! (#6) (invasion)",
+                "mp_favela": "Favela (mp_favela)",
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
+                "trainer": "S.S.D.D. (#1) (trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_KILLSPREE_FAVELA",
                 "english": "Hunt down and eliminate the Favela gang. Minimize Civilian casualties."
@@ -25347,6 +26231,20 @@
             }
         },
         "so_killspree_invasion": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "invasion": "Wolverines! (#6) (invasion)",
+                "mp_favela": "Favela (mp_favela)",
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)",
+                "trainer": "S.S.D.D. (#1) (trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_KILLSPREE_INVASION",
                 "english": "Rack up a large enough body count. Quick kills earn larger bonuses."
@@ -25389,6 +26287,20 @@
             }
         },
         "so_killspree_trainer": {
+            "alternatives": {
+                "favela": "Takedown (#5) (favela)",
+                "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
+                "invasion": "Wolverines! (#6) (invasion)",
+                "mp_favela": "Favela (mp_favela)",
+                "mp_invasion": "Invasion (mp_invasion)",
+                "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
+                "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
+                "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
+                "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "trainer": "S.S.D.D. (#1) (trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_KILLSPREE_TRAINER",
                 "english": "Clear all of the enemy targets as fast as possible. Shooting civilians will prevent you from getting 3 stars."
@@ -25431,6 +26343,10 @@
             }
         },
         "so_rooftop_contingency": {
+            "alternatives": {
+                "contingency": "Contingency (#12) (contingency)",
+                "so_forest_contingency": "Evasion (#4) (so_forest_contingency)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_ROOFTOP_CONTINGENCY",
                 "english": "Use sniper rifles, claymores and Predator Drones to hold off waves of enemies."
@@ -25473,6 +26389,11 @@
             }
         },
         "so_sabotage_cliffhanger": {
+            "alternatives": {
+                "cliffhanger": "Cliffhanger (#3) (cliffhanger)",
+                "so_snowrace1_cliffhanger": "Race (#9) (so_snowrace1_cliffhanger)",
+                "so_snowrace2_cliffhanger": "Time Trial (#13) (so_snowrace2_cliffhanger)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_SABOTAGE_CLIFFHANGER",
                 "english": "Navigate through the blizzard to reach the extraction point. Snowmobiles and dog sleds are your best friends."
@@ -25515,6 +26436,9 @@
             }
         },
         "so_showers_gulag": {
+            "alternatives": {
+                "gulag": "The Gulag (#10) (gulag)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_SHOWERS_GULAG",
                 "english": "Smash through enemy defenses in the Gulag and escape."
@@ -25557,6 +26481,11 @@
             }
         },
         "so_snowrace1_cliffhanger": {
+            "alternatives": {
+                "cliffhanger": "Cliffhanger (#3) (cliffhanger)",
+                "so_sabotage_cliffhanger": "Blizzard (#18) (so_sabotage_cliffhanger)",
+                "so_snowrace2_cliffhanger": "Time Trial (#13) (so_snowrace2_cliffhanger)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_SNOWRACE1_CLIFFHANGER",
                 "english": "Speed your snowmobile down the mountain, dodging trees, rocks, and thousand foot drops."
@@ -25599,6 +26528,11 @@
             }
         },
         "so_snowrace2_cliffhanger": {
+            "alternatives": {
+                "cliffhanger": "Cliffhanger (#3) (cliffhanger)",
+                "so_sabotage_cliffhanger": "Blizzard (#18) (so_sabotage_cliffhanger)",
+                "so_snowrace1_cliffhanger": "Race (#9) (so_snowrace1_cliffhanger)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_SNOWRACE2_CLIFFHANGER",
                 "english": "Launch your snowmobile across the chasm before time runs out. Hit the flag gates to get extra time."
@@ -25641,6 +26575,14 @@
             }
         },
         "so_takeover_estate": {
+            "alternatives": {
+                "estate": "Loose Ends (#15) (estate)",
+                "mp_estate": "Estate (mp_estate)",
+                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+                "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+                "so_takeover_oilrig": "Armor Piercing (#23) (so_takeover_oilrig)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_TAKEOVER_ESTATE",
                 "english": "Infiltrate the estate, taking out the guards and securing the hostages. Use stealth to avoid detection."
@@ -25683,6 +26625,15 @@
             }
         },
         "so_takeover_oilrig": {
+            "alternatives": {
+                "estate": "Loose Ends (#15) (estate)",
+                "mp_cod4_assault": "Cod4 Assault (mp_cod4_assault)",
+                "mp_estate": "Estate (mp_estate)",
+                "mp_estate_tropical": "Estate: Tropical (mp_estate_tropical)",
+                "oilrig": "The Only Easy Day... Was Yesterday (#9) (oilrig)",
+                "so_assault_oilrig": "Wetwork (#21) (so_assault_oilrig)",
+                "so_takeover_estate": "Estate (#20) (so_takeover_estate)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_SO_TAKEOVER_OILRIG",
                 "english": "Kill all fifteen Juggernauts on the oil rig."
@@ -25725,6 +26676,11 @@
             }
         },
         "trainer": {
+            "alternatives": {
+                "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)",
+                "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)",
+                "so_killspree_trainer": "The Pit (#1) (so_killspree_trainer)"
+            },
             "description": {
                 "_key": "MPUI_DESC_MAP_TRAINER",
                 "english": "Demonstrate proper fire control for the local trainees."
@@ -25746,7 +26702,6 @@
                     "filename": "compass_trainer.png"
                 }
             },
-            "preview": {},
             "source": {
                 "name": "Singleplayer (Act 1)",
                 "url": "https://minopia.de/iw4/maps/?sources=Singleplayer"
