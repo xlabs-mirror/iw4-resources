@@ -35,11 +35,12 @@
     },
     {
         "favela": "Takedown (#5) (favela)",
-        "favela_escape": "The Hornet\u00e2\u20ac\u2122s Nest (#7) (favela_escape)",
-        "mp_favela": "Favela (mp_favela)",
-        "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)",
         "so_juggernauts_favela": "Slow-mo Breach (#22) (so_juggernauts_favela)",
         "so_killspree_favela": "O Cristo Redentor (#3) (so_killspree_favela)"
+    },
+    {
+        "favela_escape": "The Hornet's Nest (#7) (favela_escape)",
+        "so_defuse_favela_escape": "Bomb Squad (#8) (so_defuse_favela_escape)"
     },
     {
         "gulag": "The Gulag (#10) (gulag)",
@@ -47,7 +48,6 @@
     },
     {
         "invasion": "Wolverines! (#6) (invasion)",
-        "mp_invasion": "Invasion (mp_invasion)",
         "so_chopper_invasion": "Big Brother (#10) (so_chopper_invasion)",
         "so_defense_invasion": "Homeland Security (#14) (so_defense_invasion)",
         "so_killspree_invasion": "Body Count (#7) (so_killspree_invasion)"
