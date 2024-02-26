@@ -74,8 +74,8 @@
         "mp_agx_nightmare": "Agx Nightmare (mp_agx_nightmare)"
     },
     {
-        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
-        "mp_alpha": "Alpha (mp_alpha)"
+        "mp_alpha": "Alpha (mp_alpha)",
+        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)"
     },
     {
         "mp_ancient": "Ancient (mp_ancient)",
@@ -200,9 +200,9 @@
     },
     {
         "mp_hardhat": "Hardhat (mp_hardhat)",
+        "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
         "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
-        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
-        "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)"
+        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
     },
     {
         "mp_iclan": "Iclan (mp_iclan)",
@@ -265,30 +265,6 @@
         "mp_mw2_underpass": "Mw2 Underpass (mp_mw2_underpass)",
         "mp_underpass": "Underpass (mp_underpass)",
         "mp_mw2_underpass_night": "Mw2 Underpass Night (mp_mw2_underpass_night)"
-    },
-    {
-        "mp_alpha": "Alpha (mp_alpha)",
-        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
-        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
-        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
-        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)",
-        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)"
-    },
-    {
-        "mp_hardhat": "Hardhat (mp_hardhat)",
-        "mp_hardhat_v2": "Hardhat V2 (mp_hardhat_v2)",
-        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
-        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
-        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
-        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)",
-        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)"
-    },
-    {
-        "mp_mw3_alpha": "Mw3 Alpha (mp_mw3_alpha)",
-        "mp_mw3_hardhat": "Mw3 Hardhat (mp_mw3_hardhat)",
-        "mp_mw3_hardhat_night": "Mw3 Hardhat Night (mp_mw3_hardhat_night)",
-        "mp_mw3_lookout": "Mw3 Lookout (mp_mw3_lookout)",
-        "mp_mw3_vortex": "Mw3 Vortex (mp_mw3_vortex)"
     },
     {
         "mp_naout": "Naout (mp_naout)",

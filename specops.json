@@ -352,7 +352,7 @@
                 "classification": "Assault",
                 "estimated_time": "5:00.00",
                 "iw_best_time": "03:10.30",
-                "mapname": "?"
+                "mapname": "so_assault_oilrig"
             },
             {
                 "index": 22,
@@ -366,7 +366,7 @@
                 "classification": "Elimination",
                 "estimated_time": "6:00.00",
                 "iw_best_time": "02:47.70",
-                "mapname": "?"
+                "mapname": "so_juggernauts_favela"
             },
             {
                 "index": 23,
@@ -380,7 +380,7 @@
                 "classification": "Elimination",
                 "estimated_time": "7:00.00",
                 "iw_best_time": "04:12.25",
-                "mapname": "?"
+                "mapname": "so_takeover_oilrig"
             }
         ]
     }
